@@ -18,8 +18,10 @@ testing$County <- as.factor(testing$County)
 names(testing) <- make_clean_names(names(testing))
 
 testing <- testing %>%
-  mutate(test_date = as_date(test_date),
-         pct_pos_today = new_positives / total_number_of_tests_performed)
+  mutate(test_date = mdy(test_date),
+         pct_pos_today = if_else((new_positives > 0 & total_number_of_tests_performed > 0),
+                                 new_positives / total_number_of_tests_performed, 0)
+         )
 
 
 str(nyc_covid)
@@ -30,12 +32,43 @@ nassau <- testing %>%
   filter(county == "Nassau")
 
 nassau %>% 
-ggplot(aes(x = test_date, y = new_positives)) +
+  ggplot(aes(x = test_date, y = new_positives)) +
   geom_col()
 
 nassau %>% 
   ggplot(aes(x = test_date, y = total_number_of_tests_performed)) +
   geom_col()
 
+nassau %>% 
+  ggplot(aes(x = test_date, y = pct_pos_today)) +
+  geom_col()
 
 
+
+testing %>% filter(county == "Queens") %>%
+  ggplot(aes(x = test_date, y = new_positives)) +
+  geom_col()
+
+testing %>% filter(county == "Suffolk") %>%
+  ggplot(aes(x = test_date, y = new_positives)) +
+  geom_col()
+
+testing %>% filter(county == "Kings") %>%
+  ggplot(aes(x = test_date, y = new_positives)) +
+  geom_col()
+
+testing %>% filter(county == "New York") %>%
+  ggplot(aes(x = test_date, y = new_positives)) +
+  geom_col()
+
+testing %>% filter(county == "Bronx") %>%
+  ggplot(aes(x = test_date, y = new_positives)) +
+  geom_col()
+
+testing %>% filter(county == "Richmond") %>%
+  ggplot(aes(x = test_date, y = new_positives)) +
+  geom_col()
+
+testing %>% filter(county == "Westchester") %>%
+  ggplot(aes(x = test_date, y = new_positives)) +
+  geom_col()
