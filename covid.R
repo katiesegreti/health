@@ -6,6 +6,7 @@ library(lubridate)
 library(stringr)
 library(janitor)
 library(ggthemes)
+library(zoo)
 
 testing <- read_csv("https://raw.githubusercontent.com/katiesegreti/health/master/New_York_State_Statewide_COVID-19_Testing.csv")
 nyc_covid <- read_csv("https://raw.githubusercontent.com/katiesegreti/health/master/COVID-19_Daily_Counts_of_Cases__Hospitalizations__and_Deaths.csv")
@@ -21,9 +22,14 @@ names(testing) <- make_clean_names(names(testing))
 testing <- testing %>%
   mutate(test_date = mdy(test_date),
          pct_pos_today = if_else((new_positives > 0 & total_number_of_tests_performed > 0),
-                                 new_positives / total_number_of_tests_performed, 0)
+                                 new_positives / total_number_of_tests_performed, 0)#,
+         #roll7 = rollmean(new_positives, 7, fill = NA)
          )
 
+
+#add rolling average column
+#No! I need to do the rolling average just for each county, so after it's filtered
+#testing$roll7 <- rollmean(testing$new_positives, 7, fill = NA)
 
 str(nyc_covid)
 str(testing)
@@ -76,6 +82,7 @@ nassau %>%
 testing %>% filter(county == "Nassau") %>%
   ggplot(aes(x = test_date, y = new_positives)) +
   geom_col(fill = "magenta", width = 0.8) +
+  geom_line(aes(y = rollmean(new_positives, 7, fill = NA)), color = "midnightblue", size = 1.3) +
   counties_theme +
   labs(
     x = "",
@@ -173,8 +180,3 @@ testing %>% filter(county == "Rockland") %>%
     title = "Positive COVID-19 Tests By Day",
     subtitle = "Rockland County, NY"
   )
-
-
-testing %>% filter(county == "Westchester") %>%
-  ggplot(aes(x = test_date, y = new_positives)) +
-  geom_col()
