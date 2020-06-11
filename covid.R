@@ -22,8 +22,7 @@ names(testing) <- make_clean_names(names(testing))
 testing <- testing %>%
   mutate(test_date = mdy(test_date),
          pct_pos_today = if_else((new_positives > 0 & total_number_of_tests_performed > 0),
-                                 new_positives / total_number_of_tests_performed, 0)#,
-         #roll7 = rollmean(new_positives, 7, fill = NA)
+                                 new_positives / total_number_of_tests_performed, 0)
          )
 
 
@@ -96,6 +95,7 @@ testing %>% filter(county == "Nassau") %>%
 testing %>% filter(county == "Queens") %>%
   ggplot(aes(x = test_date, y = new_positives)) +
   geom_col(fill = "magenta", width = 0.8) +
+  geom_line(aes(y = rollmean(new_positives, 7, fill = NA)), color = "midnightblue", size = 1.3) +
   counties_theme +
   labs(
     x = "",
@@ -107,6 +107,7 @@ testing %>% filter(county == "Queens") %>%
 testing %>% filter(county == "Suffolk") %>%
   ggplot(aes(x = test_date, y = new_positives)) +
   geom_col(fill = "magenta", width = 0.8) +
+  geom_line(aes(y = rollmean(new_positives, 7, fill = NA)), color = "midnightblue", size = 1.3) +
   counties_theme +
   labs(
     x = "",
@@ -118,6 +119,7 @@ testing %>% filter(county == "Suffolk") %>%
 testing %>% filter(county == "Kings") %>%
   ggplot(aes(x = test_date, y = new_positives)) +
   geom_col(fill = "magenta", width = 0.8) +
+  geom_line(aes(y = rollmean(new_positives, 7, fill = NA)), color = "midnightblue", size = 1.3) +
   counties_theme +
   labs(
     x = "",
@@ -129,6 +131,7 @@ testing %>% filter(county == "Kings") %>%
 testing %>% filter(county == "New York") %>%
   ggplot(aes(x = test_date, y = new_positives)) +
   geom_col(fill = "magenta", width = 0.8) +
+  geom_line(aes(y = rollmean(new_positives, 7, fill = NA)), color = "midnightblue", size = 1.3) +
   counties_theme +
   labs(
     x = "",
@@ -140,6 +143,7 @@ testing %>% filter(county == "New York") %>%
 testing %>% filter(county == "Bronx") %>%
   ggplot(aes(x = test_date, y = new_positives)) +
   geom_col(fill = "magenta", width = 0.8) +
+  geom_line(aes(y = rollmean(new_positives, 7, fill = NA)), color = "midnightblue", size = 1.3) +
   counties_theme +
   labs(
     x = "",
@@ -151,6 +155,7 @@ testing %>% filter(county == "Bronx") %>%
 testing %>% filter(county == "Richmond") %>%
   ggplot(aes(x = test_date, y = new_positives)) +
   geom_col(fill = "magenta", width = 0.8) +
+  geom_line(aes(y = rollmean(new_positives, 7, fill = NA)), color = "midnightblue", size = 1.3) +
   counties_theme +
   labs(
     x = "",
@@ -162,6 +167,7 @@ testing %>% filter(county == "Richmond") %>%
 testing %>% filter(county == "Westchester") %>%
   ggplot(aes(x = test_date, y = new_positives)) +
   geom_col(fill = "magenta", width = 0.8) +
+  geom_line(aes(y = rollmean(new_positives, 7, fill = NA)), color = "midnightblue", size = 1.3) +
   counties_theme +
   labs(
     x = "",
@@ -173,6 +179,7 @@ testing %>% filter(county == "Westchester") %>%
 testing %>% filter(county == "Rockland") %>%
   ggplot(aes(x = test_date, y = new_positives)) +
   geom_col(fill = "magenta", width = 0.8) +
+  geom_line(aes(y = rollmean(new_positives, 7, fill = NA)), color = "midnightblue", size = 1.3) +
   counties_theme +
   labs(
     x = "",
