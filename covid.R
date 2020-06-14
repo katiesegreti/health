@@ -187,3 +187,24 @@ testing %>% filter(county == "Rockland") %>%
     title = "Positive COVID-19 Tests By Day",
     subtitle = "Rockland County, NY"
   )
+
+#stacked bar charts
+
+testing_wide <- testing %>%
+  select(test_date, county, new_positives, total_number_of_tests_performed) %>%
+  mutate(new_negatives = total_number_of_tests_performed - new_positives) %>%
+  select(test_date, county, positive = new_positives, negative = new_negatives)
+
+testing_long <- testing_wide %>%
+  pivot_longer(
+    cols = c(positive, negative),
+    names_to = "result"
+  )
+testing_long %>%
+  ggplot(aes(x = test_date, y = value, fill = result)) +
+  geom_col() 
+
+testing_long %>%
+  filter(county == "Nassau") %>%
+  ggplot(aes(x = test_date, y = value, fill = result)) +
+  geom_col() 
