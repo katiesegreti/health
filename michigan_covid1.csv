@@ -117,11 +117,13 @@ Alcona,6/23/2020,2020-06-23,0,Alcona
 Alcona,6/24/2020,2020-06-24,0,Alcona
 Alcona,6/25/2020,2020-06-25,0,Alcona
 Alcona,6/26/2020,2020-06-26,0,Alcona
-Alcona,6/27/2020,2020-06-27,0,Alcona
+Alcona,6/27/2020,2020-06-27,1,Alcona
 Alcona,6/28/2020,2020-06-28,0,Alcona
 Alcona,6/29/2020,2020-06-29,0,Alcona
 Alcona,6/30/2020,2020-06-30,0,Alcona
 Alcona,7/1/2020,2020-07-01,0,Alcona
+Alcona,7/2/2020,2020-07-02,0,Alcona
+Alcona,7/3/2020,2020-07-03,0,Alcona
 Alger,3/1/2020,2020-03-01,0,Alger
 Alger,3/2/2020,2020-03-02,0,Alger
 Alger,3/3/2020,2020-03-03,0,Alger
@@ -240,11 +242,13 @@ Alger,6/23/2020,2020-06-23,0,Alger
 Alger,6/24/2020,2020-06-24,0,Alger
 Alger,6/25/2020,2020-06-25,1,Alger
 Alger,6/26/2020,2020-06-26,0,Alger
-Alger,6/27/2020,2020-06-27,0,Alger
+Alger,6/27/2020,2020-06-27,1,Alger
 Alger,6/28/2020,2020-06-28,0,Alger
 Alger,6/29/2020,2020-06-29,0,Alger
 Alger,6/30/2020,2020-06-30,0,Alger
-Alger,7/1/2020,2020-07-01,1,Alger
+Alger,7/1/2020,2020-07-01,0,Alger
+Alger,7/2/2020,2020-07-02,0,Alger
+Alger,7/3/2020,2020-07-03,0,Alger
 Allegan,3/1/2020,2020-03-01,0,Allegan
 Allegan,3/2/2020,2020-03-02,0,Allegan
 Allegan,3/3/2020,2020-03-03,0,Allegan
@@ -360,14 +364,16 @@ Allegan,6/20/2020,2020-06-20,0,Allegan
 Allegan,6/21/2020,2020-06-21,1,Allegan
 Allegan,6/22/2020,2020-06-22,1,Allegan
 Allegan,6/23/2020,2020-06-23,4,Allegan
-Allegan,6/24/2020,2020-06-24,2,Allegan
-Allegan,6/25/2020,2020-06-25,4,Allegan
+Allegan,6/24/2020,2020-06-24,4,Allegan
+Allegan,6/25/2020,2020-06-25,3,Allegan
 Allegan,6/26/2020,2020-06-26,1,Allegan
-Allegan,6/27/2020,2020-06-27,0,Allegan
-Allegan,6/28/2020,2020-06-28,1,Allegan
-Allegan,6/29/2020,2020-06-29,1,Allegan
+Allegan,6/27/2020,2020-06-27,1,Allegan
+Allegan,6/28/2020,2020-06-28,3,Allegan
+Allegan,6/29/2020,2020-06-29,3,Allegan
 Allegan,6/30/2020,2020-06-30,1,Allegan
-Allegan,7/1/2020,2020-07-01,0,Allegan
+Allegan,7/1/2020,2020-07-01,5,Allegan
+Allegan,7/2/2020,2020-07-02,0,Allegan
+Allegan,7/3/2020,2020-07-03,0,Allegan
 Alpena,3/1/2020,2020-03-01,0,Alpena
 Alpena,3/2/2020,2020-03-02,0,Alpena
 Alpena,3/3/2020,2020-03-03,0,Alpena
@@ -478,19 +484,21 @@ Alpena,6/15/2020,2020-06-15,0,Alpena
 Alpena,6/16/2020,2020-06-16,0,Alpena
 Alpena,6/17/2020,2020-06-17,0,Alpena
 Alpena,6/18/2020,2020-06-18,0,Alpena
-Alpena,6/19/2020,2020-06-19,1,Alpena
+Alpena,6/19/2020,2020-06-19,2,Alpena
 Alpena,6/20/2020,2020-06-20,0,Alpena
 Alpena,6/21/2020,2020-06-21,0,Alpena
 Alpena,6/22/2020,2020-06-22,1,Alpena
-Alpena,6/23/2020,2020-06-23,1,Alpena
+Alpena,6/23/2020,2020-06-23,2,Alpena
 Alpena,6/24/2020,2020-06-24,0,Alpena
 Alpena,6/25/2020,2020-06-25,1,Alpena
-Alpena,6/26/2020,2020-06-26,3,Alpena
+Alpena,6/26/2020,2020-06-26,2,Alpena
 Alpena,6/27/2020,2020-06-27,0,Alpena
 Alpena,6/28/2020,2020-06-28,0,Alpena
 Alpena,6/29/2020,2020-06-29,0,Alpena
 Alpena,6/30/2020,2020-06-30,0,Alpena
 Alpena,7/1/2020,2020-07-01,0,Alpena
+Alpena,7/2/2020,2020-07-02,0,Alpena
+Alpena,7/3/2020,2020-07-03,0,Alpena
 Antrim,3/1/2020,2020-03-01,0,Antrim
 Antrim,3/2/2020,2020-03-02,0,Antrim
 Antrim,3/3/2020,2020-03-03,0,Antrim
@@ -611,9 +619,11 @@ Antrim,6/25/2020,2020-06-25,1,Antrim
 Antrim,6/26/2020,2020-06-26,0,Antrim
 Antrim,6/27/2020,2020-06-27,0,Antrim
 Antrim,6/28/2020,2020-06-28,0,Antrim
-Antrim,6/29/2020,2020-06-29,0,Antrim
+Antrim,6/29/2020,2020-06-29,1,Antrim
 Antrim,6/30/2020,2020-06-30,0,Antrim
-Antrim,7/1/2020,2020-07-01,0,Antrim
+Antrim,7/1/2020,2020-07-01,1,Antrim
+Antrim,7/2/2020,2020-07-02,0,Antrim
+Antrim,7/3/2020,2020-07-03,0,Antrim
 Arenac,3/1/2020,2020-03-01,0,Arenac
 Arenac,3/2/2020,2020-03-02,0,Arenac
 Arenac,3/3/2020,2020-03-03,0,Arenac
@@ -733,10 +743,12 @@ Arenac,6/24/2020,2020-06-24,0,Arenac
 Arenac,6/25/2020,2020-06-25,0,Arenac
 Arenac,6/26/2020,2020-06-26,0,Arenac
 Arenac,6/27/2020,2020-06-27,0,Arenac
-Arenac,6/28/2020,2020-06-28,1,Arenac
+Arenac,6/28/2020,2020-06-28,0,Arenac
 Arenac,6/29/2020,2020-06-29,0,Arenac
 Arenac,6/30/2020,2020-06-30,0,Arenac
 Arenac,7/1/2020,2020-07-01,0,Arenac
+Arenac,7/2/2020,2020-07-02,0,Arenac
+Arenac,7/3/2020,2020-07-03,0,Arenac
 Baraga,3/1/2020,2020-03-01,0,Baraga
 Baraga,3/2/2020,2020-03-02,0,Baraga
 Baraga,3/3/2020,2020-03-03,0,Baraga
@@ -860,6 +872,8 @@ Baraga,6/28/2020,2020-06-28,0,Baraga
 Baraga,6/29/2020,2020-06-29,0,Baraga
 Baraga,6/30/2020,2020-06-30,0,Baraga
 Baraga,7/1/2020,2020-07-01,0,Baraga
+Baraga,7/2/2020,2020-07-02,0,Baraga
+Baraga,7/3/2020,2020-07-03,0,Baraga
 Barry,3/1/2020,2020-03-01,0,Barry
 Barry,3/2/2020,2020-03-02,0,Barry
 Barry,3/3/2020,2020-03-03,0,Barry
@@ -961,7 +975,7 @@ Barry,6/6/2020,2020-06-06,0,Barry
 Barry,6/7/2020,2020-06-07,0,Barry
 Barry,6/8/2020,2020-06-08,1,Barry
 Barry,6/9/2020,2020-06-09,1,Barry
-Barry,6/10/2020,2020-06-10,1,Barry
+Barry,6/10/2020,2020-06-10,0,Barry
 Barry,6/11/2020,2020-06-11,0,Barry
 Barry,6/12/2020,2020-06-12,0,Barry
 Barry,6/13/2020,2020-06-13,0,Barry
@@ -976,13 +990,15 @@ Barry,6/21/2020,2020-06-21,0,Barry
 Barry,6/22/2020,2020-06-22,0,Barry
 Barry,6/23/2020,2020-06-23,0,Barry
 Barry,6/24/2020,2020-06-24,0,Barry
-Barry,6/25/2020,2020-06-25,1,Barry
+Barry,6/25/2020,2020-06-25,2,Barry
 Barry,6/26/2020,2020-06-26,2,Barry
-Barry,6/27/2020,2020-06-27,1,Barry
-Barry,6/28/2020,2020-06-28,2,Barry
-Barry,6/29/2020,2020-06-29,1,Barry
-Barry,6/30/2020,2020-06-30,0,Barry
-Barry,7/1/2020,2020-07-01,0,Barry
+Barry,6/27/2020,2020-06-27,3,Barry
+Barry,6/28/2020,2020-06-28,3,Barry
+Barry,6/29/2020,2020-06-29,0,Barry
+Barry,6/30/2020,2020-06-30,1,Barry
+Barry,7/1/2020,2020-07-01,2,Barry
+Barry,7/2/2020,2020-07-02,0,Barry
+Barry,7/3/2020,2020-07-03,0,Barry
 Bay,3/1/2020,2020-03-01,0,Bay
 Bay,3/2/2020,2020-03-02,0,Bay
 Bay,3/3/2020,2020-03-03,0,Bay
@@ -1040,7 +1056,7 @@ Bay,4/23/2020,2020-04-23,7,Bay
 Bay,4/24/2020,2020-04-24,11,Bay
 Bay,4/25/2020,2020-04-25,6,Bay
 Bay,4/26/2020,2020-04-26,1,Bay
-Bay,4/27/2020,2020-04-27,7,Bay
+Bay,4/27/2020,2020-04-27,8,Bay
 Bay,4/28/2020,2020-04-28,3,Bay
 Bay,4/29/2020,2020-04-29,8,Bay
 Bay,4/30/2020,2020-04-30,4,Bay
@@ -1048,7 +1064,7 @@ Bay,5/1/2020,2020-05-01,12,Bay
 Bay,5/2/2020,2020-05-02,5,Bay
 Bay,5/3/2020,2020-05-03,5,Bay
 Bay,5/4/2020,2020-05-04,10,Bay
-Bay,5/5/2020,2020-05-05,8,Bay
+Bay,5/5/2020,2020-05-05,7,Bay
 Bay,5/6/2020,2020-05-06,3,Bay
 Bay,5/7/2020,2020-05-07,5,Bay
 Bay,5/8/2020,2020-05-08,13,Bay
@@ -1098,14 +1114,16 @@ Bay,6/20/2020,2020-06-20,0,Bay
 Bay,6/21/2020,2020-06-21,1,Bay
 Bay,6/22/2020,2020-06-22,2,Bay
 Bay,6/23/2020,2020-06-23,1,Bay
-Bay,6/24/2020,2020-06-24,2,Bay
-Bay,6/25/2020,2020-06-25,2,Bay
+Bay,6/24/2020,2020-06-24,3,Bay
+Bay,6/25/2020,2020-06-25,3,Bay
 Bay,6/26/2020,2020-06-26,0,Bay
 Bay,6/27/2020,2020-06-27,1,Bay
-Bay,6/28/2020,2020-06-28,0,Bay
-Bay,6/29/2020,2020-06-29,1,Bay
-Bay,6/30/2020,2020-06-30,0,Bay
+Bay,6/28/2020,2020-06-28,2,Bay
+Bay,6/29/2020,2020-06-29,3,Bay
+Bay,6/30/2020,2020-06-30,2,Bay
 Bay,7/1/2020,2020-07-01,0,Bay
+Bay,7/2/2020,2020-07-02,1,Bay
+Bay,7/3/2020,2020-07-03,0,Bay
 Benzie,3/1/2020,2020-03-01,0,Benzie
 Benzie,3/2/2020,2020-03-02,0,Benzie
 Benzie,3/3/2020,2020-03-03,0,Benzie
@@ -1229,6 +1247,8 @@ Benzie,6/28/2020,2020-06-28,0,Benzie
 Benzie,6/29/2020,2020-06-29,1,Benzie
 Benzie,6/30/2020,2020-06-30,0,Benzie
 Benzie,7/1/2020,2020-07-01,0,Benzie
+Benzie,7/2/2020,2020-07-02,0,Benzie
+Benzie,7/3/2020,2020-07-03,0,Benzie
 Berrien,3/1/2020,2020-03-01,0,Berrien
 Berrien,3/2/2020,2020-03-02,0,Berrien
 Berrien,3/3/2020,2020-03-03,0,Berrien
@@ -1333,25 +1353,27 @@ Berrien,6/9/2020,2020-06-09,5,Berrien
 Berrien,6/10/2020,2020-06-10,4,Berrien
 Berrien,6/11/2020,2020-06-11,2,Berrien
 Berrien,6/12/2020,2020-06-12,3,Berrien
-Berrien,6/13/2020,2020-06-13,7,Berrien
+Berrien,6/13/2020,2020-06-13,6,Berrien
 Berrien,6/14/2020,2020-06-14,1,Berrien
 Berrien,6/15/2020,2020-06-15,2,Berrien
 Berrien,6/16/2020,2020-06-16,4,Berrien
-Berrien,6/17/2020,2020-06-17,6,Berrien
+Berrien,6/17/2020,2020-06-17,3,Berrien
 Berrien,6/18/2020,2020-06-18,3,Berrien
 Berrien,6/19/2020,2020-06-19,2,Berrien
 Berrien,6/20/2020,2020-06-20,2,Berrien
-Berrien,6/21/2020,2020-06-21,2,Berrien
+Berrien,6/21/2020,2020-06-21,3,Berrien
 Berrien,6/22/2020,2020-06-22,4,Berrien
 Berrien,6/23/2020,2020-06-23,4,Berrien
-Berrien,6/24/2020,2020-06-24,4,Berrien
-Berrien,6/25/2020,2020-06-25,3,Berrien
-Berrien,6/26/2020,2020-06-26,5,Berrien
-Berrien,6/27/2020,2020-06-27,4,Berrien
-Berrien,6/28/2020,2020-06-28,2,Berrien
-Berrien,6/29/2020,2020-06-29,7,Berrien
+Berrien,6/24/2020,2020-06-24,5,Berrien
+Berrien,6/25/2020,2020-06-25,8,Berrien
+Berrien,6/26/2020,2020-06-26,6,Berrien
+Berrien,6/27/2020,2020-06-27,7,Berrien
+Berrien,6/28/2020,2020-06-28,3,Berrien
+Berrien,6/29/2020,2020-06-29,1,Berrien
 Berrien,6/30/2020,2020-06-30,5,Berrien
 Berrien,7/1/2020,2020-07-01,0,Berrien
+Berrien,7/2/2020,2020-07-02,5,Berrien
+Berrien,7/3/2020,2020-07-03,0,Berrien
 Branch,3/1/2020,2020-03-01,0,Branch
 Branch,3/2/2020,2020-03-02,0,Branch
 Branch,3/3/2020,2020-03-03,0,Branch
@@ -1466,15 +1488,17 @@ Branch,6/19/2020,2020-06-19,0,Branch
 Branch,6/20/2020,2020-06-20,0,Branch
 Branch,6/21/2020,2020-06-21,0,Branch
 Branch,6/22/2020,2020-06-22,1,Branch
-Branch,6/23/2020,2020-06-23,3,Branch
+Branch,6/23/2020,2020-06-23,4,Branch
 Branch,6/24/2020,2020-06-24,1,Branch
 Branch,6/25/2020,2020-06-25,1,Branch
-Branch,6/26/2020,2020-06-26,0,Branch
-Branch,6/27/2020,2020-06-27,1,Branch
+Branch,6/26/2020,2020-06-26,1,Branch
+Branch,6/27/2020,2020-06-27,0,Branch
 Branch,6/28/2020,2020-06-28,0,Branch
 Branch,6/29/2020,2020-06-29,0,Branch
 Branch,6/30/2020,2020-06-30,0,Branch
 Branch,7/1/2020,2020-07-01,0,Branch
+Branch,7/2/2020,2020-07-02,2,Branch
+Branch,7/3/2020,2020-07-03,0,Branch
 Calhoun,3/1/2020,2020-03-01,0,Calhoun
 Calhoun,3/2/2020,2020-03-02,0,Calhoun
 Calhoun,3/3/2020,2020-03-03,0,Calhoun
@@ -1492,7 +1516,7 @@ Calhoun,3/14/2020,2020-03-14,1,Calhoun
 Calhoun,3/15/2020,2020-03-15,1,Calhoun
 Calhoun,3/16/2020,2020-03-16,2,Calhoun
 Calhoun,3/17/2020,2020-03-17,0,Calhoun
-Calhoun,3/18/2020,2020-03-18,2,Calhoun
+Calhoun,3/18/2020,2020-03-18,1,Calhoun
 Calhoun,3/19/2020,2020-03-19,2,Calhoun
 Calhoun,3/20/2020,2020-03-20,4,Calhoun
 Calhoun,3/21/2020,2020-03-21,2,Calhoun
@@ -1577,27 +1601,29 @@ Calhoun,6/7/2020,2020-06-07,4,Calhoun
 Calhoun,6/8/2020,2020-06-08,4,Calhoun
 Calhoun,6/9/2020,2020-06-09,4,Calhoun
 Calhoun,6/10/2020,2020-06-10,1,Calhoun
-Calhoun,6/11/2020,2020-06-11,1,Calhoun
+Calhoun,6/11/2020,2020-06-11,2,Calhoun
 Calhoun,6/12/2020,2020-06-12,3,Calhoun
 Calhoun,6/13/2020,2020-06-13,1,Calhoun
 Calhoun,6/14/2020,2020-06-14,2,Calhoun
 Calhoun,6/15/2020,2020-06-15,5,Calhoun
-Calhoun,6/16/2020,2020-06-16,3,Calhoun
+Calhoun,6/16/2020,2020-06-16,4,Calhoun
 Calhoun,6/17/2020,2020-06-17,4,Calhoun
 Calhoun,6/18/2020,2020-06-18,4,Calhoun
 Calhoun,6/19/2020,2020-06-19,2,Calhoun
 Calhoun,6/20/2020,2020-06-20,1,Calhoun
 Calhoun,6/21/2020,2020-06-21,2,Calhoun
 Calhoun,6/22/2020,2020-06-22,3,Calhoun
-Calhoun,6/23/2020,2020-06-23,10,Calhoun
+Calhoun,6/23/2020,2020-06-23,9,Calhoun
 Calhoun,6/24/2020,2020-06-24,3,Calhoun
 Calhoun,6/25/2020,2020-06-25,2,Calhoun
-Calhoun,6/26/2020,2020-06-26,1,Calhoun
-Calhoun,6/27/2020,2020-06-27,1,Calhoun
-Calhoun,6/28/2020,2020-06-28,1,Calhoun
-Calhoun,6/29/2020,2020-06-29,1,Calhoun
-Calhoun,6/30/2020,2020-06-30,1,Calhoun
-Calhoun,7/1/2020,2020-07-01,0,Calhoun
+Calhoun,6/26/2020,2020-06-26,2,Calhoun
+Calhoun,6/27/2020,2020-06-27,2,Calhoun
+Calhoun,6/28/2020,2020-06-28,2,Calhoun
+Calhoun,6/29/2020,2020-06-29,5,Calhoun
+Calhoun,6/30/2020,2020-06-30,3,Calhoun
+Calhoun,7/1/2020,2020-07-01,1,Calhoun
+Calhoun,7/2/2020,2020-07-02,5,Calhoun
+Calhoun,7/3/2020,2020-07-03,3,Calhoun
 Cass,3/1/2020,2020-03-01,0,Cass
 Cass,3/2/2020,2020-03-02,0,Cass
 Cass,3/3/2020,2020-03-03,0,Cass
@@ -1712,15 +1738,17 @@ Cass,6/19/2020,2020-06-19,1,Cass
 Cass,6/20/2020,2020-06-20,1,Cass
 Cass,6/21/2020,2020-06-21,3,Cass
 Cass,6/22/2020,2020-06-22,1,Cass
-Cass,6/23/2020,2020-06-23,4,Cass
+Cass,6/23/2020,2020-06-23,7,Cass
 Cass,6/24/2020,2020-06-24,3,Cass
-Cass,6/25/2020,2020-06-25,1,Cass
-Cass,6/26/2020,2020-06-26,2,Cass
-Cass,6/27/2020,2020-06-27,0,Cass
-Cass,6/28/2020,2020-06-28,1,Cass
-Cass,6/29/2020,2020-06-29,3,Cass
+Cass,6/25/2020,2020-06-25,4,Cass
+Cass,6/26/2020,2020-06-26,3,Cass
+Cass,6/27/2020,2020-06-27,1,Cass
+Cass,6/28/2020,2020-06-28,0,Cass
+Cass,6/29/2020,2020-06-29,1,Cass
 Cass,6/30/2020,2020-06-30,1,Cass
 Cass,7/1/2020,2020-07-01,0,Cass
+Cass,7/2/2020,2020-07-02,2,Cass
+Cass,7/3/2020,2020-07-03,0,Cass
 Charlevoix,3/1/2020,2020-03-01,0,Charlevoix
 Charlevoix,3/2/2020,2020-03-02,0,Charlevoix
 Charlevoix,3/3/2020,2020-03-03,0,Charlevoix
@@ -1843,7 +1871,9 @@ Charlevoix,6/27/2020,2020-06-27,0,Charlevoix
 Charlevoix,6/28/2020,2020-06-28,0,Charlevoix
 Charlevoix,6/29/2020,2020-06-29,1,Charlevoix
 Charlevoix,6/30/2020,2020-06-30,0,Charlevoix
-Charlevoix,7/1/2020,2020-07-01,0,Charlevoix
+Charlevoix,7/1/2020,2020-07-01,1,Charlevoix
+Charlevoix,7/2/2020,2020-07-02,0,Charlevoix
+Charlevoix,7/3/2020,2020-07-03,0,Charlevoix
 Cheboygan,3/1/2020,2020-03-01,0,Cheboygan
 Cheboygan,3/2/2020,2020-03-02,0,Cheboygan
 Cheboygan,3/3/2020,2020-03-03,0,Cheboygan
@@ -1967,6 +1997,8 @@ Cheboygan,6/28/2020,2020-06-28,0,Cheboygan
 Cheboygan,6/29/2020,2020-06-29,0,Cheboygan
 Cheboygan,6/30/2020,2020-06-30,0,Cheboygan
 Cheboygan,7/1/2020,2020-07-01,0,Cheboygan
+Cheboygan,7/2/2020,2020-07-02,0,Cheboygan
+Cheboygan,7/3/2020,2020-07-03,0,Cheboygan
 Chippewa,3/1/2020,2020-03-01,0,Chippewa
 Chippewa,3/2/2020,2020-03-02,0,Chippewa
 Chippewa,3/3/2020,2020-03-03,0,Chippewa
@@ -2089,7 +2121,9 @@ Chippewa,6/27/2020,2020-06-27,1,Chippewa
 Chippewa,6/28/2020,2020-06-28,0,Chippewa
 Chippewa,6/29/2020,2020-06-29,2,Chippewa
 Chippewa,6/30/2020,2020-06-30,2,Chippewa
-Chippewa,7/1/2020,2020-07-01,0,Chippewa
+Chippewa,7/1/2020,2020-07-01,1,Chippewa
+Chippewa,7/2/2020,2020-07-02,0,Chippewa
+Chippewa,7/3/2020,2020-07-03,0,Chippewa
 Clare,3/1/2020,2020-03-01,0,Clare
 Clare,3/2/2020,2020-03-02,0,Clare
 Clare,3/3/2020,2020-03-03,0,Clare
@@ -2198,7 +2232,7 @@ Clare,6/13/2020,2020-06-13,0,Clare
 Clare,6/14/2020,2020-06-14,0,Clare
 Clare,6/15/2020,2020-06-15,0,Clare
 Clare,6/16/2020,2020-06-16,1,Clare
-Clare,6/17/2020,2020-06-17,0,Clare
+Clare,6/17/2020,2020-06-17,1,Clare
 Clare,6/18/2020,2020-06-18,0,Clare
 Clare,6/19/2020,2020-06-19,0,Clare
 Clare,6/20/2020,2020-06-20,0,Clare
@@ -2211,8 +2245,10 @@ Clare,6/26/2020,2020-06-26,0,Clare
 Clare,6/27/2020,2020-06-27,0,Clare
 Clare,6/28/2020,2020-06-28,1,Clare
 Clare,6/29/2020,2020-06-29,0,Clare
-Clare,6/30/2020,2020-06-30,0,Clare
+Clare,6/30/2020,2020-06-30,1,Clare
 Clare,7/1/2020,2020-07-01,0,Clare
+Clare,7/2/2020,2020-07-02,0,Clare
+Clare,7/3/2020,2020-07-03,0,Clare
 Clinton,3/1/2020,2020-03-01,0,Clinton
 Clinton,3/2/2020,2020-03-02,0,Clinton
 Clinton,3/3/2020,2020-03-03,0,Clinton
@@ -2326,16 +2362,18 @@ Clinton,6/18/2020,2020-06-18,2,Clinton
 Clinton,6/19/2020,2020-06-19,1,Clinton
 Clinton,6/20/2020,2020-06-20,3,Clinton
 Clinton,6/21/2020,2020-06-21,6,Clinton
-Clinton,6/22/2020,2020-06-22,3,Clinton
-Clinton,6/23/2020,2020-06-23,2,Clinton
-Clinton,6/24/2020,2020-06-24,0,Clinton
-Clinton,6/25/2020,2020-06-25,6,Clinton
+Clinton,6/22/2020,2020-06-22,4,Clinton
+Clinton,6/23/2020,2020-06-23,3,Clinton
+Clinton,6/24/2020,2020-06-24,1,Clinton
+Clinton,6/25/2020,2020-06-25,7,Clinton
 Clinton,6/26/2020,2020-06-26,2,Clinton
-Clinton,6/27/2020,2020-06-27,0,Clinton
-Clinton,6/28/2020,2020-06-28,1,Clinton
-Clinton,6/29/2020,2020-06-29,2,Clinton
-Clinton,6/30/2020,2020-06-30,0,Clinton
-Clinton,7/1/2020,2020-07-01,0,Clinton
+Clinton,6/27/2020,2020-06-27,2,Clinton
+Clinton,6/28/2020,2020-06-28,0,Clinton
+Clinton,6/29/2020,2020-06-29,0,Clinton
+Clinton,6/30/2020,2020-06-30,4,Clinton
+Clinton,7/1/2020,2020-07-01,7,Clinton
+Clinton,7/2/2020,2020-07-02,1,Clinton
+Clinton,7/3/2020,2020-07-03,0,Clinton
 Crawford,3/1/2020,2020-03-01,0,Crawford
 Crawford,3/2/2020,2020-03-02,0,Crawford
 Crawford,3/3/2020,2020-03-03,0,Crawford
@@ -2459,6 +2497,8 @@ Crawford,6/28/2020,2020-06-28,0,Crawford
 Crawford,6/29/2020,2020-06-29,1,Crawford
 Crawford,6/30/2020,2020-06-30,0,Crawford
 Crawford,7/1/2020,2020-07-01,0,Crawford
+Crawford,7/2/2020,2020-07-02,0,Crawford
+Crawford,7/3/2020,2020-07-03,0,Crawford
 Delta,3/1/2020,2020-03-01,0,Delta
 Delta,3/2/2020,2020-03-02,0,Delta
 Delta,3/3/2020,2020-03-03,0,Delta
@@ -2578,10 +2618,12 @@ Delta,6/24/2020,2020-06-24,1,Delta
 Delta,6/25/2020,2020-06-25,1,Delta
 Delta,6/26/2020,2020-06-26,1,Delta
 Delta,6/27/2020,2020-06-27,0,Delta
-Delta,6/28/2020,2020-06-28,0,Delta
-Delta,6/29/2020,2020-06-29,0,Delta
+Delta,6/28/2020,2020-06-28,1,Delta
+Delta,6/29/2020,2020-06-29,2,Delta
 Delta,6/30/2020,2020-06-30,0,Delta
 Delta,7/1/2020,2020-07-01,0,Delta
+Delta,7/2/2020,2020-07-02,0,Delta
+Delta,7/3/2020,2020-07-03,0,Delta
 Detroit City,3/1/2020,2020-03-01,3,Detroit City
 Detroit City,3/2/2020,2020-03-02,4,Detroit City
 Detroit City,3/3/2020,2020-03-03,3,Detroit City
@@ -2612,14 +2654,14 @@ Detroit City,3/27/2020,2020-03-27,358,Detroit City
 Detroit City,3/28/2020,2020-03-28,303,Detroit City
 Detroit City,3/29/2020,2020-03-29,227,Detroit City
 Detroit City,3/30/2020,2020-03-30,422,Detroit City
-Detroit City,3/31/2020,2020-03-31,331,Detroit City
+Detroit City,3/31/2020,2020-03-31,330,Detroit City
 Detroit City,4/1/2020,2020-04-01,391,Detroit City
 Detroit City,4/2/2020,2020-04-02,260,Detroit City
 Detroit City,4/3/2020,2020-04-03,268,Detroit City
 Detroit City,4/4/2020,2020-04-04,227,Detroit City
 Detroit City,4/5/2020,2020-04-05,174,Detroit City
 Detroit City,4/6/2020,2020-04-06,267,Detroit City
-Detroit City,4/7/2020,2020-04-07,247,Detroit City
+Detroit City,4/7/2020,2020-04-07,246,Detroit City
 Detroit City,4/8/2020,2020-04-08,204,Detroit City
 Detroit City,4/9/2020,2020-04-09,179,Detroit City
 Detroit City,4/10/2020,2020-04-10,199,Detroit City
@@ -2630,81 +2672,83 @@ Detroit City,4/14/2020,2020-04-14,172,Detroit City
 Detroit City,4/15/2020,2020-04-15,147,Detroit City
 Detroit City,4/16/2020,2020-04-16,158,Detroit City
 Detroit City,4/17/2020,2020-04-17,161,Detroit City
-Detroit City,4/18/2020,2020-04-18,114,Detroit City
+Detroit City,4/18/2020,2020-04-18,115,Detroit City
 Detroit City,4/19/2020,2020-04-19,72,Detroit City
 Detroit City,4/20/2020,2020-04-20,119,Detroit City
-Detroit City,4/21/2020,2020-04-21,128,Detroit City
+Detroit City,4/21/2020,2020-04-21,129,Detroit City
 Detroit City,4/22/2020,2020-04-22,136,Detroit City
-Detroit City,4/23/2020,2020-04-23,157,Detroit City
+Detroit City,4/23/2020,2020-04-23,160,Detroit City
 Detroit City,4/24/2020,2020-04-24,154,Detroit City
 Detroit City,4/25/2020,2020-04-25,57,Detroit City
 Detroit City,4/26/2020,2020-04-26,43,Detroit City
 Detroit City,4/27/2020,2020-04-27,114,Detroit City
 Detroit City,4/28/2020,2020-04-28,101,Detroit City
-Detroit City,4/29/2020,2020-04-29,97,Detroit City
-Detroit City,4/30/2020,2020-04-30,121,Detroit City
-Detroit City,5/1/2020,2020-05-01,105,Detroit City
+Detroit City,4/29/2020,2020-04-29,96,Detroit City
+Detroit City,4/30/2020,2020-04-30,122,Detroit City
+Detroit City,5/1/2020,2020-05-01,106,Detroit City
 Detroit City,5/2/2020,2020-05-02,63,Detroit City
 Detroit City,5/3/2020,2020-05-03,29,Detroit City
-Detroit City,5/4/2020,2020-05-04,139,Detroit City
-Detroit City,5/5/2020,2020-05-05,126,Detroit City
-Detroit City,5/6/2020,2020-05-06,102,Detroit City
+Detroit City,5/4/2020,2020-05-04,138,Detroit City
+Detroit City,5/5/2020,2020-05-05,128,Detroit City
+Detroit City,5/6/2020,2020-05-06,103,Detroit City
 Detroit City,5/7/2020,2020-05-07,107,Detroit City
-Detroit City,5/8/2020,2020-05-08,104,Detroit City
-Detroit City,5/9/2020,2020-05-09,68,Detroit City
+Detroit City,5/8/2020,2020-05-08,103,Detroit City
+Detroit City,5/9/2020,2020-05-09,67,Detroit City
 Detroit City,5/10/2020,2020-05-10,15,Detroit City
-Detroit City,5/11/2020,2020-05-11,66,Detroit City
-Detroit City,5/12/2020,2020-05-12,72,Detroit City
-Detroit City,5/13/2020,2020-05-13,70,Detroit City
-Detroit City,5/14/2020,2020-05-14,68,Detroit City
+Detroit City,5/11/2020,2020-05-11,67,Detroit City
+Detroit City,5/12/2020,2020-05-12,71,Detroit City
+Detroit City,5/13/2020,2020-05-13,71,Detroit City
+Detroit City,5/14/2020,2020-05-14,67,Detroit City
 Detroit City,5/15/2020,2020-05-15,67,Detroit City
-Detroit City,5/16/2020,2020-05-16,52,Detroit City
+Detroit City,5/16/2020,2020-05-16,53,Detroit City
 Detroit City,5/17/2020,2020-05-17,19,Detroit City
 Detroit City,5/18/2020,2020-05-18,52,Detroit City
-Detroit City,5/19/2020,2020-05-19,55,Detroit City
-Detroit City,5/20/2020,2020-05-20,62,Detroit City
+Detroit City,5/19/2020,2020-05-19,54,Detroit City
+Detroit City,5/20/2020,2020-05-20,63,Detroit City
 Detroit City,5/21/2020,2020-05-21,52,Detroit City
-Detroit City,5/22/2020,2020-05-22,60,Detroit City
+Detroit City,5/22/2020,2020-05-22,61,Detroit City
 Detroit City,5/23/2020,2020-05-23,34,Detroit City
 Detroit City,5/24/2020,2020-05-24,22,Detroit City
-Detroit City,5/25/2020,2020-05-25,20,Detroit City
-Detroit City,5/26/2020,2020-05-26,54,Detroit City
-Detroit City,5/27/2020,2020-05-27,52,Detroit City
-Detroit City,5/28/2020,2020-05-28,39,Detroit City
+Detroit City,5/25/2020,2020-05-25,21,Detroit City
+Detroit City,5/26/2020,2020-05-26,56,Detroit City
+Detroit City,5/27/2020,2020-05-27,48,Detroit City
+Detroit City,5/28/2020,2020-05-28,38,Detroit City
 Detroit City,5/29/2020,2020-05-29,29,Detroit City
 Detroit City,5/30/2020,2020-05-30,24,Detroit City
 Detroit City,5/31/2020,2020-05-31,40,Detroit City
 Detroit City,6/1/2020,2020-06-01,28,Detroit City
 Detroit City,6/2/2020,2020-06-02,35,Detroit City
-Detroit City,6/3/2020,2020-06-03,27,Detroit City
-Detroit City,6/4/2020,2020-06-04,31,Detroit City
+Detroit City,6/3/2020,2020-06-03,26,Detroit City
+Detroit City,6/4/2020,2020-06-04,30,Detroit City
 Detroit City,6/5/2020,2020-06-05,31,Detroit City
 Detroit City,6/6/2020,2020-06-06,10,Detroit City
 Detroit City,6/7/2020,2020-06-07,8,Detroit City
 Detroit City,6/8/2020,2020-06-08,30,Detroit City
-Detroit City,6/9/2020,2020-06-09,22,Detroit City
-Detroit City,6/10/2020,2020-06-10,26,Detroit City
+Detroit City,6/9/2020,2020-06-09,23,Detroit City
+Detroit City,6/10/2020,2020-06-10,28,Detroit City
 Detroit City,6/11/2020,2020-06-11,27,Detroit City
 Detroit City,6/12/2020,2020-06-12,21,Detroit City
 Detroit City,6/13/2020,2020-06-13,18,Detroit City
-Detroit City,6/14/2020,2020-06-14,7,Detroit City
+Detroit City,6/14/2020,2020-06-14,8,Detroit City
 Detroit City,6/15/2020,2020-06-15,21,Detroit City
-Detroit City,6/16/2020,2020-06-16,26,Detroit City
-Detroit City,6/17/2020,2020-06-17,29,Detroit City
-Detroit City,6/18/2020,2020-06-18,11,Detroit City
+Detroit City,6/16/2020,2020-06-16,27,Detroit City
+Detroit City,6/17/2020,2020-06-17,31,Detroit City
+Detroit City,6/18/2020,2020-06-18,12,Detroit City
 Detroit City,6/19/2020,2020-06-19,20,Detroit City
 Detroit City,6/20/2020,2020-06-20,11,Detroit City
-Detroit City,6/21/2020,2020-06-21,10,Detroit City
+Detroit City,6/21/2020,2020-06-21,12,Detroit City
 Detroit City,6/22/2020,2020-06-22,17,Detroit City
-Detroit City,6/23/2020,2020-06-23,24,Detroit City
-Detroit City,6/24/2020,2020-06-24,35,Detroit City
-Detroit City,6/25/2020,2020-06-25,26,Detroit City
-Detroit City,6/26/2020,2020-06-26,19,Detroit City
-Detroit City,6/27/2020,2020-06-27,7,Detroit City
-Detroit City,6/28/2020,2020-06-28,6,Detroit City
-Detroit City,6/29/2020,2020-06-29,15,Detroit City
-Detroit City,6/30/2020,2020-06-30,9,Detroit City
-Detroit City,7/1/2020,2020-07-01,5,Detroit City
+Detroit City,6/23/2020,2020-06-23,25,Detroit City
+Detroit City,6/24/2020,2020-06-24,33,Detroit City
+Detroit City,6/25/2020,2020-06-25,28,Detroit City
+Detroit City,6/26/2020,2020-06-26,21,Detroit City
+Detroit City,6/27/2020,2020-06-27,9,Detroit City
+Detroit City,6/28/2020,2020-06-28,7,Detroit City
+Detroit City,6/29/2020,2020-06-29,20,Detroit City
+Detroit City,6/30/2020,2020-06-30,22,Detroit City
+Detroit City,7/1/2020,2020-07-01,21,Detroit City
+Detroit City,7/2/2020,2020-07-02,14,Detroit City
+Detroit City,7/3/2020,2020-07-03,4,Detroit City
 Dickinson,3/1/2020,2020-03-01,0,Dickinson
 Dickinson,3/2/2020,2020-03-02,0,Dickinson
 Dickinson,3/3/2020,2020-03-03,0,Dickinson
@@ -2826,8 +2870,10 @@ Dickinson,6/26/2020,2020-06-26,0,Dickinson
 Dickinson,6/27/2020,2020-06-27,0,Dickinson
 Dickinson,6/28/2020,2020-06-28,0,Dickinson
 Dickinson,6/29/2020,2020-06-29,0,Dickinson
-Dickinson,6/30/2020,2020-06-30,0,Dickinson
+Dickinson,6/30/2020,2020-06-30,1,Dickinson
 Dickinson,7/1/2020,2020-07-01,0,Dickinson
+Dickinson,7/2/2020,2020-07-02,1,Dickinson
+Dickinson,7/3/2020,2020-07-03,0,Dickinson
 Eaton,3/1/2020,2020-03-01,0,Eaton
 Eaton,3/2/2020,2020-03-02,0,Eaton
 Eaton,3/3/2020,2020-03-03,0,Eaton
@@ -2892,10 +2938,10 @@ Eaton,4/30/2020,2020-04-30,5,Eaton
 Eaton,5/1/2020,2020-05-01,2,Eaton
 Eaton,5/2/2020,2020-05-02,0,Eaton
 Eaton,5/3/2020,2020-05-03,4,Eaton
-Eaton,5/4/2020,2020-05-04,4,Eaton
+Eaton,5/4/2020,2020-05-04,3,Eaton
 Eaton,5/5/2020,2020-05-05,1,Eaton
 Eaton,5/6/2020,2020-05-06,5,Eaton
-Eaton,5/7/2020,2020-05-07,2,Eaton
+Eaton,5/7/2020,2020-05-07,1,Eaton
 Eaton,5/8/2020,2020-05-08,6,Eaton
 Eaton,5/9/2020,2020-05-09,3,Eaton
 Eaton,5/10/2020,2020-05-10,1,Eaton
@@ -2906,32 +2952,32 @@ Eaton,5/14/2020,2020-05-14,3,Eaton
 Eaton,5/15/2020,2020-05-15,2,Eaton
 Eaton,5/16/2020,2020-05-16,1,Eaton
 Eaton,5/17/2020,2020-05-17,1,Eaton
-Eaton,5/18/2020,2020-05-18,7,Eaton
-Eaton,5/19/2020,2020-05-19,4,Eaton
+Eaton,5/18/2020,2020-05-18,6,Eaton
+Eaton,5/19/2020,2020-05-19,5,Eaton
 Eaton,5/20/2020,2020-05-20,5,Eaton
 Eaton,5/21/2020,2020-05-21,3,Eaton
-Eaton,5/22/2020,2020-05-22,5,Eaton
-Eaton,5/23/2020,2020-05-23,3,Eaton
-Eaton,5/24/2020,2020-05-24,1,Eaton
+Eaton,5/22/2020,2020-05-22,6,Eaton
+Eaton,5/23/2020,2020-05-23,2,Eaton
+Eaton,5/24/2020,2020-05-24,0,Eaton
 Eaton,5/25/2020,2020-05-25,0,Eaton
 Eaton,5/26/2020,2020-05-26,3,Eaton
-Eaton,5/27/2020,2020-05-27,2,Eaton
-Eaton,5/28/2020,2020-05-28,2,Eaton
+Eaton,5/27/2020,2020-05-27,1,Eaton
+Eaton,5/28/2020,2020-05-28,1,Eaton
 Eaton,5/29/2020,2020-05-29,0,Eaton
-Eaton,5/30/2020,2020-05-30,2,Eaton
-Eaton,5/31/2020,2020-05-31,1,Eaton
+Eaton,5/30/2020,2020-05-30,1,Eaton
+Eaton,5/31/2020,2020-05-31,0,Eaton
 Eaton,6/1/2020,2020-06-01,0,Eaton
 Eaton,6/2/2020,2020-06-02,3,Eaton
-Eaton,6/3/2020,2020-06-03,3,Eaton
+Eaton,6/3/2020,2020-06-03,2,Eaton
 Eaton,6/4/2020,2020-06-04,1,Eaton
 Eaton,6/5/2020,2020-06-05,0,Eaton
 Eaton,6/6/2020,2020-06-06,0,Eaton
 Eaton,6/7/2020,2020-06-07,0,Eaton
 Eaton,6/8/2020,2020-06-08,1,Eaton
-Eaton,6/9/2020,2020-06-09,5,Eaton
+Eaton,6/9/2020,2020-06-09,3,Eaton
 Eaton,6/10/2020,2020-06-10,0,Eaton
-Eaton,6/11/2020,2020-06-11,2,Eaton
-Eaton,6/12/2020,2020-06-12,1,Eaton
+Eaton,6/11/2020,2020-06-11,1,Eaton
+Eaton,6/12/2020,2020-06-12,0,Eaton
 Eaton,6/13/2020,2020-06-13,1,Eaton
 Eaton,6/14/2020,2020-06-14,2,Eaton
 Eaton,6/15/2020,2020-06-15,2,Eaton
@@ -2948,9 +2994,11 @@ Eaton,6/25/2020,2020-06-25,6,Eaton
 Eaton,6/26/2020,2020-06-26,5,Eaton
 Eaton,6/27/2020,2020-06-27,8,Eaton
 Eaton,6/28/2020,2020-06-28,0,Eaton
-Eaton,6/29/2020,2020-06-29,4,Eaton
-Eaton,6/30/2020,2020-06-30,0,Eaton
-Eaton,7/1/2020,2020-07-01,0,Eaton
+Eaton,6/29/2020,2020-06-29,3,Eaton
+Eaton,6/30/2020,2020-06-30,4,Eaton
+Eaton,7/1/2020,2020-07-01,4,Eaton
+Eaton,7/2/2020,2020-07-02,2,Eaton
+Eaton,7/3/2020,2020-07-03,0,Eaton
 Emmet,3/1/2020,2020-03-01,0,Emmet
 Emmet,3/2/2020,2020-03-02,0,Emmet
 Emmet,3/3/2020,2020-03-03,0,Emmet
@@ -3074,6 +3122,8 @@ Emmet,6/28/2020,2020-06-28,0,Emmet
 Emmet,6/29/2020,2020-06-29,0,Emmet
 Emmet,6/30/2020,2020-06-30,0,Emmet
 Emmet,7/1/2020,2020-07-01,0,Emmet
+Emmet,7/2/2020,2020-07-02,0,Emmet
+Emmet,7/3/2020,2020-07-03,0,Emmet
 FCI,3/1/2020,2020-03-01,0,FCI
 FCI,3/2/2020,2020-03-02,0,FCI
 FCI,3/3/2020,2020-03-03,0,FCI
@@ -3194,9 +3244,11 @@ FCI,6/25/2020,2020-06-25,0,FCI
 FCI,6/26/2020,2020-06-26,0,FCI
 FCI,6/27/2020,2020-06-27,0,FCI
 FCI,6/28/2020,2020-06-28,0,FCI
-FCI,6/29/2020,2020-06-29,0,FCI
+FCI,6/29/2020,2020-06-29,1,FCI
 FCI,6/30/2020,2020-06-30,0,FCI
 FCI,7/1/2020,2020-07-01,0,FCI
+FCI,7/2/2020,2020-07-02,0,FCI
+FCI,7/3/2020,2020-07-03,0,FCI
 Genesee,3/1/2020,2020-03-01,3,Genesee
 Genesee,3/2/2020,2020-03-02,0,Genesee
 Genesee,3/3/2020,2020-03-03,3,Genesee
@@ -3250,8 +3302,8 @@ Genesee,4/19/2020,2020-04-19,23,Genesee
 Genesee,4/20/2020,2020-04-20,50,Genesee
 Genesee,4/21/2020,2020-04-21,32,Genesee
 Genesee,4/22/2020,2020-04-22,28,Genesee
-Genesee,4/23/2020,2020-04-23,32,Genesee
-Genesee,4/24/2020,2020-04-24,38,Genesee
+Genesee,4/23/2020,2020-04-23,33,Genesee
+Genesee,4/24/2020,2020-04-24,37,Genesee
 Genesee,4/25/2020,2020-04-25,22,Genesee
 Genesee,4/26/2020,2020-04-26,9,Genesee
 Genesee,4/27/2020,2020-04-27,24,Genesee
@@ -3261,14 +3313,14 @@ Genesee,4/30/2020,2020-04-30,42,Genesee
 Genesee,5/1/2020,2020-05-01,25,Genesee
 Genesee,5/2/2020,2020-05-02,9,Genesee
 Genesee,5/3/2020,2020-05-03,10,Genesee
-Genesee,5/4/2020,2020-05-04,24,Genesee
+Genesee,5/4/2020,2020-05-04,23,Genesee
 Genesee,5/5/2020,2020-05-05,31,Genesee
 Genesee,5/6/2020,2020-05-06,21,Genesee
 Genesee,5/7/2020,2020-05-07,39,Genesee
 Genesee,5/8/2020,2020-05-08,22,Genesee
 Genesee,5/9/2020,2020-05-09,20,Genesee
 Genesee,5/10/2020,2020-05-10,13,Genesee
-Genesee,5/11/2020,2020-05-11,28,Genesee
+Genesee,5/11/2020,2020-05-11,27,Genesee
 Genesee,5/12/2020,2020-05-12,36,Genesee
 Genesee,5/13/2020,2020-05-13,22,Genesee
 Genesee,5/14/2020,2020-05-14,23,Genesee
@@ -3292,7 +3344,7 @@ Genesee,5/31/2020,2020-05-31,7,Genesee
 Genesee,6/1/2020,2020-06-01,15,Genesee
 Genesee,6/2/2020,2020-06-02,18,Genesee
 Genesee,6/3/2020,2020-06-03,6,Genesee
-Genesee,6/4/2020,2020-06-04,13,Genesee
+Genesee,6/4/2020,2020-06-04,12,Genesee
 Genesee,6/5/2020,2020-06-05,11,Genesee
 Genesee,6/6/2020,2020-06-06,4,Genesee
 Genesee,6/7/2020,2020-06-07,3,Genesee
@@ -3300,26 +3352,28 @@ Genesee,6/8/2020,2020-06-08,9,Genesee
 Genesee,6/9/2020,2020-06-09,8,Genesee
 Genesee,6/10/2020,2020-06-10,10,Genesee
 Genesee,6/11/2020,2020-06-11,6,Genesee
-Genesee,6/12/2020,2020-06-12,8,Genesee
+Genesee,6/12/2020,2020-06-12,9,Genesee
 Genesee,6/13/2020,2020-06-13,2,Genesee
 Genesee,6/14/2020,2020-06-14,1,Genesee
 Genesee,6/15/2020,2020-06-15,9,Genesee
-Genesee,6/16/2020,2020-06-16,8,Genesee
-Genesee,6/17/2020,2020-06-17,13,Genesee
+Genesee,6/16/2020,2020-06-16,9,Genesee
+Genesee,6/17/2020,2020-06-17,14,Genesee
 Genesee,6/18/2020,2020-06-18,9,Genesee
 Genesee,6/19/2020,2020-06-19,15,Genesee
-Genesee,6/20/2020,2020-06-20,5,Genesee
+Genesee,6/20/2020,2020-06-20,6,Genesee
 Genesee,6/21/2020,2020-06-21,1,Genesee
-Genesee,6/22/2020,2020-06-22,14,Genesee
-Genesee,6/23/2020,2020-06-23,13,Genesee
-Genesee,6/24/2020,2020-06-24,10,Genesee
+Genesee,6/22/2020,2020-06-22,16,Genesee
+Genesee,6/23/2020,2020-06-23,15,Genesee
+Genesee,6/24/2020,2020-06-24,14,Genesee
 Genesee,6/25/2020,2020-06-25,21,Genesee
-Genesee,6/26/2020,2020-06-26,8,Genesee
-Genesee,6/27/2020,2020-06-27,1,Genesee
-Genesee,6/28/2020,2020-06-28,1,Genesee
-Genesee,6/29/2020,2020-06-29,5,Genesee
-Genesee,6/30/2020,2020-06-30,1,Genesee
-Genesee,7/1/2020,2020-07-01,0,Genesee
+Genesee,6/26/2020,2020-06-26,10,Genesee
+Genesee,6/27/2020,2020-06-27,3,Genesee
+Genesee,6/28/2020,2020-06-28,3,Genesee
+Genesee,6/29/2020,2020-06-29,15,Genesee
+Genesee,6/30/2020,2020-06-30,14,Genesee
+Genesee,7/1/2020,2020-07-01,7,Genesee
+Genesee,7/2/2020,2020-07-02,1,Genesee
+Genesee,7/3/2020,2020-07-03,0,Genesee
 Gladwin,3/1/2020,2020-03-01,0,Gladwin
 Gladwin,3/2/2020,2020-03-02,0,Gladwin
 Gladwin,3/3/2020,2020-03-03,0,Gladwin
@@ -3443,6 +3497,8 @@ Gladwin,6/28/2020,2020-06-28,0,Gladwin
 Gladwin,6/29/2020,2020-06-29,1,Gladwin
 Gladwin,6/30/2020,2020-06-30,0,Gladwin
 Gladwin,7/1/2020,2020-07-01,0,Gladwin
+Gladwin,7/2/2020,2020-07-02,0,Gladwin
+Gladwin,7/3/2020,2020-07-03,0,Gladwin
 Gogebic,3/1/2020,2020-03-01,0,Gogebic
 Gogebic,3/2/2020,2020-03-02,0,Gogebic
 Gogebic,3/3/2020,2020-03-03,0,Gogebic
@@ -3566,6 +3622,8 @@ Gogebic,6/28/2020,2020-06-28,0,Gogebic
 Gogebic,6/29/2020,2020-06-29,0,Gogebic
 Gogebic,6/30/2020,2020-06-30,0,Gogebic
 Gogebic,7/1/2020,2020-07-01,0,Gogebic
+Gogebic,7/2/2020,2020-07-02,0,Gogebic
+Gogebic,7/3/2020,2020-07-03,0,Gogebic
 Grand Traverse,3/1/2020,2020-03-01,0,Grand Traverse
 Grand Traverse,3/2/2020,2020-03-02,0,Grand Traverse
 Grand Traverse,3/3/2020,2020-03-03,0,Grand Traverse
@@ -3672,23 +3730,25 @@ Grand Traverse,6/11/2020,2020-06-11,0,Grand Traverse
 Grand Traverse,6/12/2020,2020-06-12,0,Grand Traverse
 Grand Traverse,6/13/2020,2020-06-13,0,Grand Traverse
 Grand Traverse,6/14/2020,2020-06-14,0,Grand Traverse
-Grand Traverse,6/15/2020,2020-06-15,0,Grand Traverse
+Grand Traverse,6/15/2020,2020-06-15,1,Grand Traverse
 Grand Traverse,6/16/2020,2020-06-16,4,Grand Traverse
 Grand Traverse,6/17/2020,2020-06-17,2,Grand Traverse
 Grand Traverse,6/18/2020,2020-06-18,1,Grand Traverse
 Grand Traverse,6/19/2020,2020-06-19,0,Grand Traverse
 Grand Traverse,6/20/2020,2020-06-20,0,Grand Traverse
 Grand Traverse,6/21/2020,2020-06-21,1,Grand Traverse
-Grand Traverse,6/22/2020,2020-06-22,2,Grand Traverse
+Grand Traverse,6/22/2020,2020-06-22,3,Grand Traverse
 Grand Traverse,6/23/2020,2020-06-23,0,Grand Traverse
 Grand Traverse,6/24/2020,2020-06-24,0,Grand Traverse
 Grand Traverse,6/25/2020,2020-06-25,2,Grand Traverse
 Grand Traverse,6/26/2020,2020-06-26,0,Grand Traverse
 Grand Traverse,6/27/2020,2020-06-27,0,Grand Traverse
 Grand Traverse,6/28/2020,2020-06-28,0,Grand Traverse
-Grand Traverse,6/29/2020,2020-06-29,0,Grand Traverse
+Grand Traverse,6/29/2020,2020-06-29,1,Grand Traverse
 Grand Traverse,6/30/2020,2020-06-30,1,Grand Traverse
-Grand Traverse,7/1/2020,2020-07-01,0,Grand Traverse
+Grand Traverse,7/1/2020,2020-07-01,1,Grand Traverse
+Grand Traverse,7/2/2020,2020-07-02,0,Grand Traverse
+Grand Traverse,7/3/2020,2020-07-03,0,Grand Traverse
 Gratiot,3/1/2020,2020-03-01,0,Gratiot
 Gratiot,3/2/2020,2020-03-02,0,Gratiot
 Gratiot,3/3/2020,2020-03-03,0,Gratiot
@@ -3789,7 +3849,7 @@ Gratiot,6/5/2020,2020-06-05,0,Gratiot
 Gratiot,6/6/2020,2020-06-06,0,Gratiot
 Gratiot,6/7/2020,2020-06-07,0,Gratiot
 Gratiot,6/8/2020,2020-06-08,0,Gratiot
-Gratiot,6/9/2020,2020-06-09,0,Gratiot
+Gratiot,6/9/2020,2020-06-09,1,Gratiot
 Gratiot,6/10/2020,2020-06-10,1,Gratiot
 Gratiot,6/11/2020,2020-06-11,0,Gratiot
 Gratiot,6/12/2020,2020-06-12,0,Gratiot
@@ -3812,6 +3872,8 @@ Gratiot,6/28/2020,2020-06-28,0,Gratiot
 Gratiot,6/29/2020,2020-06-29,0,Gratiot
 Gratiot,6/30/2020,2020-06-30,0,Gratiot
 Gratiot,7/1/2020,2020-07-01,0,Gratiot
+Gratiot,7/2/2020,2020-07-02,0,Gratiot
+Gratiot,7/3/2020,2020-07-03,0,Gratiot
 Hillsdale,3/1/2020,2020-03-01,0,Hillsdale
 Hillsdale,3/2/2020,2020-03-02,0,Hillsdale
 Hillsdale,3/3/2020,2020-03-03,0,Hillsdale
@@ -3844,7 +3906,7 @@ Hillsdale,3/29/2020,2020-03-29,2,Hillsdale
 Hillsdale,3/30/2020,2020-03-30,3,Hillsdale
 Hillsdale,3/31/2020,2020-03-31,3,Hillsdale
 Hillsdale,4/1/2020,2020-04-01,13,Hillsdale
-Hillsdale,4/2/2020,2020-04-02,6,Hillsdale
+Hillsdale,4/2/2020,2020-04-02,7,Hillsdale
 Hillsdale,4/3/2020,2020-04-03,6,Hillsdale
 Hillsdale,4/4/2020,2020-04-04,6,Hillsdale
 Hillsdale,4/5/2020,2020-04-05,6,Hillsdale
@@ -3931,10 +3993,12 @@ Hillsdale,6/24/2020,2020-06-24,1,Hillsdale
 Hillsdale,6/25/2020,2020-06-25,1,Hillsdale
 Hillsdale,6/26/2020,2020-06-26,0,Hillsdale
 Hillsdale,6/27/2020,2020-06-27,0,Hillsdale
-Hillsdale,6/28/2020,2020-06-28,1,Hillsdale
+Hillsdale,6/28/2020,2020-06-28,2,Hillsdale
 Hillsdale,6/29/2020,2020-06-29,0,Hillsdale
 Hillsdale,6/30/2020,2020-06-30,0,Hillsdale
 Hillsdale,7/1/2020,2020-07-01,0,Hillsdale
+Hillsdale,7/2/2020,2020-07-02,1,Hillsdale
+Hillsdale,7/3/2020,2020-07-03,0,Hillsdale
 Houghton,3/1/2020,2020-03-01,0,Houghton
 Houghton,3/2/2020,2020-03-02,0,Houghton
 Houghton,3/3/2020,2020-03-03,0,Houghton
@@ -4054,10 +4118,12 @@ Houghton,6/24/2020,2020-06-24,0,Houghton
 Houghton,6/25/2020,2020-06-25,0,Houghton
 Houghton,6/26/2020,2020-06-26,0,Houghton
 Houghton,6/27/2020,2020-06-27,0,Houghton
-Houghton,6/28/2020,2020-06-28,0,Houghton
-Houghton,6/29/2020,2020-06-29,0,Houghton
+Houghton,6/28/2020,2020-06-28,1,Houghton
+Houghton,6/29/2020,2020-06-29,1,Houghton
 Houghton,6/30/2020,2020-06-30,0,Houghton
-Houghton,7/1/2020,2020-07-01,0,Houghton
+Houghton,7/1/2020,2020-07-01,1,Houghton
+Houghton,7/2/2020,2020-07-02,1,Houghton
+Houghton,7/3/2020,2020-07-03,0,Houghton
 Huron,3/1/2020,2020-03-01,0,Huron
 Huron,3/2/2020,2020-03-02,0,Huron
 Huron,3/3/2020,2020-03-03,0,Huron
@@ -4181,6 +4247,8 @@ Huron,6/28/2020,2020-06-28,0,Huron
 Huron,6/29/2020,2020-06-29,0,Huron
 Huron,6/30/2020,2020-06-30,0,Huron
 Huron,7/1/2020,2020-07-01,0,Huron
+Huron,7/2/2020,2020-07-02,0,Huron
+Huron,7/3/2020,2020-07-03,0,Huron
 Ingham,3/1/2020,2020-03-01,0,Ingham
 Ingham,3/2/2020,2020-03-02,1,Ingham
 Ingham,3/3/2020,2020-03-03,1,Ingham
@@ -4222,7 +4290,7 @@ Ingham,4/7/2020,2020-04-07,10,Ingham
 Ingham,4/8/2020,2020-04-08,8,Ingham
 Ingham,4/9/2020,2020-04-09,7,Ingham
 Ingham,4/10/2020,2020-04-10,11,Ingham
-Ingham,4/11/2020,2020-04-11,6,Ingham
+Ingham,4/11/2020,2020-04-11,5,Ingham
 Ingham,4/12/2020,2020-04-12,3,Ingham
 Ingham,4/13/2020,2020-04-13,19,Ingham
 Ingham,4/14/2020,2020-04-14,10,Ingham
@@ -4231,7 +4299,7 @@ Ingham,4/16/2020,2020-04-16,9,Ingham
 Ingham,4/17/2020,2020-04-17,13,Ingham
 Ingham,4/18/2020,2020-04-18,14,Ingham
 Ingham,4/19/2020,2020-04-19,7,Ingham
-Ingham,4/20/2020,2020-04-20,24,Ingham
+Ingham,4/20/2020,2020-04-20,23,Ingham
 Ingham,4/21/2020,2020-04-21,13,Ingham
 Ingham,4/22/2020,2020-04-22,18,Ingham
 Ingham,4/23/2020,2020-04-23,13,Ingham
@@ -4285,25 +4353,27 @@ Ingham,6/9/2020,2020-06-09,2,Ingham
 Ingham,6/10/2020,2020-06-10,0,Ingham
 Ingham,6/11/2020,2020-06-11,0,Ingham
 Ingham,6/12/2020,2020-06-12,2,Ingham
-Ingham,6/13/2020,2020-06-13,3,Ingham
+Ingham,6/13/2020,2020-06-13,2,Ingham
 Ingham,6/14/2020,2020-06-14,5,Ingham
-Ingham,6/15/2020,2020-06-15,7,Ingham
-Ingham,6/16/2020,2020-06-16,3,Ingham
-Ingham,6/17/2020,2020-06-17,9,Ingham
-Ingham,6/18/2020,2020-06-18,4,Ingham
+Ingham,6/15/2020,2020-06-15,8,Ingham
+Ingham,6/16/2020,2020-06-16,5,Ingham
+Ingham,6/17/2020,2020-06-17,11,Ingham
+Ingham,6/18/2020,2020-06-18,6,Ingham
 Ingham,6/19/2020,2020-06-19,7,Ingham
-Ingham,6/20/2020,2020-06-20,14,Ingham
-Ingham,6/21/2020,2020-06-21,20,Ingham
-Ingham,6/22/2020,2020-06-22,41,Ingham
-Ingham,6/23/2020,2020-06-23,12,Ingham
-Ingham,6/24/2020,2020-06-24,26,Ingham
-Ingham,6/25/2020,2020-06-25,16,Ingham
+Ingham,6/20/2020,2020-06-20,15,Ingham
+Ingham,6/21/2020,2020-06-21,22,Ingham
+Ingham,6/22/2020,2020-06-22,39,Ingham
+Ingham,6/23/2020,2020-06-23,14,Ingham
+Ingham,6/24/2020,2020-06-24,28,Ingham
+Ingham,6/25/2020,2020-06-25,18,Ingham
 Ingham,6/26/2020,2020-06-26,16,Ingham
-Ingham,6/27/2020,2020-06-27,11,Ingham
-Ingham,6/28/2020,2020-06-28,13,Ingham
-Ingham,6/29/2020,2020-06-29,10,Ingham
-Ingham,6/30/2020,2020-06-30,1,Ingham
-Ingham,7/1/2020,2020-07-01,0,Ingham
+Ingham,6/27/2020,2020-06-27,13,Ingham
+Ingham,6/28/2020,2020-06-28,16,Ingham
+Ingham,6/29/2020,2020-06-29,8,Ingham
+Ingham,6/30/2020,2020-06-30,7,Ingham
+Ingham,7/1/2020,2020-07-01,5,Ingham
+Ingham,7/2/2020,2020-07-02,3,Ingham
+Ingham,7/3/2020,2020-07-03,0,Ingham
 Ionia,3/1/2020,2020-03-01,0,Ionia
 Ionia,3/2/2020,2020-03-02,0,Ionia
 Ionia,3/3/2020,2020-03-03,0,Ionia
@@ -4383,7 +4453,7 @@ Ionia,5/15/2020,2020-05-15,3,Ionia
 Ionia,5/16/2020,2020-05-16,1,Ionia
 Ionia,5/17/2020,2020-05-17,2,Ionia
 Ionia,5/18/2020,2020-05-18,0,Ionia
-Ionia,5/19/2020,2020-05-19,12,Ionia
+Ionia,5/19/2020,2020-05-19,13,Ionia
 Ionia,5/20/2020,2020-05-20,5,Ionia
 Ionia,5/21/2020,2020-05-21,3,Ionia
 Ionia,5/22/2020,2020-05-22,6,Ionia
@@ -4424,9 +4494,11 @@ Ionia,6/25/2020,2020-06-25,0,Ionia
 Ionia,6/26/2020,2020-06-26,1,Ionia
 Ionia,6/27/2020,2020-06-27,0,Ionia
 Ionia,6/28/2020,2020-06-28,1,Ionia
-Ionia,6/29/2020,2020-06-29,0,Ionia
-Ionia,6/30/2020,2020-06-30,0,Ionia
+Ionia,6/29/2020,2020-06-29,1,Ionia
+Ionia,6/30/2020,2020-06-30,2,Ionia
 Ionia,7/1/2020,2020-07-01,0,Ionia
+Ionia,7/2/2020,2020-07-02,0,Ionia
+Ionia,7/3/2020,2020-07-03,0,Ionia
 Iosco,3/1/2020,2020-03-01,0,Iosco
 Iosco,3/2/2020,2020-03-02,0,Iosco
 Iosco,3/3/2020,2020-03-03,0,Iosco
@@ -4542,14 +4614,16 @@ Iosco,6/20/2020,2020-06-20,0,Iosco
 Iosco,6/21/2020,2020-06-21,0,Iosco
 Iosco,6/22/2020,2020-06-22,0,Iosco
 Iosco,6/23/2020,2020-06-23,0,Iosco
-Iosco,6/24/2020,2020-06-24,0,Iosco
-Iosco,6/25/2020,2020-06-25,0,Iosco
+Iosco,6/24/2020,2020-06-24,1,Iosco
+Iosco,6/25/2020,2020-06-25,1,Iosco
 Iosco,6/26/2020,2020-06-26,1,Iosco
 Iosco,6/27/2020,2020-06-27,0,Iosco
 Iosco,6/28/2020,2020-06-28,0,Iosco
 Iosco,6/29/2020,2020-06-29,0,Iosco
 Iosco,6/30/2020,2020-06-30,1,Iosco
-Iosco,7/1/2020,2020-07-01,0,Iosco
+Iosco,7/1/2020,2020-07-01,2,Iosco
+Iosco,7/2/2020,2020-07-02,0,Iosco
+Iosco,7/3/2020,2020-07-03,0,Iosco
 Iron,3/1/2020,2020-03-01,0,Iron
 Iron,3/2/2020,2020-03-02,0,Iron
 Iron,3/3/2020,2020-03-03,0,Iron
@@ -4662,7 +4736,7 @@ Iron,6/17/2020,2020-06-17,0,Iron
 Iron,6/18/2020,2020-06-18,0,Iron
 Iron,6/19/2020,2020-06-19,0,Iron
 Iron,6/20/2020,2020-06-20,0,Iron
-Iron,6/21/2020,2020-06-21,0,Iron
+Iron,6/21/2020,2020-06-21,1,Iron
 Iron,6/22/2020,2020-06-22,0,Iron
 Iron,6/23/2020,2020-06-23,1,Iron
 Iron,6/24/2020,2020-06-24,0,Iron
@@ -4673,6 +4747,8 @@ Iron,6/28/2020,2020-06-28,0,Iron
 Iron,6/29/2020,2020-06-29,0,Iron
 Iron,6/30/2020,2020-06-30,0,Iron
 Iron,7/1/2020,2020-07-01,0,Iron
+Iron,7/2/2020,2020-07-02,0,Iron
+Iron,7/3/2020,2020-07-03,0,Iron
 Isabella,3/1/2020,2020-03-01,0,Isabella
 Isabella,3/2/2020,2020-03-02,0,Isabella
 Isabella,3/3/2020,2020-03-03,0,Isabella
@@ -4788,14 +4864,16 @@ Isabella,6/20/2020,2020-06-20,0,Isabella
 Isabella,6/21/2020,2020-06-21,0,Isabella
 Isabella,6/22/2020,2020-06-22,1,Isabella
 Isabella,6/23/2020,2020-06-23,0,Isabella
-Isabella,6/24/2020,2020-06-24,0,Isabella
-Isabella,6/25/2020,2020-06-25,0,Isabella
-Isabella,6/26/2020,2020-06-26,2,Isabella
+Isabella,6/24/2020,2020-06-24,1,Isabella
+Isabella,6/25/2020,2020-06-25,1,Isabella
+Isabella,6/26/2020,2020-06-26,3,Isabella
 Isabella,6/27/2020,2020-06-27,1,Isabella
 Isabella,6/28/2020,2020-06-28,0,Isabella
-Isabella,6/29/2020,2020-06-29,2,Isabella
+Isabella,6/29/2020,2020-06-29,1,Isabella
 Isabella,6/30/2020,2020-06-30,2,Isabella
 Isabella,7/1/2020,2020-07-01,0,Isabella
+Isabella,7/2/2020,2020-07-02,0,Isabella
+Isabella,7/3/2020,2020-07-03,0,Isabella
 Jackson,3/1/2020,2020-03-01,0,Jackson
 Jackson,3/2/2020,2020-03-02,0,Jackson
 Jackson,3/3/2020,2020-03-03,0,Jackson
@@ -4813,7 +4891,7 @@ Jackson,3/14/2020,2020-03-14,3,Jackson
 Jackson,3/15/2020,2020-03-15,3,Jackson
 Jackson,3/16/2020,2020-03-16,10,Jackson
 Jackson,3/17/2020,2020-03-17,4,Jackson
-Jackson,3/18/2020,2020-03-18,6,Jackson
+Jackson,3/18/2020,2020-03-18,5,Jackson
 Jackson,3/19/2020,2020-03-19,9,Jackson
 Jackson,3/20/2020,2020-03-20,3,Jackson
 Jackson,3/21/2020,2020-03-21,1,Jackson
@@ -4842,13 +4920,13 @@ Jackson,4/12/2020,2020-04-12,8,Jackson
 Jackson,4/13/2020,2020-04-13,18,Jackson
 Jackson,4/14/2020,2020-04-14,14,Jackson
 Jackson,4/15/2020,2020-04-15,10,Jackson
-Jackson,4/16/2020,2020-04-16,9,Jackson
-Jackson,4/17/2020,2020-04-17,10,Jackson
-Jackson,4/18/2020,2020-04-18,13,Jackson
-Jackson,4/19/2020,2020-04-19,14,Jackson
-Jackson,4/20/2020,2020-04-20,13,Jackson
+Jackson,4/16/2020,2020-04-16,11,Jackson
+Jackson,4/17/2020,2020-04-17,11,Jackson
+Jackson,4/18/2020,2020-04-18,11,Jackson
+Jackson,4/19/2020,2020-04-19,13,Jackson
+Jackson,4/20/2020,2020-04-20,14,Jackson
 Jackson,4/21/2020,2020-04-21,12,Jackson
-Jackson,4/22/2020,2020-04-22,12,Jackson
+Jackson,4/22/2020,2020-04-22,11,Jackson
 Jackson,4/23/2020,2020-04-23,11,Jackson
 Jackson,4/24/2020,2020-04-24,7,Jackson
 Jackson,4/25/2020,2020-04-25,2,Jackson
@@ -4867,14 +4945,14 @@ Jackson,5/7/2020,2020-05-07,2,Jackson
 Jackson,5/8/2020,2020-05-08,2,Jackson
 Jackson,5/9/2020,2020-05-09,4,Jackson
 Jackson,5/10/2020,2020-05-10,0,Jackson
-Jackson,5/11/2020,2020-05-11,6,Jackson
+Jackson,5/11/2020,2020-05-11,5,Jackson
 Jackson,5/12/2020,2020-05-12,0,Jackson
-Jackson,5/13/2020,2020-05-13,4,Jackson
+Jackson,5/13/2020,2020-05-13,5,Jackson
 Jackson,5/14/2020,2020-05-14,2,Jackson
 Jackson,5/15/2020,2020-05-15,1,Jackson
 Jackson,5/16/2020,2020-05-16,4,Jackson
-Jackson,5/17/2020,2020-05-17,0,Jackson
-Jackson,5/18/2020,2020-05-18,4,Jackson
+Jackson,5/17/2020,2020-05-17,1,Jackson
+Jackson,5/18/2020,2020-05-18,3,Jackson
 Jackson,5/19/2020,2020-05-19,2,Jackson
 Jackson,5/20/2020,2020-05-20,3,Jackson
 Jackson,5/21/2020,2020-05-21,5,Jackson
@@ -4890,7 +4968,7 @@ Jackson,5/30/2020,2020-05-30,1,Jackson
 Jackson,5/31/2020,2020-05-31,3,Jackson
 Jackson,6/1/2020,2020-06-01,0,Jackson
 Jackson,6/2/2020,2020-06-02,1,Jackson
-Jackson,6/3/2020,2020-06-03,2,Jackson
+Jackson,6/3/2020,2020-06-03,3,Jackson
 Jackson,6/4/2020,2020-06-04,1,Jackson
 Jackson,6/5/2020,2020-06-05,0,Jackson
 Jackson,6/6/2020,2020-06-06,0,Jackson
@@ -4906,19 +4984,21 @@ Jackson,6/15/2020,2020-06-15,2,Jackson
 Jackson,6/16/2020,2020-06-16,0,Jackson
 Jackson,6/17/2020,2020-06-17,1,Jackson
 Jackson,6/18/2020,2020-06-18,3,Jackson
-Jackson,6/19/2020,2020-06-19,1,Jackson
+Jackson,6/19/2020,2020-06-19,2,Jackson
 Jackson,6/20/2020,2020-06-20,1,Jackson
 Jackson,6/21/2020,2020-06-21,0,Jackson
 Jackson,6/22/2020,2020-06-22,1,Jackson
 Jackson,6/23/2020,2020-06-23,0,Jackson
-Jackson,6/24/2020,2020-06-24,2,Jackson
-Jackson,6/25/2020,2020-06-25,1,Jackson
-Jackson,6/26/2020,2020-06-26,1,Jackson
-Jackson,6/27/2020,2020-06-27,3,Jackson
-Jackson,6/28/2020,2020-06-28,1,Jackson
+Jackson,6/24/2020,2020-06-24,0,Jackson
+Jackson,6/25/2020,2020-06-25,3,Jackson
+Jackson,6/26/2020,2020-06-26,3,Jackson
+Jackson,6/27/2020,2020-06-27,5,Jackson
+Jackson,6/28/2020,2020-06-28,4,Jackson
 Jackson,6/29/2020,2020-06-29,4,Jackson
-Jackson,6/30/2020,2020-06-30,5,Jackson
+Jackson,6/30/2020,2020-06-30,3,Jackson
 Jackson,7/1/2020,2020-07-01,0,Jackson
+Jackson,7/2/2020,2020-07-02,1,Jackson
+Jackson,7/3/2020,2020-07-03,0,Jackson
 Kalamazoo,3/1/2020,2020-03-01,0,Kalamazoo
 Kalamazoo,3/2/2020,2020-03-02,0,Kalamazoo
 Kalamazoo,3/3/2020,2020-03-03,0,Kalamazoo
@@ -5027,21 +5107,23 @@ Kalamazoo,6/13/2020,2020-06-13,7,Kalamazoo
 Kalamazoo,6/14/2020,2020-06-14,4,Kalamazoo
 Kalamazoo,6/15/2020,2020-06-15,4,Kalamazoo
 Kalamazoo,6/16/2020,2020-06-16,4,Kalamazoo
-Kalamazoo,6/17/2020,2020-06-17,12,Kalamazoo
-Kalamazoo,6/18/2020,2020-06-18,12,Kalamazoo
+Kalamazoo,6/17/2020,2020-06-17,13,Kalamazoo
+Kalamazoo,6/18/2020,2020-06-18,13,Kalamazoo
 Kalamazoo,6/19/2020,2020-06-19,9,Kalamazoo
-Kalamazoo,6/20/2020,2020-06-20,4,Kalamazoo
+Kalamazoo,6/20/2020,2020-06-20,6,Kalamazoo
 Kalamazoo,6/21/2020,2020-06-21,6,Kalamazoo
-Kalamazoo,6/22/2020,2020-06-22,10,Kalamazoo
-Kalamazoo,6/23/2020,2020-06-23,8,Kalamazoo
-Kalamazoo,6/24/2020,2020-06-24,14,Kalamazoo
+Kalamazoo,6/22/2020,2020-06-22,11,Kalamazoo
+Kalamazoo,6/23/2020,2020-06-23,10,Kalamazoo
+Kalamazoo,6/24/2020,2020-06-24,15,Kalamazoo
 Kalamazoo,6/25/2020,2020-06-25,10,Kalamazoo
 Kalamazoo,6/26/2020,2020-06-26,8,Kalamazoo
 Kalamazoo,6/27/2020,2020-06-27,3,Kalamazoo
-Kalamazoo,6/28/2020,2020-06-28,3,Kalamazoo
+Kalamazoo,6/28/2020,2020-06-28,4,Kalamazoo
 Kalamazoo,6/29/2020,2020-06-29,2,Kalamazoo
 Kalamazoo,6/30/2020,2020-06-30,2,Kalamazoo
-Kalamazoo,7/1/2020,2020-07-01,0,Kalamazoo
+Kalamazoo,7/1/2020,2020-07-01,5,Kalamazoo
+Kalamazoo,7/2/2020,2020-07-02,0,Kalamazoo
+Kalamazoo,7/3/2020,2020-07-03,0,Kalamazoo
 Kalkaska,3/1/2020,2020-03-01,0,Kalkaska
 Kalkaska,3/2/2020,2020-03-02,0,Kalkaska
 Kalkaska,3/3/2020,2020-03-03,0,Kalkaska
@@ -5156,15 +5238,17 @@ Kalkaska,6/19/2020,2020-06-19,0,Kalkaska
 Kalkaska,6/20/2020,2020-06-20,0,Kalkaska
 Kalkaska,6/21/2020,2020-06-21,0,Kalkaska
 Kalkaska,6/22/2020,2020-06-22,0,Kalkaska
-Kalkaska,6/23/2020,2020-06-23,0,Kalkaska
-Kalkaska,6/24/2020,2020-06-24,0,Kalkaska
-Kalkaska,6/25/2020,2020-06-25,1,Kalkaska
+Kalkaska,6/23/2020,2020-06-23,1,Kalkaska
+Kalkaska,6/24/2020,2020-06-24,2,Kalkaska
+Kalkaska,6/25/2020,2020-06-25,0,Kalkaska
 Kalkaska,6/26/2020,2020-06-26,0,Kalkaska
 Kalkaska,6/27/2020,2020-06-27,0,Kalkaska
 Kalkaska,6/28/2020,2020-06-28,0,Kalkaska
-Kalkaska,6/29/2020,2020-06-29,2,Kalkaska
-Kalkaska,6/30/2020,2020-06-30,0,Kalkaska
+Kalkaska,6/29/2020,2020-06-29,0,Kalkaska
+Kalkaska,6/30/2020,2020-06-30,1,Kalkaska
 Kalkaska,7/1/2020,2020-07-01,0,Kalkaska
+Kalkaska,7/2/2020,2020-07-02,0,Kalkaska
+Kalkaska,7/3/2020,2020-07-03,0,Kalkaska
 Kent,3/1/2020,2020-03-01,1,Kent
 Kent,3/2/2020,2020-03-02,1,Kent
 Kent,3/3/2020,2020-03-03,0,Kent
@@ -5230,7 +5314,7 @@ Kent,5/1/2020,2020-05-01,111,Kent
 Kent,5/2/2020,2020-05-02,60,Kent
 Kent,5/3/2020,2020-05-03,36,Kent
 Kent,5/4/2020,2020-05-04,105,Kent
-Kent,5/5/2020,2020-05-05,93,Kent
+Kent,5/5/2020,2020-05-05,92,Kent
 Kent,5/6/2020,2020-05-06,90,Kent
 Kent,5/7/2020,2020-05-07,77,Kent
 Kent,5/8/2020,2020-05-08,90,Kent
@@ -5242,22 +5326,22 @@ Kent,5/13/2020,2020-05-13,86,Kent
 Kent,5/14/2020,2020-05-14,86,Kent
 Kent,5/15/2020,2020-05-15,115,Kent
 Kent,5/16/2020,2020-05-16,51,Kent
-Kent,5/17/2020,2020-05-17,45,Kent
-Kent,5/18/2020,2020-05-18,108,Kent
-Kent,5/19/2020,2020-05-19,73,Kent
-Kent,5/20/2020,2020-05-20,72,Kent
+Kent,5/17/2020,2020-05-17,46,Kent
+Kent,5/18/2020,2020-05-18,107,Kent
+Kent,5/19/2020,2020-05-19,76,Kent
+Kent,5/20/2020,2020-05-20,74,Kent
 Kent,5/21/2020,2020-05-21,61,Kent
 Kent,5/22/2020,2020-05-22,59,Kent
 Kent,5/23/2020,2020-05-23,31,Kent
 Kent,5/24/2020,2020-05-24,27,Kent
 Kent,5/25/2020,2020-05-25,34,Kent
 Kent,5/26/2020,2020-05-26,59,Kent
-Kent,5/27/2020,2020-05-27,67,Kent
+Kent,5/27/2020,2020-05-27,68,Kent
 Kent,5/28/2020,2020-05-28,50,Kent
 Kent,5/29/2020,2020-05-29,51,Kent
-Kent,5/30/2020,2020-05-30,38,Kent
-Kent,5/31/2020,2020-05-31,29,Kent
-Kent,6/1/2020,2020-06-01,39,Kent
+Kent,5/30/2020,2020-05-30,37,Kent
+Kent,5/31/2020,2020-05-31,28,Kent
+Kent,6/1/2020,2020-06-01,40,Kent
 Kent,6/2/2020,2020-06-02,31,Kent
 Kent,6/3/2020,2020-06-03,34,Kent
 Kent,6/4/2020,2020-06-04,22,Kent
@@ -5266,28 +5350,30 @@ Kent,6/6/2020,2020-06-06,16,Kent
 Kent,6/7/2020,2020-06-07,14,Kent
 Kent,6/8/2020,2020-06-08,19,Kent
 Kent,6/9/2020,2020-06-09,15,Kent
-Kent,6/10/2020,2020-06-10,25,Kent
+Kent,6/10/2020,2020-06-10,24,Kent
 Kent,6/11/2020,2020-06-11,20,Kent
 Kent,6/12/2020,2020-06-12,26,Kent
 Kent,6/13/2020,2020-06-13,21,Kent
 Kent,6/14/2020,2020-06-14,10,Kent
-Kent,6/15/2020,2020-06-15,31,Kent
-Kent,6/16/2020,2020-06-16,26,Kent
-Kent,6/17/2020,2020-06-17,29,Kent
-Kent,6/18/2020,2020-06-18,23,Kent
-Kent,6/19/2020,2020-06-19,30,Kent
-Kent,6/20/2020,2020-06-20,18,Kent
-Kent,6/21/2020,2020-06-21,17,Kent
-Kent,6/22/2020,2020-06-22,45,Kent
-Kent,6/23/2020,2020-06-23,47,Kent
-Kent,6/24/2020,2020-06-24,47,Kent
-Kent,6/25/2020,2020-06-25,32,Kent
-Kent,6/26/2020,2020-06-26,28,Kent
-Kent,6/27/2020,2020-06-27,9,Kent
-Kent,6/28/2020,2020-06-28,7,Kent
-Kent,6/29/2020,2020-06-29,20,Kent
-Kent,6/30/2020,2020-06-30,19,Kent
-Kent,7/1/2020,2020-07-01,1,Kent
+Kent,6/15/2020,2020-06-15,32,Kent
+Kent,6/16/2020,2020-06-16,30,Kent
+Kent,6/17/2020,2020-06-17,30,Kent
+Kent,6/18/2020,2020-06-18,24,Kent
+Kent,6/19/2020,2020-06-19,34,Kent
+Kent,6/20/2020,2020-06-20,23,Kent
+Kent,6/21/2020,2020-06-21,21,Kent
+Kent,6/22/2020,2020-06-22,52,Kent
+Kent,6/23/2020,2020-06-23,52,Kent
+Kent,6/24/2020,2020-06-24,61,Kent
+Kent,6/25/2020,2020-06-25,43,Kent
+Kent,6/26/2020,2020-06-26,36,Kent
+Kent,6/27/2020,2020-06-27,15,Kent
+Kent,6/28/2020,2020-06-28,24,Kent
+Kent,6/29/2020,2020-06-29,40,Kent
+Kent,6/30/2020,2020-06-30,33,Kent
+Kent,7/1/2020,2020-07-01,44,Kent
+Kent,7/2/2020,2020-07-02,42,Kent
+Kent,7/3/2020,2020-07-03,4,Kent
 Keweenaw,3/1/2020,2020-03-01,0,Keweenaw
 Keweenaw,3/2/2020,2020-03-02,0,Keweenaw
 Keweenaw,3/3/2020,2020-03-03,0,Keweenaw
@@ -5411,6 +5497,8 @@ Keweenaw,6/28/2020,2020-06-28,0,Keweenaw
 Keweenaw,6/29/2020,2020-06-29,0,Keweenaw
 Keweenaw,6/30/2020,2020-06-30,0,Keweenaw
 Keweenaw,7/1/2020,2020-07-01,0,Keweenaw
+Keweenaw,7/2/2020,2020-07-02,0,Keweenaw
+Keweenaw,7/3/2020,2020-07-03,0,Keweenaw
 Lake,3/1/2020,2020-03-01,0,Lake
 Lake,3/2/2020,2020-03-02,0,Lake
 Lake,3/3/2020,2020-03-03,0,Lake
@@ -5510,7 +5598,7 @@ Lake,6/4/2020,2020-06-04,0,Lake
 Lake,6/5/2020,2020-06-05,0,Lake
 Lake,6/6/2020,2020-06-06,0,Lake
 Lake,6/7/2020,2020-06-07,0,Lake
-Lake,6/8/2020,2020-06-08,0,Lake
+Lake,6/8/2020,2020-06-08,1,Lake
 Lake,6/9/2020,2020-06-09,0,Lake
 Lake,6/10/2020,2020-06-10,0,Lake
 Lake,6/11/2020,2020-06-11,0,Lake
@@ -5534,6 +5622,8 @@ Lake,6/28/2020,2020-06-28,0,Lake
 Lake,6/29/2020,2020-06-29,1,Lake
 Lake,6/30/2020,2020-06-30,0,Lake
 Lake,7/1/2020,2020-07-01,0,Lake
+Lake,7/2/2020,2020-07-02,0,Lake
+Lake,7/3/2020,2020-07-03,0,Lake
 Lapeer,3/1/2020,2020-03-01,0,Lapeer
 Lapeer,3/2/2020,2020-03-02,0,Lapeer
 Lapeer,3/3/2020,2020-03-03,0,Lapeer
@@ -5646,17 +5736,19 @@ Lapeer,6/17/2020,2020-06-17,6,Lapeer
 Lapeer,6/18/2020,2020-06-18,1,Lapeer
 Lapeer,6/19/2020,2020-06-19,24,Lapeer
 Lapeer,6/20/2020,2020-06-20,1,Lapeer
-Lapeer,6/21/2020,2020-06-21,0,Lapeer
+Lapeer,6/21/2020,2020-06-21,1,Lapeer
 Lapeer,6/22/2020,2020-06-22,4,Lapeer
 Lapeer,6/23/2020,2020-06-23,3,Lapeer
-Lapeer,6/24/2020,2020-06-24,5,Lapeer
-Lapeer,6/25/2020,2020-06-25,0,Lapeer
-Lapeer,6/26/2020,2020-06-26,2,Lapeer
+Lapeer,6/24/2020,2020-06-24,7,Lapeer
+Lapeer,6/25/2020,2020-06-25,1,Lapeer
+Lapeer,6/26/2020,2020-06-26,1,Lapeer
 Lapeer,6/27/2020,2020-06-27,0,Lapeer
-Lapeer,6/28/2020,2020-06-28,1,Lapeer
+Lapeer,6/28/2020,2020-06-28,2,Lapeer
 Lapeer,6/29/2020,2020-06-29,1,Lapeer
 Lapeer,6/30/2020,2020-06-30,0,Lapeer
-Lapeer,7/1/2020,2020-07-01,0,Lapeer
+Lapeer,7/1/2020,2020-07-01,1,Lapeer
+Lapeer,7/2/2020,2020-07-02,1,Lapeer
+Lapeer,7/3/2020,2020-07-03,0,Lapeer
 Leelanau,3/1/2020,2020-03-01,0,Leelanau
 Leelanau,3/2/2020,2020-03-02,0,Leelanau
 Leelanau,3/3/2020,2020-03-03,0,Leelanau
@@ -5774,12 +5866,14 @@ Leelanau,6/22/2020,2020-06-22,0,Leelanau
 Leelanau,6/23/2020,2020-06-23,0,Leelanau
 Leelanau,6/24/2020,2020-06-24,0,Leelanau
 Leelanau,6/25/2020,2020-06-25,0,Leelanau
-Leelanau,6/26/2020,2020-06-26,0,Leelanau
+Leelanau,6/26/2020,2020-06-26,1,Leelanau
 Leelanau,6/27/2020,2020-06-27,0,Leelanau
 Leelanau,6/28/2020,2020-06-28,1,Leelanau
 Leelanau,6/29/2020,2020-06-29,1,Leelanau
-Leelanau,6/30/2020,2020-06-30,1,Leelanau
+Leelanau,6/30/2020,2020-06-30,0,Leelanau
 Leelanau,7/1/2020,2020-07-01,0,Leelanau
+Leelanau,7/2/2020,2020-07-02,0,Leelanau
+Leelanau,7/3/2020,2020-07-03,0,Leelanau
 Lenawee,3/1/2020,2020-03-01,0,Lenawee
 Lenawee,3/2/2020,2020-03-02,0,Lenawee
 Lenawee,3/3/2020,2020-03-03,0,Lenawee
@@ -5895,14 +5989,16 @@ Lenawee,6/20/2020,2020-06-20,0,Lenawee
 Lenawee,6/21/2020,2020-06-21,0,Lenawee
 Lenawee,6/22/2020,2020-06-22,3,Lenawee
 Lenawee,6/23/2020,2020-06-23,0,Lenawee
-Lenawee,6/24/2020,2020-06-24,8,Lenawee
+Lenawee,6/24/2020,2020-06-24,7,Lenawee
 Lenawee,6/25/2020,2020-06-25,4,Lenawee
 Lenawee,6/26/2020,2020-06-26,1,Lenawee
-Lenawee,6/27/2020,2020-06-27,0,Lenawee
-Lenawee,6/28/2020,2020-06-28,0,Lenawee
-Lenawee,6/29/2020,2020-06-29,4,Lenawee
-Lenawee,6/30/2020,2020-06-30,1,Lenawee
-Lenawee,7/1/2020,2020-07-01,0,Lenawee
+Lenawee,6/27/2020,2020-06-27,1,Lenawee
+Lenawee,6/28/2020,2020-06-28,2,Lenawee
+Lenawee,6/29/2020,2020-06-29,5,Lenawee
+Lenawee,6/30/2020,2020-06-30,5,Lenawee
+Lenawee,7/1/2020,2020-07-01,5,Lenawee
+Lenawee,7/2/2020,2020-07-02,1,Lenawee
+Lenawee,7/3/2020,2020-07-03,0,Lenawee
 Livingston,3/1/2020,2020-03-01,0,Livingston
 Livingston,3/2/2020,2020-03-02,0,Livingston
 Livingston,3/3/2020,2020-03-03,0,Livingston
@@ -6004,7 +6100,7 @@ Livingston,6/6/2020,2020-06-06,1,Livingston
 Livingston,6/7/2020,2020-06-07,0,Livingston
 Livingston,6/8/2020,2020-06-08,1,Livingston
 Livingston,6/9/2020,2020-06-09,1,Livingston
-Livingston,6/10/2020,2020-06-10,2,Livingston
+Livingston,6/10/2020,2020-06-10,3,Livingston
 Livingston,6/11/2020,2020-06-11,1,Livingston
 Livingston,6/12/2020,2020-06-12,0,Livingston
 Livingston,6/13/2020,2020-06-13,3,Livingston
@@ -6017,15 +6113,17 @@ Livingston,6/19/2020,2020-06-19,3,Livingston
 Livingston,6/20/2020,2020-06-20,1,Livingston
 Livingston,6/21/2020,2020-06-21,5,Livingston
 Livingston,6/22/2020,2020-06-22,5,Livingston
-Livingston,6/23/2020,2020-06-23,6,Livingston
-Livingston,6/24/2020,2020-06-24,4,Livingston
-Livingston,6/25/2020,2020-06-25,0,Livingston
+Livingston,6/23/2020,2020-06-23,5,Livingston
+Livingston,6/24/2020,2020-06-24,5,Livingston
+Livingston,6/25/2020,2020-06-25,1,Livingston
 Livingston,6/26/2020,2020-06-26,5,Livingston
-Livingston,6/27/2020,2020-06-27,2,Livingston
+Livingston,6/27/2020,2020-06-27,3,Livingston
 Livingston,6/28/2020,2020-06-28,0,Livingston
-Livingston,6/29/2020,2020-06-29,4,Livingston
-Livingston,6/30/2020,2020-06-30,0,Livingston
+Livingston,6/29/2020,2020-06-29,5,Livingston
+Livingston,6/30/2020,2020-06-30,1,Livingston
 Livingston,7/1/2020,2020-07-01,0,Livingston
+Livingston,7/2/2020,2020-07-02,0,Livingston
+Livingston,7/3/2020,2020-07-03,0,Livingston
 Luce,3/1/2020,2020-03-01,0,Luce
 Luce,3/2/2020,2020-03-02,0,Luce
 Luce,3/3/2020,2020-03-03,0,Luce
@@ -6149,6 +6247,8 @@ Luce,6/28/2020,2020-06-28,0,Luce
 Luce,6/29/2020,2020-06-29,0,Luce
 Luce,6/30/2020,2020-06-30,0,Luce
 Luce,7/1/2020,2020-07-01,0,Luce
+Luce,7/2/2020,2020-07-02,0,Luce
+Luce,7/3/2020,2020-07-03,0,Luce
 Mackinac,3/1/2020,2020-03-01,0,Mackinac
 Mackinac,3/2/2020,2020-03-02,0,Mackinac
 Mackinac,3/3/2020,2020-03-03,0,Mackinac
@@ -6272,6 +6372,8 @@ Mackinac,6/28/2020,2020-06-28,0,Mackinac
 Mackinac,6/29/2020,2020-06-29,0,Mackinac
 Mackinac,6/30/2020,2020-06-30,0,Mackinac
 Mackinac,7/1/2020,2020-07-01,0,Mackinac
+Mackinac,7/2/2020,2020-07-02,0,Mackinac
+Mackinac,7/3/2020,2020-07-03,0,Mackinac
 Macomb,3/1/2020,2020-03-01,1,Macomb
 Macomb,3/2/2020,2020-03-02,1,Macomb
 Macomb,3/3/2020,2020-03-03,2,Macomb
@@ -6320,7 +6422,7 @@ Macomb,4/14/2020,2020-04-14,130,Macomb
 Macomb,4/15/2020,2020-04-15,112,Macomb
 Macomb,4/16/2020,2020-04-16,81,Macomb
 Macomb,4/17/2020,2020-04-17,98,Macomb
-Macomb,4/18/2020,2020-04-18,75,Macomb
+Macomb,4/18/2020,2020-04-18,74,Macomb
 Macomb,4/19/2020,2020-04-19,60,Macomb
 Macomb,4/20/2020,2020-04-20,100,Macomb
 Macomb,4/21/2020,2020-04-21,96,Macomb
@@ -6343,10 +6445,10 @@ Macomb,5/7/2020,2020-05-07,42,Macomb
 Macomb,5/8/2020,2020-05-08,56,Macomb
 Macomb,5/9/2020,2020-05-09,29,Macomb
 Macomb,5/10/2020,2020-05-10,20,Macomb
-Macomb,5/11/2020,2020-05-11,36,Macomb
-Macomb,5/12/2020,2020-05-12,32,Macomb
-Macomb,5/13/2020,2020-05-13,37,Macomb
-Macomb,5/14/2020,2020-05-14,49,Macomb
+Macomb,5/11/2020,2020-05-11,38,Macomb
+Macomb,5/12/2020,2020-05-12,33,Macomb
+Macomb,5/13/2020,2020-05-13,35,Macomb
+Macomb,5/14/2020,2020-05-14,46,Macomb
 Macomb,5/15/2020,2020-05-15,33,Macomb
 Macomb,5/16/2020,2020-05-16,17,Macomb
 Macomb,5/17/2020,2020-05-17,5,Macomb
@@ -6364,7 +6466,7 @@ Macomb,5/28/2020,2020-05-28,23,Macomb
 Macomb,5/29/2020,2020-05-29,20,Macomb
 Macomb,5/30/2020,2020-05-30,29,Macomb
 Macomb,5/31/2020,2020-05-31,26,Macomb
-Macomb,6/1/2020,2020-06-01,10,Macomb
+Macomb,6/1/2020,2020-06-01,11,Macomb
 Macomb,6/2/2020,2020-06-02,13,Macomb
 Macomb,6/3/2020,2020-06-03,19,Macomb
 Macomb,6/4/2020,2020-06-04,16,Macomb
@@ -6374,27 +6476,29 @@ Macomb,6/7/2020,2020-06-07,4,Macomb
 Macomb,6/8/2020,2020-06-08,11,Macomb
 Macomb,6/9/2020,2020-06-09,14,Macomb
 Macomb,6/10/2020,2020-06-10,16,Macomb
-Macomb,6/11/2020,2020-06-11,17,Macomb
+Macomb,6/11/2020,2020-06-11,16,Macomb
 Macomb,6/12/2020,2020-06-12,16,Macomb
-Macomb,6/13/2020,2020-06-13,14,Macomb
+Macomb,6/13/2020,2020-06-13,13,Macomb
 Macomb,6/14/2020,2020-06-14,9,Macomb
 Macomb,6/15/2020,2020-06-15,7,Macomb
-Macomb,6/16/2020,2020-06-16,25,Macomb
+Macomb,6/16/2020,2020-06-16,24,Macomb
 Macomb,6/17/2020,2020-06-17,18,Macomb
 Macomb,6/18/2020,2020-06-18,12,Macomb
 Macomb,6/19/2020,2020-06-19,14,Macomb
-Macomb,6/20/2020,2020-06-20,19,Macomb
+Macomb,6/20/2020,2020-06-20,20,Macomb
 Macomb,6/21/2020,2020-06-21,14,Macomb
-Macomb,6/22/2020,2020-06-22,24,Macomb
-Macomb,6/23/2020,2020-06-23,32,Macomb
-Macomb,6/24/2020,2020-06-24,30,Macomb
-Macomb,6/25/2020,2020-06-25,57,Macomb
-Macomb,6/26/2020,2020-06-26,21,Macomb
-Macomb,6/27/2020,2020-06-27,5,Macomb
-Macomb,6/28/2020,2020-06-28,3,Macomb
-Macomb,6/29/2020,2020-06-29,8,Macomb
-Macomb,6/30/2020,2020-06-30,8,Macomb
-Macomb,7/1/2020,2020-07-01,3,Macomb
+Macomb,6/22/2020,2020-06-22,27,Macomb
+Macomb,6/23/2020,2020-06-23,36,Macomb
+Macomb,6/24/2020,2020-06-24,32,Macomb
+Macomb,6/25/2020,2020-06-25,61,Macomb
+Macomb,6/26/2020,2020-06-26,28,Macomb
+Macomb,6/27/2020,2020-06-27,16,Macomb
+Macomb,6/28/2020,2020-06-28,9,Macomb
+Macomb,6/29/2020,2020-06-29,20,Macomb
+Macomb,6/30/2020,2020-06-30,16,Macomb
+Macomb,7/1/2020,2020-07-01,18,Macomb
+Macomb,7/2/2020,2020-07-02,4,Macomb
+Macomb,7/3/2020,2020-07-03,2,Macomb
 Manistee,3/1/2020,2020-03-01,0,Manistee
 Manistee,3/2/2020,2020-03-02,0,Manistee
 Manistee,3/3/2020,2020-03-03,0,Manistee
@@ -6512,12 +6616,14 @@ Manistee,6/22/2020,2020-06-22,0,Manistee
 Manistee,6/23/2020,2020-06-23,0,Manistee
 Manistee,6/24/2020,2020-06-24,1,Manistee
 Manistee,6/25/2020,2020-06-25,0,Manistee
-Manistee,6/26/2020,2020-06-26,0,Manistee
+Manistee,6/26/2020,2020-06-26,1,Manistee
 Manistee,6/27/2020,2020-06-27,0,Manistee
 Manistee,6/28/2020,2020-06-28,0,Manistee
 Manistee,6/29/2020,2020-06-29,0,Manistee
-Manistee,6/30/2020,2020-06-30,0,Manistee
+Manistee,6/30/2020,2020-06-30,1,Manistee
 Manistee,7/1/2020,2020-07-01,0,Manistee
+Manistee,7/2/2020,2020-07-02,0,Manistee
+Manistee,7/3/2020,2020-07-03,0,Manistee
 Marquette,3/1/2020,2020-03-01,0,Marquette
 Marquette,3/2/2020,2020-03-02,0,Marquette
 Marquette,3/3/2020,2020-03-03,0,Marquette
@@ -6632,15 +6738,17 @@ Marquette,6/19/2020,2020-06-19,0,Marquette
 Marquette,6/20/2020,2020-06-20,0,Marquette
 Marquette,6/21/2020,2020-06-21,0,Marquette
 Marquette,6/22/2020,2020-06-22,0,Marquette
-Marquette,6/23/2020,2020-06-23,1,Marquette
-Marquette,6/24/2020,2020-06-24,0,Marquette
+Marquette,6/23/2020,2020-06-23,4,Marquette
+Marquette,6/24/2020,2020-06-24,1,Marquette
 Marquette,6/25/2020,2020-06-25,0,Marquette
 Marquette,6/26/2020,2020-06-26,0,Marquette
-Marquette,6/27/2020,2020-06-27,0,Marquette
+Marquette,6/27/2020,2020-06-27,1,Marquette
 Marquette,6/28/2020,2020-06-28,1,Marquette
 Marquette,6/29/2020,2020-06-29,0,Marquette
 Marquette,6/30/2020,2020-06-30,0,Marquette
 Marquette,7/1/2020,2020-07-01,0,Marquette
+Marquette,7/2/2020,2020-07-02,1,Marquette
+Marquette,7/3/2020,2020-07-03,0,Marquette
 Mason,3/1/2020,2020-03-01,0,Mason
 Mason,3/2/2020,2020-03-02,0,Mason
 Mason,3/3/2020,2020-03-03,0,Mason
@@ -6755,15 +6863,17 @@ Mason,6/19/2020,2020-06-19,0,Mason
 Mason,6/20/2020,2020-06-20,1,Mason
 Mason,6/21/2020,2020-06-21,1,Mason
 Mason,6/22/2020,2020-06-22,0,Mason
-Mason,6/23/2020,2020-06-23,1,Mason
+Mason,6/23/2020,2020-06-23,0,Mason
 Mason,6/24/2020,2020-06-24,2,Mason
 Mason,6/25/2020,2020-06-25,2,Mason
-Mason,6/26/2020,2020-06-26,2,Mason
-Mason,6/27/2020,2020-06-27,0,Mason
+Mason,6/26/2020,2020-06-26,3,Mason
+Mason,6/27/2020,2020-06-27,3,Mason
 Mason,6/28/2020,2020-06-28,0,Mason
 Mason,6/29/2020,2020-06-29,1,Mason
-Mason,6/30/2020,2020-06-30,1,Mason
+Mason,6/30/2020,2020-06-30,3,Mason
 Mason,7/1/2020,2020-07-01,0,Mason
+Mason,7/2/2020,2020-07-02,0,Mason
+Mason,7/3/2020,2020-07-03,0,Mason
 MDOC,3/1/2020,2020-03-01,0,MDOC
 MDOC,3/2/2020,2020-03-02,1,MDOC
 MDOC,3/3/2020,2020-03-03,0,MDOC
@@ -6835,9 +6945,9 @@ MDOC,5/7/2020,2020-05-07,8,MDOC
 MDOC,5/8/2020,2020-05-08,6,MDOC
 MDOC,5/9/2020,2020-05-09,0,MDOC
 MDOC,5/10/2020,2020-05-10,3,MDOC
-MDOC,5/11/2020,2020-05-11,298,MDOC
+MDOC,5/11/2020,2020-05-11,300,MDOC
 MDOC,5/12/2020,2020-05-12,1057,MDOC
-MDOC,5/13/2020,2020-05-13,217,MDOC
+MDOC,5/13/2020,2020-05-13,218,MDOC
 MDOC,5/14/2020,2020-05-14,17,MDOC
 MDOC,5/15/2020,2020-05-15,7,MDOC
 MDOC,5/16/2020,2020-05-16,3,MDOC
@@ -6868,7 +6978,7 @@ MDOC,6/9/2020,2020-06-09,1,MDOC
 MDOC,6/10/2020,2020-06-10,1,MDOC
 MDOC,6/11/2020,2020-06-11,4,MDOC
 MDOC,6/12/2020,2020-06-12,1,MDOC
-MDOC,6/13/2020,2020-06-13,1,MDOC
+MDOC,6/13/2020,2020-06-13,2,MDOC
 MDOC,6/14/2020,2020-06-14,0,MDOC
 MDOC,6/15/2020,2020-06-15,0,MDOC
 MDOC,6/16/2020,2020-06-16,0,MDOC
@@ -6885,8 +6995,10 @@ MDOC,6/26/2020,2020-06-26,2,MDOC
 MDOC,6/27/2020,2020-06-27,0,MDOC
 MDOC,6/28/2020,2020-06-28,0,MDOC
 MDOC,6/29/2020,2020-06-29,3,MDOC
-MDOC,6/30/2020,2020-06-30,0,MDOC
+MDOC,6/30/2020,2020-06-30,3,MDOC
 MDOC,7/1/2020,2020-07-01,0,MDOC
+MDOC,7/2/2020,2020-07-02,0,MDOC
+MDOC,7/3/2020,2020-07-03,0,MDOC
 Mecosta,3/1/2020,2020-03-01,0,Mecosta
 Mecosta,3/2/2020,2020-03-02,0,Mecosta
 Mecosta,3/3/2020,2020-03-03,0,Mecosta
@@ -7010,6 +7122,8 @@ Mecosta,6/28/2020,2020-06-28,0,Mecosta
 Mecosta,6/29/2020,2020-06-29,0,Mecosta
 Mecosta,6/30/2020,2020-06-30,0,Mecosta
 Mecosta,7/1/2020,2020-07-01,0,Mecosta
+Mecosta,7/2/2020,2020-07-02,1,Mecosta
+Mecosta,7/3/2020,2020-07-03,0,Mecosta
 Menominee,3/1/2020,2020-03-01,0,Menominee
 Menominee,3/2/2020,2020-03-02,0,Menominee
 Menominee,3/3/2020,2020-03-03,0,Menominee
@@ -7118,7 +7232,7 @@ Menominee,6/13/2020,2020-06-13,0,Menominee
 Menominee,6/14/2020,2020-06-14,0,Menominee
 Menominee,6/15/2020,2020-06-15,0,Menominee
 Menominee,6/16/2020,2020-06-16,0,Menominee
-Menominee,6/17/2020,2020-06-17,1,Menominee
+Menominee,6/17/2020,2020-06-17,0,Menominee
 Menominee,6/18/2020,2020-06-18,1,Menominee
 Menominee,6/19/2020,2020-06-19,1,Menominee
 Menominee,6/20/2020,2020-06-20,0,Menominee
@@ -7127,12 +7241,14 @@ Menominee,6/22/2020,2020-06-22,0,Menominee
 Menominee,6/23/2020,2020-06-23,2,Menominee
 Menominee,6/24/2020,2020-06-24,1,Menominee
 Menominee,6/25/2020,2020-06-25,0,Menominee
-Menominee,6/26/2020,2020-06-26,0,Menominee
+Menominee,6/26/2020,2020-06-26,2,Menominee
 Menominee,6/27/2020,2020-06-27,0,Menominee
-Menominee,6/28/2020,2020-06-28,0,Menominee
-Menominee,6/29/2020,2020-06-29,0,Menominee
-Menominee,6/30/2020,2020-06-30,0,Menominee
-Menominee,7/1/2020,2020-07-01,0,Menominee
+Menominee,6/28/2020,2020-06-28,1,Menominee
+Menominee,6/29/2020,2020-06-29,1,Menominee
+Menominee,6/30/2020,2020-06-30,1,Menominee
+Menominee,7/1/2020,2020-07-01,1,Menominee
+Menominee,7/2/2020,2020-07-02,0,Menominee
+Menominee,7/3/2020,2020-07-03,0,Menominee
 Midland,3/1/2020,2020-03-01,0,Midland
 Midland,3/2/2020,2020-03-02,0,Midland
 Midland,3/3/2020,2020-03-03,0,Midland
@@ -7237,7 +7353,7 @@ Midland,6/9/2020,2020-06-09,3,Midland
 Midland,6/10/2020,2020-06-10,2,Midland
 Midland,6/11/2020,2020-06-11,1,Midland
 Midland,6/12/2020,2020-06-12,1,Midland
-Midland,6/13/2020,2020-06-13,1,Midland
+Midland,6/13/2020,2020-06-13,0,Midland
 Midland,6/14/2020,2020-06-14,0,Midland
 Midland,6/15/2020,2020-06-15,0,Midland
 Midland,6/16/2020,2020-06-16,1,Midland
@@ -7248,14 +7364,16 @@ Midland,6/20/2020,2020-06-20,3,Midland
 Midland,6/21/2020,2020-06-21,1,Midland
 Midland,6/22/2020,2020-06-22,1,Midland
 Midland,6/23/2020,2020-06-23,0,Midland
-Midland,6/24/2020,2020-06-24,2,Midland
-Midland,6/25/2020,2020-06-25,0,Midland
+Midland,6/24/2020,2020-06-24,1,Midland
+Midland,6/25/2020,2020-06-25,1,Midland
 Midland,6/26/2020,2020-06-26,1,Midland
 Midland,6/27/2020,2020-06-27,1,Midland
-Midland,6/28/2020,2020-06-28,1,Midland
+Midland,6/28/2020,2020-06-28,2,Midland
 Midland,6/29/2020,2020-06-29,1,Midland
-Midland,6/30/2020,2020-06-30,0,Midland
-Midland,7/1/2020,2020-07-01,0,Midland
+Midland,6/30/2020,2020-06-30,1,Midland
+Midland,7/1/2020,2020-07-01,1,Midland
+Midland,7/2/2020,2020-07-02,0,Midland
+Midland,7/3/2020,2020-07-03,0,Midland
 Missaukee,3/1/2020,2020-03-01,0,Missaukee
 Missaukee,3/2/2020,2020-03-02,0,Missaukee
 Missaukee,3/3/2020,2020-03-03,0,Missaukee
@@ -7379,6 +7497,8 @@ Missaukee,6/28/2020,2020-06-28,0,Missaukee
 Missaukee,6/29/2020,2020-06-29,0,Missaukee
 Missaukee,6/30/2020,2020-06-30,0,Missaukee
 Missaukee,7/1/2020,2020-07-01,0,Missaukee
+Missaukee,7/2/2020,2020-07-02,0,Missaukee
+Missaukee,7/3/2020,2020-07-03,0,Missaukee
 Monroe,3/1/2020,2020-03-01,0,Monroe
 Monroe,3/2/2020,2020-03-02,0,Monroe
 Monroe,3/3/2020,2020-03-03,0,Monroe
@@ -7493,15 +7613,17 @@ Monroe,6/19/2020,2020-06-19,2,Monroe
 Monroe,6/20/2020,2020-06-20,1,Monroe
 Monroe,6/21/2020,2020-06-21,2,Monroe
 Monroe,6/22/2020,2020-06-22,6,Monroe
-Monroe,6/23/2020,2020-06-23,4,Monroe
+Monroe,6/23/2020,2020-06-23,5,Monroe
 Monroe,6/24/2020,2020-06-24,5,Monroe
 Monroe,6/25/2020,2020-06-25,2,Monroe
 Monroe,6/26/2020,2020-06-26,10,Monroe
 Monroe,6/27/2020,2020-06-27,1,Monroe
 Monroe,6/28/2020,2020-06-28,1,Monroe
-Monroe,6/29/2020,2020-06-29,2,Monroe
-Monroe,6/30/2020,2020-06-30,0,Monroe
-Monroe,7/1/2020,2020-07-01,0,Monroe
+Monroe,6/29/2020,2020-06-29,3,Monroe
+Monroe,6/30/2020,2020-06-30,3,Monroe
+Monroe,7/1/2020,2020-07-01,3,Monroe
+Monroe,7/2/2020,2020-07-02,0,Monroe
+Monroe,7/3/2020,2020-07-03,0,Monroe
 Montcalm,3/1/2020,2020-03-01,0,Montcalm
 Montcalm,3/2/2020,2020-03-02,0,Montcalm
 Montcalm,3/3/2020,2020-03-03,0,Montcalm
@@ -7614,17 +7736,19 @@ Montcalm,6/17/2020,2020-06-17,1,Montcalm
 Montcalm,6/18/2020,2020-06-18,0,Montcalm
 Montcalm,6/19/2020,2020-06-19,0,Montcalm
 Montcalm,6/20/2020,2020-06-20,0,Montcalm
-Montcalm,6/21/2020,2020-06-21,0,Montcalm
-Montcalm,6/22/2020,2020-06-22,0,Montcalm
+Montcalm,6/21/2020,2020-06-21,2,Montcalm
+Montcalm,6/22/2020,2020-06-22,1,Montcalm
 Montcalm,6/23/2020,2020-06-23,1,Montcalm
 Montcalm,6/24/2020,2020-06-24,1,Montcalm
 Montcalm,6/25/2020,2020-06-25,0,Montcalm
-Montcalm,6/26/2020,2020-06-26,0,Montcalm
-Montcalm,6/27/2020,2020-06-27,1,Montcalm
-Montcalm,6/28/2020,2020-06-28,0,Montcalm
-Montcalm,6/29/2020,2020-06-29,5,Montcalm
+Montcalm,6/26/2020,2020-06-26,1,Montcalm
+Montcalm,6/27/2020,2020-06-27,3,Montcalm
+Montcalm,6/28/2020,2020-06-28,1,Montcalm
+Montcalm,6/29/2020,2020-06-29,3,Montcalm
 Montcalm,6/30/2020,2020-06-30,0,Montcalm
-Montcalm,7/1/2020,2020-07-01,0,Montcalm
+Montcalm,7/1/2020,2020-07-01,2,Montcalm
+Montcalm,7/2/2020,2020-07-02,0,Montcalm
+Montcalm,7/3/2020,2020-07-03,0,Montcalm
 Montmorency,3/1/2020,2020-03-01,0,Montmorency
 Montmorency,3/2/2020,2020-03-02,0,Montmorency
 Montmorency,3/3/2020,2020-03-03,0,Montmorency
@@ -7748,6 +7872,8 @@ Montmorency,6/28/2020,2020-06-28,0,Montmorency
 Montmorency,6/29/2020,2020-06-29,0,Montmorency
 Montmorency,6/30/2020,2020-06-30,0,Montmorency
 Montmorency,7/1/2020,2020-07-01,0,Montmorency
+Montmorency,7/2/2020,2020-07-02,0,Montmorency
+Montmorency,7/3/2020,2020-07-03,0,Montmorency
 Muskegon,3/1/2020,2020-03-01,0,Muskegon
 Muskegon,3/2/2020,2020-03-02,0,Muskegon
 Muskegon,3/3/2020,2020-03-03,0,Muskegon
@@ -7821,7 +7947,7 @@ Muskegon,5/9/2020,2020-05-09,10,Muskegon
 Muskegon,5/10/2020,2020-05-10,16,Muskegon
 Muskegon,5/11/2020,2020-05-11,25,Muskegon
 Muskegon,5/12/2020,2020-05-12,21,Muskegon
-Muskegon,5/13/2020,2020-05-13,19,Muskegon
+Muskegon,5/13/2020,2020-05-13,20,Muskegon
 Muskegon,5/14/2020,2020-05-14,17,Muskegon
 Muskegon,5/15/2020,2020-05-15,15,Muskegon
 Muskegon,5/16/2020,2020-05-16,24,Muskegon
@@ -7852,25 +7978,27 @@ Muskegon,6/9/2020,2020-06-09,4,Muskegon
 Muskegon,6/10/2020,2020-06-10,3,Muskegon
 Muskegon,6/11/2020,2020-06-11,2,Muskegon
 Muskegon,6/12/2020,2020-06-12,5,Muskegon
-Muskegon,6/13/2020,2020-06-13,6,Muskegon
+Muskegon,6/13/2020,2020-06-13,7,Muskegon
 Muskegon,6/14/2020,2020-06-14,6,Muskegon
 Muskegon,6/15/2020,2020-06-15,2,Muskegon
 Muskegon,6/16/2020,2020-06-16,4,Muskegon
 Muskegon,6/17/2020,2020-06-17,13,Muskegon
 Muskegon,6/18/2020,2020-06-18,5,Muskegon
-Muskegon,6/19/2020,2020-06-19,8,Muskegon
+Muskegon,6/19/2020,2020-06-19,7,Muskegon
 Muskegon,6/20/2020,2020-06-20,1,Muskegon
-Muskegon,6/21/2020,2020-06-21,1,Muskegon
+Muskegon,6/21/2020,2020-06-21,2,Muskegon
 Muskegon,6/22/2020,2020-06-22,9,Muskegon
-Muskegon,6/23/2020,2020-06-23,1,Muskegon
+Muskegon,6/23/2020,2020-06-23,2,Muskegon
 Muskegon,6/24/2020,2020-06-24,5,Muskegon
 Muskegon,6/25/2020,2020-06-25,4,Muskegon
-Muskegon,6/26/2020,2020-06-26,2,Muskegon
-Muskegon,6/27/2020,2020-06-27,0,Muskegon
+Muskegon,6/26/2020,2020-06-26,4,Muskegon
+Muskegon,6/27/2020,2020-06-27,1,Muskegon
 Muskegon,6/28/2020,2020-06-28,1,Muskegon
-Muskegon,6/29/2020,2020-06-29,0,Muskegon
+Muskegon,6/29/2020,2020-06-29,6,Muskegon
 Muskegon,6/30/2020,2020-06-30,5,Muskegon
-Muskegon,7/1/2020,2020-07-01,0,Muskegon
+Muskegon,7/1/2020,2020-07-01,8,Muskegon
+Muskegon,7/2/2020,2020-07-02,1,Muskegon
+Muskegon,7/3/2020,2020-07-03,0,Muskegon
 Newaygo,3/1/2020,2020-03-01,0,Newaygo
 Newaygo,3/2/2020,2020-03-02,0,Newaygo
 Newaygo,3/3/2020,2020-03-03,0,Newaygo
@@ -7981,19 +8109,21 @@ Newaygo,6/15/2020,2020-06-15,1,Newaygo
 Newaygo,6/16/2020,2020-06-16,12,Newaygo
 Newaygo,6/17/2020,2020-06-17,0,Newaygo
 Newaygo,6/18/2020,2020-06-18,1,Newaygo
-Newaygo,6/19/2020,2020-06-19,7,Newaygo
+Newaygo,6/19/2020,2020-06-19,8,Newaygo
 Newaygo,6/20/2020,2020-06-20,3,Newaygo
 Newaygo,6/21/2020,2020-06-21,0,Newaygo
 Newaygo,6/22/2020,2020-06-22,4,Newaygo
 Newaygo,6/23/2020,2020-06-23,0,Newaygo
 Newaygo,6/24/2020,2020-06-24,2,Newaygo
-Newaygo,6/25/2020,2020-06-25,0,Newaygo
+Newaygo,6/25/2020,2020-06-25,2,Newaygo
 Newaygo,6/26/2020,2020-06-26,0,Newaygo
-Newaygo,6/27/2020,2020-06-27,0,Newaygo
+Newaygo,6/27/2020,2020-06-27,2,Newaygo
 Newaygo,6/28/2020,2020-06-28,1,Newaygo
-Newaygo,6/29/2020,2020-06-29,1,Newaygo
-Newaygo,6/30/2020,2020-06-30,0,Newaygo
-Newaygo,7/1/2020,2020-07-01,0,Newaygo
+Newaygo,6/29/2020,2020-06-29,2,Newaygo
+Newaygo,6/30/2020,2020-06-30,1,Newaygo
+Newaygo,7/1/2020,2020-07-01,1,Newaygo
+Newaygo,7/2/2020,2020-07-02,0,Newaygo
+Newaygo,7/3/2020,2020-07-03,0,Newaygo
 Oakland,3/1/2020,2020-03-01,2,Oakland
 Oakland,3/2/2020,2020-03-02,2,Oakland
 Oakland,3/3/2020,2020-03-03,12,Oakland
@@ -8038,7 +8168,7 @@ Oakland,4/10/2020,2020-04-10,184,Oakland
 Oakland,4/11/2020,2020-04-11,97,Oakland
 Oakland,4/12/2020,2020-04-12,91,Oakland
 Oakland,4/13/2020,2020-04-13,166,Oakland
-Oakland,4/14/2020,2020-04-14,127,Oakland
+Oakland,4/14/2020,2020-04-14,126,Oakland
 Oakland,4/15/2020,2020-04-15,122,Oakland
 Oakland,4/16/2020,2020-04-16,163,Oakland
 Oakland,4/17/2020,2020-04-17,105,Oakland
@@ -8050,73 +8180,75 @@ Oakland,4/22/2020,2020-04-22,119,Oakland
 Oakland,4/23/2020,2020-04-23,134,Oakland
 Oakland,4/24/2020,2020-04-24,113,Oakland
 Oakland,4/25/2020,2020-04-25,57,Oakland
-Oakland,4/26/2020,2020-04-26,68,Oakland
+Oakland,4/26/2020,2020-04-26,67,Oakland
 Oakland,4/27/2020,2020-04-27,95,Oakland
-Oakland,4/28/2020,2020-04-28,97,Oakland
-Oakland,4/29/2020,2020-04-29,107,Oakland
-Oakland,4/30/2020,2020-04-30,105,Oakland
+Oakland,4/28/2020,2020-04-28,95,Oakland
+Oakland,4/29/2020,2020-04-29,108,Oakland
+Oakland,4/30/2020,2020-04-30,109,Oakland
 Oakland,5/1/2020,2020-05-01,92,Oakland
 Oakland,5/2/2020,2020-05-02,34,Oakland
 Oakland,5/3/2020,2020-05-03,27,Oakland
-Oakland,5/4/2020,2020-05-04,97,Oakland
-Oakland,5/5/2020,2020-05-05,88,Oakland
-Oakland,5/6/2020,2020-05-06,99,Oakland
-Oakland,5/7/2020,2020-05-07,91,Oakland
-Oakland,5/8/2020,2020-05-08,94,Oakland
-Oakland,5/9/2020,2020-05-09,54,Oakland
+Oakland,5/4/2020,2020-05-04,99,Oakland
+Oakland,5/5/2020,2020-05-05,90,Oakland
+Oakland,5/6/2020,2020-05-06,105,Oakland
+Oakland,5/7/2020,2020-05-07,92,Oakland
+Oakland,5/8/2020,2020-05-08,91,Oakland
+Oakland,5/9/2020,2020-05-09,53,Oakland
 Oakland,5/10/2020,2020-05-10,23,Oakland
-Oakland,5/11/2020,2020-05-11,121,Oakland
-Oakland,5/12/2020,2020-05-12,97,Oakland
-Oakland,5/13/2020,2020-05-13,117,Oakland
-Oakland,5/14/2020,2020-05-14,111,Oakland
-Oakland,5/15/2020,2020-05-15,122,Oakland
+Oakland,5/11/2020,2020-05-11,127,Oakland
+Oakland,5/12/2020,2020-05-12,90,Oakland
+Oakland,5/13/2020,2020-05-13,118,Oakland
+Oakland,5/14/2020,2020-05-14,107,Oakland
+Oakland,5/15/2020,2020-05-15,121,Oakland
 Oakland,5/16/2020,2020-05-16,26,Oakland
-Oakland,5/17/2020,2020-05-17,32,Oakland
+Oakland,5/17/2020,2020-05-17,31,Oakland
 Oakland,5/18/2020,2020-05-18,95,Oakland
 Oakland,5/19/2020,2020-05-19,133,Oakland
-Oakland,5/20/2020,2020-05-20,133,Oakland
+Oakland,5/20/2020,2020-05-20,132,Oakland
 Oakland,5/21/2020,2020-05-21,122,Oakland
 Oakland,5/22/2020,2020-05-22,125,Oakland
-Oakland,5/23/2020,2020-05-23,36,Oakland
-Oakland,5/24/2020,2020-05-24,31,Oakland
+Oakland,5/23/2020,2020-05-23,37,Oakland
+Oakland,5/24/2020,2020-05-24,30,Oakland
 Oakland,5/25/2020,2020-05-25,20,Oakland
 Oakland,5/26/2020,2020-05-26,90,Oakland
-Oakland,5/27/2020,2020-05-27,80,Oakland
+Oakland,5/27/2020,2020-05-27,79,Oakland
 Oakland,5/28/2020,2020-05-28,85,Oakland
 Oakland,5/29/2020,2020-05-29,76,Oakland
 Oakland,5/30/2020,2020-05-30,46,Oakland
 Oakland,5/31/2020,2020-05-31,89,Oakland
 Oakland,6/1/2020,2020-06-01,50,Oakland
-Oakland,6/2/2020,2020-06-02,98,Oakland
+Oakland,6/2/2020,2020-06-02,97,Oakland
 Oakland,6/3/2020,2020-06-03,85,Oakland
-Oakland,6/4/2020,2020-06-04,101,Oakland
+Oakland,6/4/2020,2020-06-04,99,Oakland
 Oakland,6/5/2020,2020-06-05,74,Oakland
 Oakland,6/6/2020,2020-06-06,16,Oakland
 Oakland,6/7/2020,2020-06-07,27,Oakland
 Oakland,6/8/2020,2020-06-08,59,Oakland
 Oakland,6/9/2020,2020-06-09,58,Oakland
 Oakland,6/10/2020,2020-06-10,61,Oakland
-Oakland,6/11/2020,2020-06-11,68,Oakland
+Oakland,6/11/2020,2020-06-11,70,Oakland
 Oakland,6/12/2020,2020-06-12,67,Oakland
 Oakland,6/13/2020,2020-06-13,21,Oakland
 Oakland,6/14/2020,2020-06-14,12,Oakland
 Oakland,6/15/2020,2020-06-15,29,Oakland
-Oakland,6/16/2020,2020-06-16,28,Oakland
+Oakland,6/16/2020,2020-06-16,30,Oakland
 Oakland,6/17/2020,2020-06-17,34,Oakland
-Oakland,6/18/2020,2020-06-18,23,Oakland
-Oakland,6/19/2020,2020-06-19,28,Oakland
+Oakland,6/18/2020,2020-06-18,22,Oakland
+Oakland,6/19/2020,2020-06-19,29,Oakland
 Oakland,6/20/2020,2020-06-20,14,Oakland
 Oakland,6/21/2020,2020-06-21,15,Oakland
-Oakland,6/22/2020,2020-06-22,54,Oakland
-Oakland,6/23/2020,2020-06-23,36,Oakland
-Oakland,6/24/2020,2020-06-24,54,Oakland
-Oakland,6/25/2020,2020-06-25,37,Oakland
-Oakland,6/26/2020,2020-06-26,23,Oakland
-Oakland,6/27/2020,2020-06-27,19,Oakland
-Oakland,6/28/2020,2020-06-28,8,Oakland
-Oakland,6/29/2020,2020-06-29,16,Oakland
-Oakland,6/30/2020,2020-06-30,10,Oakland
-Oakland,7/1/2020,2020-07-01,0,Oakland
+Oakland,6/22/2020,2020-06-22,56,Oakland
+Oakland,6/23/2020,2020-06-23,39,Oakland
+Oakland,6/24/2020,2020-06-24,63,Oakland
+Oakland,6/25/2020,2020-06-25,40,Oakland
+Oakland,6/26/2020,2020-06-26,25,Oakland
+Oakland,6/27/2020,2020-06-27,28,Oakland
+Oakland,6/28/2020,2020-06-28,19,Oakland
+Oakland,6/29/2020,2020-06-29,32,Oakland
+Oakland,6/30/2020,2020-06-30,35,Oakland
+Oakland,7/1/2020,2020-07-01,23,Oakland
+Oakland,7/2/2020,2020-07-02,5,Oakland
+Oakland,7/3/2020,2020-07-03,0,Oakland
 Oceana,3/1/2020,2020-03-01,0,Oceana
 Oceana,3/2/2020,2020-03-02,0,Oceana
 Oceana,3/3/2020,2020-03-03,0,Oceana
@@ -8220,26 +8352,28 @@ Oceana,6/8/2020,2020-06-08,7,Oceana
 Oceana,6/9/2020,2020-06-09,4,Oceana
 Oceana,6/10/2020,2020-06-10,11,Oceana
 Oceana,6/11/2020,2020-06-11,10,Oceana
-Oceana,6/12/2020,2020-06-12,11,Oceana
+Oceana,6/12/2020,2020-06-12,12,Oceana
 Oceana,6/13/2020,2020-06-13,7,Oceana
 Oceana,6/14/2020,2020-06-14,5,Oceana
-Oceana,6/15/2020,2020-06-15,12,Oceana
-Oceana,6/16/2020,2020-06-16,12,Oceana
-Oceana,6/17/2020,2020-06-17,9,Oceana
+Oceana,6/15/2020,2020-06-15,13,Oceana
+Oceana,6/16/2020,2020-06-16,11,Oceana
+Oceana,6/17/2020,2020-06-17,10,Oceana
 Oceana,6/18/2020,2020-06-18,16,Oceana
-Oceana,6/19/2020,2020-06-19,9,Oceana
+Oceana,6/19/2020,2020-06-19,10,Oceana
 Oceana,6/20/2020,2020-06-20,5,Oceana
-Oceana,6/21/2020,2020-06-21,11,Oceana
-Oceana,6/22/2020,2020-06-22,6,Oceana
-Oceana,6/23/2020,2020-06-23,13,Oceana
-Oceana,6/24/2020,2020-06-24,14,Oceana
+Oceana,6/21/2020,2020-06-21,12,Oceana
+Oceana,6/22/2020,2020-06-22,7,Oceana
+Oceana,6/23/2020,2020-06-23,12,Oceana
+Oceana,6/24/2020,2020-06-24,13,Oceana
 Oceana,6/25/2020,2020-06-25,10,Oceana
-Oceana,6/26/2020,2020-06-26,6,Oceana
-Oceana,6/27/2020,2020-06-27,1,Oceana
-Oceana,6/28/2020,2020-06-28,1,Oceana
+Oceana,6/26/2020,2020-06-26,12,Oceana
+Oceana,6/27/2020,2020-06-27,3,Oceana
+Oceana,6/28/2020,2020-06-28,7,Oceana
 Oceana,6/29/2020,2020-06-29,3,Oceana
-Oceana,6/30/2020,2020-06-30,1,Oceana
-Oceana,7/1/2020,2020-07-01,0,Oceana
+Oceana,6/30/2020,2020-06-30,3,Oceana
+Oceana,7/1/2020,2020-07-01,7,Oceana
+Oceana,7/2/2020,2020-07-02,2,Oceana
+Oceana,7/3/2020,2020-07-03,0,Oceana
 Ogemaw,3/1/2020,2020-03-01,0,Ogemaw
 Ogemaw,3/2/2020,2020-03-02,0,Ogemaw
 Ogemaw,3/3/2020,2020-03-03,0,Ogemaw
@@ -8360,9 +8494,11 @@ Ogemaw,6/25/2020,2020-06-25,0,Ogemaw
 Ogemaw,6/26/2020,2020-06-26,0,Ogemaw
 Ogemaw,6/27/2020,2020-06-27,0,Ogemaw
 Ogemaw,6/28/2020,2020-06-28,0,Ogemaw
-Ogemaw,6/29/2020,2020-06-29,0,Ogemaw
+Ogemaw,6/29/2020,2020-06-29,1,Ogemaw
 Ogemaw,6/30/2020,2020-06-30,0,Ogemaw
-Ogemaw,7/1/2020,2020-07-01,0,Ogemaw
+Ogemaw,7/1/2020,2020-07-01,1,Ogemaw
+Ogemaw,7/2/2020,2020-07-02,0,Ogemaw
+Ogemaw,7/3/2020,2020-07-03,0,Ogemaw
 Ontonagon,3/1/2020,2020-03-01,0,Ontonagon
 Ontonagon,3/2/2020,2020-03-02,0,Ontonagon
 Ontonagon,3/3/2020,2020-03-03,0,Ontonagon
@@ -8486,6 +8622,8 @@ Ontonagon,6/28/2020,2020-06-28,0,Ontonagon
 Ontonagon,6/29/2020,2020-06-29,0,Ontonagon
 Ontonagon,6/30/2020,2020-06-30,0,Ontonagon
 Ontonagon,7/1/2020,2020-07-01,0,Ontonagon
+Ontonagon,7/2/2020,2020-07-02,0,Ontonagon
+Ontonagon,7/3/2020,2020-07-03,0,Ontonagon
 Osceola,3/1/2020,2020-03-01,0,Osceola
 Osceola,3/2/2020,2020-03-02,0,Osceola
 Osceola,3/3/2020,2020-03-03,0,Osceola
@@ -8606,9 +8744,11 @@ Osceola,6/25/2020,2020-06-25,0,Osceola
 Osceola,6/26/2020,2020-06-26,1,Osceola
 Osceola,6/27/2020,2020-06-27,0,Osceola
 Osceola,6/28/2020,2020-06-28,0,Osceola
-Osceola,6/29/2020,2020-06-29,0,Osceola
+Osceola,6/29/2020,2020-06-29,1,Osceola
 Osceola,6/30/2020,2020-06-30,0,Osceola
 Osceola,7/1/2020,2020-07-01,0,Osceola
+Osceola,7/2/2020,2020-07-02,0,Osceola
+Osceola,7/3/2020,2020-07-03,0,Osceola
 Oscoda,3/1/2020,2020-03-01,0,Oscoda
 Oscoda,3/2/2020,2020-03-02,0,Oscoda
 Oscoda,3/3/2020,2020-03-03,0,Oscoda
@@ -8723,7 +8863,7 @@ Oscoda,6/19/2020,2020-06-19,0,Oscoda
 Oscoda,6/20/2020,2020-06-20,2,Oscoda
 Oscoda,6/21/2020,2020-06-21,0,Oscoda
 Oscoda,6/22/2020,2020-06-22,0,Oscoda
-Oscoda,6/23/2020,2020-06-23,5,Oscoda
+Oscoda,6/23/2020,2020-06-23,6,Oscoda
 Oscoda,6/24/2020,2020-06-24,2,Oscoda
 Oscoda,6/25/2020,2020-06-25,0,Oscoda
 Oscoda,6/26/2020,2020-06-26,0,Oscoda
@@ -8732,6 +8872,8 @@ Oscoda,6/28/2020,2020-06-28,0,Oscoda
 Oscoda,6/29/2020,2020-06-29,0,Oscoda
 Oscoda,6/30/2020,2020-06-30,0,Oscoda
 Oscoda,7/1/2020,2020-07-01,0,Oscoda
+Oscoda,7/2/2020,2020-07-02,0,Oscoda
+Oscoda,7/3/2020,2020-07-03,0,Oscoda
 Otsego,3/1/2020,2020-03-01,0,Otsego
 Otsego,3/2/2020,2020-03-02,0,Otsego
 Otsego,3/3/2020,2020-03-03,1,Otsego
@@ -8826,7 +8968,7 @@ Otsego,5/30/2020,2020-05-30,0,Otsego
 Otsego,5/31/2020,2020-05-31,0,Otsego
 Otsego,6/1/2020,2020-06-01,0,Otsego
 Otsego,6/2/2020,2020-06-02,0,Otsego
-Otsego,6/3/2020,2020-06-03,0,Otsego
+Otsego,6/3/2020,2020-06-03,1,Otsego
 Otsego,6/4/2020,2020-06-04,0,Otsego
 Otsego,6/5/2020,2020-06-05,0,Otsego
 Otsego,6/6/2020,2020-06-06,0,Otsego
@@ -8839,7 +8981,7 @@ Otsego,6/12/2020,2020-06-12,0,Otsego
 Otsego,6/13/2020,2020-06-13,0,Otsego
 Otsego,6/14/2020,2020-06-14,0,Otsego
 Otsego,6/15/2020,2020-06-15,0,Otsego
-Otsego,6/16/2020,2020-06-16,0,Otsego
+Otsego,6/16/2020,2020-06-16,1,Otsego
 Otsego,6/17/2020,2020-06-17,0,Otsego
 Otsego,6/18/2020,2020-06-18,0,Otsego
 Otsego,6/19/2020,2020-06-19,0,Otsego
@@ -8847,7 +8989,7 @@ Otsego,6/20/2020,2020-06-20,1,Otsego
 Otsego,6/21/2020,2020-06-21,0,Otsego
 Otsego,6/22/2020,2020-06-22,0,Otsego
 Otsego,6/23/2020,2020-06-23,0,Otsego
-Otsego,6/24/2020,2020-06-24,1,Otsego
+Otsego,6/24/2020,2020-06-24,0,Otsego
 Otsego,6/25/2020,2020-06-25,0,Otsego
 Otsego,6/26/2020,2020-06-26,0,Otsego
 Otsego,6/27/2020,2020-06-27,0,Otsego
@@ -8855,6 +8997,8 @@ Otsego,6/28/2020,2020-06-28,0,Otsego
 Otsego,6/29/2020,2020-06-29,0,Otsego
 Otsego,6/30/2020,2020-06-30,0,Otsego
 Otsego,7/1/2020,2020-07-01,0,Otsego
+Otsego,7/2/2020,2020-07-02,0,Otsego
+Otsego,7/3/2020,2020-07-03,0,Otsego
 Ottawa,3/1/2020,2020-03-01,0,Ottawa
 Ottawa,3/2/2020,2020-03-02,0,Ottawa
 Ottawa,3/3/2020,2020-03-03,0,Ottawa
@@ -8913,33 +9057,33 @@ Ottawa,4/24/2020,2020-04-24,14,Ottawa
 Ottawa,4/25/2020,2020-04-25,13,Ottawa
 Ottawa,4/26/2020,2020-04-26,15,Ottawa
 Ottawa,4/27/2020,2020-04-27,17,Ottawa
-Ottawa,4/28/2020,2020-04-28,14,Ottawa
+Ottawa,4/28/2020,2020-04-28,13,Ottawa
 Ottawa,4/29/2020,2020-04-29,9,Ottawa
 Ottawa,4/30/2020,2020-04-30,19,Ottawa
 Ottawa,5/1/2020,2020-05-01,16,Ottawa
 Ottawa,5/2/2020,2020-05-02,14,Ottawa
 Ottawa,5/3/2020,2020-05-03,20,Ottawa
 Ottawa,5/4/2020,2020-05-04,23,Ottawa
-Ottawa,5/5/2020,2020-05-05,19,Ottawa
+Ottawa,5/5/2020,2020-05-05,18,Ottawa
 Ottawa,5/6/2020,2020-05-06,22,Ottawa
-Ottawa,5/7/2020,2020-05-07,31,Ottawa
+Ottawa,5/7/2020,2020-05-07,29,Ottawa
 Ottawa,5/8/2020,2020-05-08,19,Ottawa
-Ottawa,5/9/2020,2020-05-09,18,Ottawa
-Ottawa,5/10/2020,2020-05-10,23,Ottawa
+Ottawa,5/9/2020,2020-05-09,19,Ottawa
+Ottawa,5/10/2020,2020-05-10,24,Ottawa
 Ottawa,5/11/2020,2020-05-11,26,Ottawa
 Ottawa,5/12/2020,2020-05-12,24,Ottawa
 Ottawa,5/13/2020,2020-05-13,17,Ottawa
 Ottawa,5/14/2020,2020-05-14,12,Ottawa
 Ottawa,5/15/2020,2020-05-15,28,Ottawa
 Ottawa,5/16/2020,2020-05-16,19,Ottawa
-Ottawa,5/17/2020,2020-05-17,30,Ottawa
-Ottawa,5/18/2020,2020-05-18,25,Ottawa
+Ottawa,5/17/2020,2020-05-17,19,Ottawa
+Ottawa,5/18/2020,2020-05-18,27,Ottawa
 Ottawa,5/19/2020,2020-05-19,22,Ottawa
-Ottawa,5/20/2020,2020-05-20,16,Ottawa
-Ottawa,5/21/2020,2020-05-21,14,Ottawa
-Ottawa,5/22/2020,2020-05-22,11,Ottawa
-Ottawa,5/23/2020,2020-05-23,12,Ottawa
-Ottawa,5/24/2020,2020-05-24,8,Ottawa
+Ottawa,5/20/2020,2020-05-20,17,Ottawa
+Ottawa,5/21/2020,2020-05-21,15,Ottawa
+Ottawa,5/22/2020,2020-05-22,12,Ottawa
+Ottawa,5/23/2020,2020-05-23,16,Ottawa
+Ottawa,5/24/2020,2020-05-24,10,Ottawa
 Ottawa,5/25/2020,2020-05-25,5,Ottawa
 Ottawa,5/26/2020,2020-05-26,13,Ottawa
 Ottawa,5/27/2020,2020-05-27,14,Ottawa
@@ -8947,12 +9091,12 @@ Ottawa,5/28/2020,2020-05-28,10,Ottawa
 Ottawa,5/29/2020,2020-05-29,3,Ottawa
 Ottawa,5/30/2020,2020-05-30,6,Ottawa
 Ottawa,5/31/2020,2020-05-31,7,Ottawa
-Ottawa,6/1/2020,2020-06-01,7,Ottawa
+Ottawa,6/1/2020,2020-06-01,8,Ottawa
 Ottawa,6/2/2020,2020-06-02,5,Ottawa
 Ottawa,6/3/2020,2020-06-03,6,Ottawa
 Ottawa,6/4/2020,2020-06-04,4,Ottawa
 Ottawa,6/5/2020,2020-06-05,2,Ottawa
-Ottawa,6/6/2020,2020-06-06,7,Ottawa
+Ottawa,6/6/2020,2020-06-06,8,Ottawa
 Ottawa,6/7/2020,2020-06-07,16,Ottawa
 Ottawa,6/8/2020,2020-06-08,4,Ottawa
 Ottawa,6/9/2020,2020-06-09,3,Ottawa
@@ -8966,18 +9110,20 @@ Ottawa,6/16/2020,2020-06-16,8,Ottawa
 Ottawa,6/17/2020,2020-06-17,7,Ottawa
 Ottawa,6/18/2020,2020-06-18,5,Ottawa
 Ottawa,6/19/2020,2020-06-19,5,Ottawa
-Ottawa,6/20/2020,2020-06-20,3,Ottawa
+Ottawa,6/20/2020,2020-06-20,4,Ottawa
 Ottawa,6/21/2020,2020-06-21,6,Ottawa
-Ottawa,6/22/2020,2020-06-22,6,Ottawa
-Ottawa,6/23/2020,2020-06-23,11,Ottawa
-Ottawa,6/24/2020,2020-06-24,5,Ottawa
+Ottawa,6/22/2020,2020-06-22,8,Ottawa
+Ottawa,6/23/2020,2020-06-23,12,Ottawa
+Ottawa,6/24/2020,2020-06-24,6,Ottawa
 Ottawa,6/25/2020,2020-06-25,11,Ottawa
-Ottawa,6/26/2020,2020-06-26,10,Ottawa
-Ottawa,6/27/2020,2020-06-27,8,Ottawa
-Ottawa,6/28/2020,2020-06-28,3,Ottawa
-Ottawa,6/29/2020,2020-06-29,5,Ottawa
-Ottawa,6/30/2020,2020-06-30,2,Ottawa
-Ottawa,7/1/2020,2020-07-01,2,Ottawa
+Ottawa,6/26/2020,2020-06-26,14,Ottawa
+Ottawa,6/27/2020,2020-06-27,13,Ottawa
+Ottawa,6/28/2020,2020-06-28,5,Ottawa
+Ottawa,6/29/2020,2020-06-29,12,Ottawa
+Ottawa,6/30/2020,2020-06-30,6,Ottawa
+Ottawa,7/1/2020,2020-07-01,4,Ottawa
+Ottawa,7/2/2020,2020-07-02,8,Ottawa
+Ottawa,7/3/2020,2020-07-03,0,Ottawa
 Out-of-State,3/1/2020,2020-03-01,0,Out-of-State
 Out-of-State,3/2/2020,2020-03-02,0,Out-of-State
 Out-of-State,3/3/2020,2020-03-03,0,Out-of-State
@@ -9089,18 +9235,20 @@ Out-of-State,6/16/2020,2020-06-16,0,Out-of-State
 Out-of-State,6/17/2020,2020-06-17,0,Out-of-State
 Out-of-State,6/18/2020,2020-06-18,0,Out-of-State
 Out-of-State,6/19/2020,2020-06-19,0,Out-of-State
-Out-of-State,6/20/2020,2020-06-20,0,Out-of-State
+Out-of-State,6/20/2020,2020-06-20,2,Out-of-State
 Out-of-State,6/21/2020,2020-06-21,1,Out-of-State
 Out-of-State,6/22/2020,2020-06-22,0,Out-of-State
-Out-of-State,6/23/2020,2020-06-23,2,Out-of-State
-Out-of-State,6/24/2020,2020-06-24,0,Out-of-State
-Out-of-State,6/25/2020,2020-06-25,1,Out-of-State
+Out-of-State,6/23/2020,2020-06-23,1,Out-of-State
+Out-of-State,6/24/2020,2020-06-24,1,Out-of-State
+Out-of-State,6/25/2020,2020-06-25,3,Out-of-State
 Out-of-State,6/26/2020,2020-06-26,1,Out-of-State
 Out-of-State,6/27/2020,2020-06-27,0,Out-of-State
 Out-of-State,6/28/2020,2020-06-28,1,Out-of-State
-Out-of-State,6/29/2020,2020-06-29,2,Out-of-State
-Out-of-State,6/30/2020,2020-06-30,0,Out-of-State
-Out-of-State,7/1/2020,2020-07-01,0,Out-of-State
+Out-of-State,6/29/2020,2020-06-29,10,Out-of-State
+Out-of-State,6/30/2020,2020-06-30,6,Out-of-State
+Out-of-State,7/1/2020,2020-07-01,5,Out-of-State
+Out-of-State,7/2/2020,2020-07-02,3,Out-of-State
+Out-of-State,7/3/2020,2020-07-03,0,Out-of-State
 Presque Isle,3/1/2020,2020-03-01,0,Presque Isle
 Presque Isle,3/2/2020,2020-03-02,0,Presque Isle
 Presque Isle,3/3/2020,2020-03-03,0,Presque Isle
@@ -9224,6 +9372,8 @@ Presque Isle,6/28/2020,2020-06-28,0,Presque Isle
 Presque Isle,6/29/2020,2020-06-29,1,Presque Isle
 Presque Isle,6/30/2020,2020-06-30,0,Presque Isle
 Presque Isle,7/1/2020,2020-07-01,0,Presque Isle
+Presque Isle,7/2/2020,2020-07-02,0,Presque Isle
+Presque Isle,7/3/2020,2020-07-03,0,Presque Isle
 Roscommon,3/1/2020,2020-03-01,0,Roscommon
 Roscommon,3/2/2020,2020-03-02,0,Roscommon
 Roscommon,3/3/2020,2020-03-03,0,Roscommon
@@ -9338,15 +9488,17 @@ Roscommon,6/19/2020,2020-06-19,0,Roscommon
 Roscommon,6/20/2020,2020-06-20,0,Roscommon
 Roscommon,6/21/2020,2020-06-21,0,Roscommon
 Roscommon,6/22/2020,2020-06-22,0,Roscommon
-Roscommon,6/23/2020,2020-06-23,0,Roscommon
+Roscommon,6/23/2020,2020-06-23,1,Roscommon
 Roscommon,6/24/2020,2020-06-24,0,Roscommon
 Roscommon,6/25/2020,2020-06-25,0,Roscommon
-Roscommon,6/26/2020,2020-06-26,2,Roscommon
+Roscommon,6/26/2020,2020-06-26,0,Roscommon
 Roscommon,6/27/2020,2020-06-27,0,Roscommon
 Roscommon,6/28/2020,2020-06-28,0,Roscommon
-Roscommon,6/29/2020,2020-06-29,0,Roscommon
+Roscommon,6/29/2020,2020-06-29,1,Roscommon
 Roscommon,6/30/2020,2020-06-30,0,Roscommon
 Roscommon,7/1/2020,2020-07-01,0,Roscommon
+Roscommon,7/2/2020,2020-07-02,0,Roscommon
+Roscommon,7/3/2020,2020-07-03,0,Roscommon
 Saginaw,3/1/2020,2020-03-01,0,Saginaw
 Saginaw,3/2/2020,2020-03-02,0,Saginaw
 Saginaw,3/3/2020,2020-03-03,0,Saginaw
@@ -9404,28 +9556,28 @@ Saginaw,4/23/2020,2020-04-23,24,Saginaw
 Saginaw,4/24/2020,2020-04-24,23,Saginaw
 Saginaw,4/25/2020,2020-04-25,14,Saginaw
 Saginaw,4/26/2020,2020-04-26,16,Saginaw
-Saginaw,4/27/2020,2020-04-27,19,Saginaw
-Saginaw,4/28/2020,2020-04-28,21,Saginaw
-Saginaw,4/29/2020,2020-04-29,15,Saginaw
-Saginaw,4/30/2020,2020-04-30,17,Saginaw
+Saginaw,4/27/2020,2020-04-27,20,Saginaw
+Saginaw,4/28/2020,2020-04-28,23,Saginaw
+Saginaw,4/29/2020,2020-04-29,19,Saginaw
+Saginaw,4/30/2020,2020-04-30,12,Saginaw
 Saginaw,5/1/2020,2020-05-01,13,Saginaw
 Saginaw,5/2/2020,2020-05-02,11,Saginaw
 Saginaw,5/3/2020,2020-05-03,7,Saginaw
-Saginaw,5/4/2020,2020-05-04,15,Saginaw
+Saginaw,5/4/2020,2020-05-04,19,Saginaw
 Saginaw,5/5/2020,2020-05-05,17,Saginaw
-Saginaw,5/6/2020,2020-05-06,16,Saginaw
-Saginaw,5/7/2020,2020-05-07,18,Saginaw
-Saginaw,5/8/2020,2020-05-08,20,Saginaw
+Saginaw,5/6/2020,2020-05-06,17,Saginaw
+Saginaw,5/7/2020,2020-05-07,22,Saginaw
+Saginaw,5/8/2020,2020-05-08,21,Saginaw
 Saginaw,5/9/2020,2020-05-09,5,Saginaw
 Saginaw,5/10/2020,2020-05-10,12,Saginaw
-Saginaw,5/11/2020,2020-05-11,10,Saginaw
-Saginaw,5/12/2020,2020-05-12,35,Saginaw
+Saginaw,5/11/2020,2020-05-11,9,Saginaw
+Saginaw,5/12/2020,2020-05-12,36,Saginaw
 Saginaw,5/13/2020,2020-05-13,18,Saginaw
 Saginaw,5/14/2020,2020-05-14,9,Saginaw
-Saginaw,5/15/2020,2020-05-15,17,Saginaw
+Saginaw,5/15/2020,2020-05-15,16,Saginaw
 Saginaw,5/16/2020,2020-05-16,5,Saginaw
 Saginaw,5/17/2020,2020-05-17,3,Saginaw
-Saginaw,5/18/2020,2020-05-18,11,Saginaw
+Saginaw,5/18/2020,2020-05-18,10,Saginaw
 Saginaw,5/19/2020,2020-05-19,10,Saginaw
 Saginaw,5/20/2020,2020-05-20,9,Saginaw
 Saginaw,5/21/2020,2020-05-21,5,Saginaw
@@ -9451,25 +9603,27 @@ Saginaw,6/9/2020,2020-06-09,4,Saginaw
 Saginaw,6/10/2020,2020-06-10,5,Saginaw
 Saginaw,6/11/2020,2020-06-11,8,Saginaw
 Saginaw,6/12/2020,2020-06-12,8,Saginaw
-Saginaw,6/13/2020,2020-06-13,6,Saginaw
+Saginaw,6/13/2020,2020-06-13,5,Saginaw
 Saginaw,6/14/2020,2020-06-14,2,Saginaw
-Saginaw,6/15/2020,2020-06-15,5,Saginaw
+Saginaw,6/15/2020,2020-06-15,4,Saginaw
 Saginaw,6/16/2020,2020-06-16,11,Saginaw
 Saginaw,6/17/2020,2020-06-17,11,Saginaw
 Saginaw,6/18/2020,2020-06-18,8,Saginaw
 Saginaw,6/19/2020,2020-06-19,9,Saginaw
 Saginaw,6/20/2020,2020-06-20,7,Saginaw
 Saginaw,6/21/2020,2020-06-21,8,Saginaw
-Saginaw,6/22/2020,2020-06-22,6,Saginaw
-Saginaw,6/23/2020,2020-06-23,13,Saginaw
-Saginaw,6/24/2020,2020-06-24,13,Saginaw
+Saginaw,6/22/2020,2020-06-22,7,Saginaw
+Saginaw,6/23/2020,2020-06-23,14,Saginaw
+Saginaw,6/24/2020,2020-06-24,9,Saginaw
 Saginaw,6/25/2020,2020-06-25,10,Saginaw
 Saginaw,6/26/2020,2020-06-26,5,Saginaw
-Saginaw,6/27/2020,2020-06-27,2,Saginaw
-Saginaw,6/28/2020,2020-06-28,1,Saginaw
-Saginaw,6/29/2020,2020-06-29,1,Saginaw
-Saginaw,6/30/2020,2020-06-30,2,Saginaw
-Saginaw,7/1/2020,2020-07-01,1,Saginaw
+Saginaw,6/27/2020,2020-06-27,4,Saginaw
+Saginaw,6/28/2020,2020-06-28,3,Saginaw
+Saginaw,6/29/2020,2020-06-29,6,Saginaw
+Saginaw,6/30/2020,2020-06-30,5,Saginaw
+Saginaw,7/1/2020,2020-07-01,3,Saginaw
+Saginaw,7/2/2020,2020-07-02,1,Saginaw
+Saginaw,7/3/2020,2020-07-03,0,Saginaw
 Sanilac,3/1/2020,2020-03-01,0,Sanilac
 Sanilac,3/2/2020,2020-03-02,0,Sanilac
 Sanilac,3/3/2020,2020-03-03,0,Sanilac
@@ -9582,17 +9736,19 @@ Sanilac,6/17/2020,2020-06-17,0,Sanilac
 Sanilac,6/18/2020,2020-06-18,0,Sanilac
 Sanilac,6/19/2020,2020-06-19,0,Sanilac
 Sanilac,6/20/2020,2020-06-20,0,Sanilac
-Sanilac,6/21/2020,2020-06-21,1,Sanilac
+Sanilac,6/21/2020,2020-06-21,0,Sanilac
 Sanilac,6/22/2020,2020-06-22,0,Sanilac
 Sanilac,6/23/2020,2020-06-23,1,Sanilac
 Sanilac,6/24/2020,2020-06-24,2,Sanilac
 Sanilac,6/25/2020,2020-06-25,1,Sanilac
 Sanilac,6/26/2020,2020-06-26,0,Sanilac
 Sanilac,6/27/2020,2020-06-27,0,Sanilac
-Sanilac,6/28/2020,2020-06-28,0,Sanilac
-Sanilac,6/29/2020,2020-06-29,0,Sanilac
+Sanilac,6/28/2020,2020-06-28,1,Sanilac
+Sanilac,6/29/2020,2020-06-29,1,Sanilac
 Sanilac,6/30/2020,2020-06-30,0,Sanilac
 Sanilac,7/1/2020,2020-07-01,1,Sanilac
+Sanilac,7/2/2020,2020-07-02,0,Sanilac
+Sanilac,7/3/2020,2020-07-03,0,Sanilac
 Schoolcraft,3/1/2020,2020-03-01,0,Schoolcraft
 Schoolcraft,3/2/2020,2020-03-02,0,Schoolcraft
 Schoolcraft,3/3/2020,2020-03-03,0,Schoolcraft
@@ -9716,6 +9872,8 @@ Schoolcraft,6/28/2020,2020-06-28,0,Schoolcraft
 Schoolcraft,6/29/2020,2020-06-29,0,Schoolcraft
 Schoolcraft,6/30/2020,2020-06-30,0,Schoolcraft
 Schoolcraft,7/1/2020,2020-07-01,0,Schoolcraft
+Schoolcraft,7/2/2020,2020-07-02,1,Schoolcraft
+Schoolcraft,7/3/2020,2020-07-03,0,Schoolcraft
 Shiawassee,3/1/2020,2020-03-01,0,Shiawassee
 Shiawassee,3/2/2020,2020-03-02,0,Shiawassee
 Shiawassee,3/3/2020,2020-03-03,0,Shiawassee
@@ -9832,13 +9990,15 @@ Shiawassee,6/21/2020,2020-06-21,0,Shiawassee
 Shiawassee,6/22/2020,2020-06-22,1,Shiawassee
 Shiawassee,6/23/2020,2020-06-23,2,Shiawassee
 Shiawassee,6/24/2020,2020-06-24,1,Shiawassee
-Shiawassee,6/25/2020,2020-06-25,2,Shiawassee
+Shiawassee,6/25/2020,2020-06-25,1,Shiawassee
 Shiawassee,6/26/2020,2020-06-26,0,Shiawassee
-Shiawassee,6/27/2020,2020-06-27,0,Shiawassee
-Shiawassee,6/28/2020,2020-06-28,0,Shiawassee
-Shiawassee,6/29/2020,2020-06-29,1,Shiawassee
+Shiawassee,6/27/2020,2020-06-27,1,Shiawassee
+Shiawassee,6/28/2020,2020-06-28,1,Shiawassee
+Shiawassee,6/29/2020,2020-06-29,2,Shiawassee
 Shiawassee,6/30/2020,2020-06-30,0,Shiawassee
 Shiawassee,7/1/2020,2020-07-01,0,Shiawassee
+Shiawassee,7/2/2020,2020-07-02,1,Shiawassee
+Shiawassee,7/3/2020,2020-07-03,0,Shiawassee
 St Clair,3/1/2020,2020-03-01,0,St Clair
 St Clair,3/2/2020,2020-03-02,0,St Clair
 St Clair,3/3/2020,2020-03-03,0,St Clair
@@ -9917,8 +10077,8 @@ St Clair,5/14/2020,2020-05-14,3,St Clair
 St Clair,5/15/2020,2020-05-15,2,St Clair
 St Clair,5/16/2020,2020-05-16,0,St Clair
 St Clair,5/17/2020,2020-05-17,5,St Clair
-St Clair,5/18/2020,2020-05-18,5,St Clair
-St Clair,5/19/2020,2020-05-19,8,St Clair
+St Clair,5/18/2020,2020-05-18,6,St Clair
+St Clair,5/19/2020,2020-05-19,9,St Clair
 St Clair,5/20/2020,2020-05-20,1,St Clair
 St Clair,5/21/2020,2020-05-21,2,St Clair
 St Clair,5/22/2020,2020-05-22,2,St Clair
@@ -9948,20 +10108,22 @@ St Clair,6/14/2020,2020-06-14,2,St Clair
 St Clair,6/15/2020,2020-06-15,1,St Clair
 St Clair,6/16/2020,2020-06-16,3,St Clair
 St Clair,6/17/2020,2020-06-17,2,St Clair
-St Clair,6/18/2020,2020-06-18,3,St Clair
-St Clair,6/19/2020,2020-06-19,3,St Clair
+St Clair,6/18/2020,2020-06-18,4,St Clair
+St Clair,6/19/2020,2020-06-19,2,St Clair
 St Clair,6/20/2020,2020-06-20,5,St Clair
 St Clair,6/21/2020,2020-06-21,1,St Clair
-St Clair,6/22/2020,2020-06-22,1,St Clair
-St Clair,6/23/2020,2020-06-23,3,St Clair
-St Clair,6/24/2020,2020-06-24,5,St Clair
+St Clair,6/22/2020,2020-06-22,2,St Clair
+St Clair,6/23/2020,2020-06-23,2,St Clair
+St Clair,6/24/2020,2020-06-24,6,St Clair
 St Clair,6/25/2020,2020-06-25,3,St Clair
-St Clair,6/26/2020,2020-06-26,5,St Clair
+St Clair,6/26/2020,2020-06-26,7,St Clair
 St Clair,6/27/2020,2020-06-27,1,St Clair
 St Clair,6/28/2020,2020-06-28,0,St Clair
-St Clair,6/29/2020,2020-06-29,0,St Clair
-St Clair,6/30/2020,2020-06-30,0,St Clair
-St Clair,7/1/2020,2020-07-01,0,St Clair
+St Clair,6/29/2020,2020-06-29,3,St Clair
+St Clair,6/30/2020,2020-06-30,2,St Clair
+St Clair,7/1/2020,2020-07-01,5,St Clair
+St Clair,7/2/2020,2020-07-02,2,St Clair
+St Clair,7/3/2020,2020-07-03,0,St Clair
 St Joseph,3/1/2020,2020-03-01,0,St Joseph
 St Joseph,3/2/2020,2020-03-02,0,St Joseph
 St Joseph,3/3/2020,2020-03-03,0,St Joseph
@@ -10067,10 +10229,10 @@ St Joseph,6/10/2020,2020-06-10,3,St Joseph
 St Joseph,6/11/2020,2020-06-11,4,St Joseph
 St Joseph,6/12/2020,2020-06-12,9,St Joseph
 St Joseph,6/13/2020,2020-06-13,2,St Joseph
-St Joseph,6/14/2020,2020-06-14,5,St Joseph
+St Joseph,6/14/2020,2020-06-14,6,St Joseph
 St Joseph,6/15/2020,2020-06-15,9,St Joseph
-St Joseph,6/16/2020,2020-06-16,7,St Joseph
-St Joseph,6/17/2020,2020-06-17,5,St Joseph
+St Joseph,6/16/2020,2020-06-16,8,St Joseph
+St Joseph,6/17/2020,2020-06-17,6,St Joseph
 St Joseph,6/18/2020,2020-06-18,12,St Joseph
 St Joseph,6/19/2020,2020-06-19,11,St Joseph
 St Joseph,6/20/2020,2020-06-20,3,St Joseph
@@ -10078,13 +10240,15 @@ St Joseph,6/21/2020,2020-06-21,3,St Joseph
 St Joseph,6/22/2020,2020-06-22,11,St Joseph
 St Joseph,6/23/2020,2020-06-23,13,St Joseph
 St Joseph,6/24/2020,2020-06-24,14,St Joseph
-St Joseph,6/25/2020,2020-06-25,11,St Joseph
-St Joseph,6/26/2020,2020-06-26,8,St Joseph
-St Joseph,6/27/2020,2020-06-27,4,St Joseph
-St Joseph,6/28/2020,2020-06-28,1,St Joseph
-St Joseph,6/29/2020,2020-06-29,3,St Joseph
-St Joseph,6/30/2020,2020-06-30,3,St Joseph
-St Joseph,7/1/2020,2020-07-01,0,St Joseph
+St Joseph,6/25/2020,2020-06-25,12,St Joseph
+St Joseph,6/26/2020,2020-06-26,7,St Joseph
+St Joseph,6/27/2020,2020-06-27,6,St Joseph
+St Joseph,6/28/2020,2020-06-28,3,St Joseph
+St Joseph,6/29/2020,2020-06-29,4,St Joseph
+St Joseph,6/30/2020,2020-06-30,2,St Joseph
+St Joseph,7/1/2020,2020-07-01,1,St Joseph
+St Joseph,7/2/2020,2020-07-02,4,St Joseph
+St Joseph,7/3/2020,2020-07-03,0,St Joseph
 Tuscola,3/1/2020,2020-03-01,0,Tuscola
 Tuscola,3/2/2020,2020-03-02,0,Tuscola
 Tuscola,3/3/2020,2020-03-03,0,Tuscola
@@ -10207,7 +10371,9 @@ Tuscola,6/27/2020,2020-06-27,0,Tuscola
 Tuscola,6/28/2020,2020-06-28,0,Tuscola
 Tuscola,6/29/2020,2020-06-29,0,Tuscola
 Tuscola,6/30/2020,2020-06-30,0,Tuscola
-Tuscola,7/1/2020,2020-07-01,0,Tuscola
+Tuscola,7/1/2020,2020-07-01,1,Tuscola
+Tuscola,7/2/2020,2020-07-02,0,Tuscola
+Tuscola,7/3/2020,2020-07-03,0,Tuscola
 Unknown,3/1/2020,2020-03-01,0,Unknown
 Unknown,3/2/2020,2020-03-02,0,Unknown
 Unknown,3/3/2020,2020-03-03,0,Unknown
@@ -10318,7 +10484,7 @@ Unknown,6/15/2020,2020-06-15,0,Unknown
 Unknown,6/16/2020,2020-06-16,0,Unknown
 Unknown,6/17/2020,2020-06-17,0,Unknown
 Unknown,6/18/2020,2020-06-18,0,Unknown
-Unknown,6/19/2020,2020-06-19,0,Unknown
+Unknown,6/19/2020,2020-06-19,1,Unknown
 Unknown,6/20/2020,2020-06-20,0,Unknown
 Unknown,6/21/2020,2020-06-21,0,Unknown
 Unknown,6/22/2020,2020-06-22,0,Unknown
@@ -10326,11 +10492,13 @@ Unknown,6/23/2020,2020-06-23,1,Unknown
 Unknown,6/24/2020,2020-06-24,0,Unknown
 Unknown,6/25/2020,2020-06-25,0,Unknown
 Unknown,6/26/2020,2020-06-26,0,Unknown
-Unknown,6/27/2020,2020-06-27,1,Unknown
+Unknown,6/27/2020,2020-06-27,0,Unknown
 Unknown,6/28/2020,2020-06-28,0,Unknown
 Unknown,6/29/2020,2020-06-29,0,Unknown
 Unknown,6/30/2020,2020-06-30,0,Unknown
 Unknown,7/1/2020,2020-07-01,0,Unknown
+Unknown,7/2/2020,2020-07-02,0,Unknown
+Unknown,7/3/2020,2020-07-03,0,Unknown
 Van Buren,3/1/2020,2020-03-01,0,Van Buren
 Van Buren,3/2/2020,2020-03-02,0,Van Buren
 Van Buren,3/3/2020,2020-03-03,0,Van Buren
@@ -10441,19 +10609,21 @@ Van Buren,6/15/2020,2020-06-15,1,Van Buren
 Van Buren,6/16/2020,2020-06-16,1,Van Buren
 Van Buren,6/17/2020,2020-06-17,1,Van Buren
 Van Buren,6/18/2020,2020-06-18,0,Van Buren
-Van Buren,6/19/2020,2020-06-19,1,Van Buren
+Van Buren,6/19/2020,2020-06-19,2,Van Buren
 Van Buren,6/20/2020,2020-06-20,1,Van Buren
 Van Buren,6/21/2020,2020-06-21,2,Van Buren
-Van Buren,6/22/2020,2020-06-22,0,Van Buren
+Van Buren,6/22/2020,2020-06-22,1,Van Buren
 Van Buren,6/23/2020,2020-06-23,2,Van Buren
 Van Buren,6/24/2020,2020-06-24,1,Van Buren
-Van Buren,6/25/2020,2020-06-25,0,Van Buren
-Van Buren,6/26/2020,2020-06-26,5,Van Buren
-Van Buren,6/27/2020,2020-06-27,1,Van Buren
+Van Buren,6/25/2020,2020-06-25,1,Van Buren
+Van Buren,6/26/2020,2020-06-26,2,Van Buren
+Van Buren,6/27/2020,2020-06-27,2,Van Buren
 Van Buren,6/28/2020,2020-06-28,0,Van Buren
-Van Buren,6/29/2020,2020-06-29,0,Van Buren
+Van Buren,6/29/2020,2020-06-29,1,Van Buren
 Van Buren,6/30/2020,2020-06-30,0,Van Buren
 Van Buren,7/1/2020,2020-07-01,0,Van Buren
+Van Buren,7/2/2020,2020-07-02,0,Van Buren
+Van Buren,7/3/2020,2020-07-03,0,Van Buren
 Washtenaw,3/1/2020,2020-03-01,0,Washtenaw
 Washtenaw,3/2/2020,2020-03-02,0,Washtenaw
 Washtenaw,3/3/2020,2020-03-03,0,Washtenaw
@@ -10561,22 +10731,24 @@ Washtenaw,6/12/2020,2020-06-12,7,Washtenaw
 Washtenaw,6/13/2020,2020-06-13,4,Washtenaw
 Washtenaw,6/14/2020,2020-06-14,4,Washtenaw
 Washtenaw,6/15/2020,2020-06-15,12,Washtenaw
-Washtenaw,6/16/2020,2020-06-16,6,Washtenaw
+Washtenaw,6/16/2020,2020-06-16,8,Washtenaw
 Washtenaw,6/17/2020,2020-06-17,10,Washtenaw
-Washtenaw,6/18/2020,2020-06-18,1,Washtenaw
+Washtenaw,6/18/2020,2020-06-18,2,Washtenaw
 Washtenaw,6/19/2020,2020-06-19,3,Washtenaw
-Washtenaw,6/20/2020,2020-06-20,3,Washtenaw
+Washtenaw,6/20/2020,2020-06-20,4,Washtenaw
 Washtenaw,6/21/2020,2020-06-21,7,Washtenaw
-Washtenaw,6/22/2020,2020-06-22,15,Washtenaw
+Washtenaw,6/22/2020,2020-06-22,17,Washtenaw
 Washtenaw,6/23/2020,2020-06-23,11,Washtenaw
 Washtenaw,6/24/2020,2020-06-24,14,Washtenaw
-Washtenaw,6/25/2020,2020-06-25,5,Washtenaw
-Washtenaw,6/26/2020,2020-06-26,6,Washtenaw
-Washtenaw,6/27/2020,2020-06-27,13,Washtenaw
-Washtenaw,6/28/2020,2020-06-28,3,Washtenaw
-Washtenaw,6/29/2020,2020-06-29,6,Washtenaw
-Washtenaw,6/30/2020,2020-06-30,0,Washtenaw
-Washtenaw,7/1/2020,2020-07-01,0,Washtenaw
+Washtenaw,6/25/2020,2020-06-25,9,Washtenaw
+Washtenaw,6/26/2020,2020-06-26,8,Washtenaw
+Washtenaw,6/27/2020,2020-06-27,9,Washtenaw
+Washtenaw,6/28/2020,2020-06-28,10,Washtenaw
+Washtenaw,6/29/2020,2020-06-29,8,Washtenaw
+Washtenaw,6/30/2020,2020-06-30,6,Washtenaw
+Washtenaw,7/1/2020,2020-07-01,8,Washtenaw
+Washtenaw,7/2/2020,2020-07-02,1,Washtenaw
+Washtenaw,7/3/2020,2020-07-03,1,Washtenaw
 Wayne,3/1/2020,2020-03-01,4,Wayne
 Wayne,3/2/2020,2020-03-02,3,Wayne
 Wayne,3/3/2020,2020-03-03,0,Wayne
@@ -10594,7 +10766,7 @@ Wayne,3/14/2020,2020-03-14,71,Wayne
 Wayne,3/15/2020,2020-03-15,85,Wayne
 Wayne,3/16/2020,2020-03-16,134,Wayne
 Wayne,3/17/2020,2020-03-17,146,Wayne
-Wayne,3/18/2020,2020-03-18,173,Wayne
+Wayne,3/18/2020,2020-03-18,174,Wayne
 Wayne,3/19/2020,2020-03-19,163,Wayne
 Wayne,3/20/2020,2020-03-20,216,Wayne
 Wayne,3/21/2020,2020-03-21,155,Wayne
@@ -10634,72 +10806,74 @@ Wayne,4/23/2020,2020-04-23,160,Wayne
 Wayne,4/24/2020,2020-04-24,149,Wayne
 Wayne,4/25/2020,2020-04-25,72,Wayne
 Wayne,4/26/2020,2020-04-26,65,Wayne
-Wayne,4/27/2020,2020-04-27,166,Wayne
+Wayne,4/27/2020,2020-04-27,167,Wayne
 Wayne,4/28/2020,2020-04-28,108,Wayne
-Wayne,4/29/2020,2020-04-29,92,Wayne
-Wayne,4/30/2020,2020-04-30,100,Wayne
-Wayne,5/1/2020,2020-05-01,85,Wayne
+Wayne,4/29/2020,2020-04-29,91,Wayne
+Wayne,4/30/2020,2020-04-30,102,Wayne
+Wayne,5/1/2020,2020-05-01,86,Wayne
 Wayne,5/2/2020,2020-05-02,51,Wayne
-Wayne,5/3/2020,2020-05-03,46,Wayne
+Wayne,5/3/2020,2020-05-03,45,Wayne
 Wayne,5/4/2020,2020-05-04,84,Wayne
-Wayne,5/5/2020,2020-05-05,88,Wayne
+Wayne,5/5/2020,2020-05-05,87,Wayne
 Wayne,5/6/2020,2020-05-06,92,Wayne
 Wayne,5/7/2020,2020-05-07,67,Wayne
 Wayne,5/8/2020,2020-05-08,68,Wayne
 Wayne,5/9/2020,2020-05-09,36,Wayne
 Wayne,5/10/2020,2020-05-10,31,Wayne
-Wayne,5/11/2020,2020-05-11,60,Wayne
-Wayne,5/12/2020,2020-05-12,42,Wayne
-Wayne,5/13/2020,2020-05-13,63,Wayne
-Wayne,5/14/2020,2020-05-14,53,Wayne
-Wayne,5/15/2020,2020-05-15,71,Wayne
+Wayne,5/11/2020,2020-05-11,61,Wayne
+Wayne,5/12/2020,2020-05-12,43,Wayne
+Wayne,5/13/2020,2020-05-13,64,Wayne
+Wayne,5/14/2020,2020-05-14,51,Wayne
+Wayne,5/15/2020,2020-05-15,70,Wayne
 Wayne,5/16/2020,2020-05-16,33,Wayne
 Wayne,5/17/2020,2020-05-17,20,Wayne
-Wayne,5/18/2020,2020-05-18,33,Wayne
+Wayne,5/18/2020,2020-05-18,34,Wayne
 Wayne,5/19/2020,2020-05-19,41,Wayne
 Wayne,5/20/2020,2020-05-20,56,Wayne
-Wayne,5/21/2020,2020-05-21,32,Wayne
+Wayne,5/21/2020,2020-05-21,33,Wayne
 Wayne,5/22/2020,2020-05-22,37,Wayne
 Wayne,5/23/2020,2020-05-23,22,Wayne
 Wayne,5/24/2020,2020-05-24,10,Wayne
-Wayne,5/25/2020,2020-05-25,14,Wayne
-Wayne,5/26/2020,2020-05-26,42,Wayne
-Wayne,5/27/2020,2020-05-27,41,Wayne
+Wayne,5/25/2020,2020-05-25,13,Wayne
+Wayne,5/26/2020,2020-05-26,43,Wayne
+Wayne,5/27/2020,2020-05-27,40,Wayne
 Wayne,5/28/2020,2020-05-28,25,Wayne
 Wayne,5/29/2020,2020-05-29,33,Wayne
 Wayne,5/30/2020,2020-05-30,19,Wayne
 Wayne,5/31/2020,2020-05-31,12,Wayne
 Wayne,6/1/2020,2020-06-01,19,Wayne
-Wayne,6/2/2020,2020-06-02,28,Wayne
-Wayne,6/3/2020,2020-06-03,25,Wayne
+Wayne,6/2/2020,2020-06-02,27,Wayne
+Wayne,6/3/2020,2020-06-03,24,Wayne
 Wayne,6/4/2020,2020-06-04,28,Wayne
 Wayne,6/5/2020,2020-06-05,24,Wayne
 Wayne,6/6/2020,2020-06-06,18,Wayne
 Wayne,6/7/2020,2020-06-07,10,Wayne
 Wayne,6/8/2020,2020-06-08,35,Wayne
 Wayne,6/9/2020,2020-06-09,32,Wayne
-Wayne,6/10/2020,2020-06-10,32,Wayne
+Wayne,6/10/2020,2020-06-10,31,Wayne
 Wayne,6/11/2020,2020-06-11,36,Wayne
-Wayne,6/12/2020,2020-06-12,31,Wayne
+Wayne,6/12/2020,2020-06-12,32,Wayne
 Wayne,6/13/2020,2020-06-13,28,Wayne
 Wayne,6/14/2020,2020-06-14,16,Wayne
-Wayne,6/15/2020,2020-06-15,37,Wayne
-Wayne,6/16/2020,2020-06-16,26,Wayne
-Wayne,6/17/2020,2020-06-17,36,Wayne
-Wayne,6/18/2020,2020-06-18,28,Wayne
-Wayne,6/19/2020,2020-06-19,29,Wayne
+Wayne,6/15/2020,2020-06-15,38,Wayne
+Wayne,6/16/2020,2020-06-16,27,Wayne
+Wayne,6/17/2020,2020-06-17,40,Wayne
+Wayne,6/18/2020,2020-06-18,31,Wayne
+Wayne,6/19/2020,2020-06-19,30,Wayne
 Wayne,6/20/2020,2020-06-20,20,Wayne
-Wayne,6/21/2020,2020-06-21,26,Wayne
-Wayne,6/22/2020,2020-06-22,48,Wayne
+Wayne,6/21/2020,2020-06-21,27,Wayne
+Wayne,6/22/2020,2020-06-22,53,Wayne
 Wayne,6/23/2020,2020-06-23,62,Wayne
-Wayne,6/24/2020,2020-06-24,58,Wayne
-Wayne,6/25/2020,2020-06-25,42,Wayne
-Wayne,6/26/2020,2020-06-26,34,Wayne
-Wayne,6/27/2020,2020-06-27,15,Wayne
-Wayne,6/28/2020,2020-06-28,7,Wayne
-Wayne,6/29/2020,2020-06-29,22,Wayne
-Wayne,6/30/2020,2020-06-30,16,Wayne
-Wayne,7/1/2020,2020-07-01,1,Wayne
+Wayne,6/24/2020,2020-06-24,64,Wayne
+Wayne,6/25/2020,2020-06-25,47,Wayne
+Wayne,6/26/2020,2020-06-26,35,Wayne
+Wayne,6/27/2020,2020-06-27,21,Wayne
+Wayne,6/28/2020,2020-06-28,17,Wayne
+Wayne,6/29/2020,2020-06-29,34,Wayne
+Wayne,6/30/2020,2020-06-30,43,Wayne
+Wayne,7/1/2020,2020-07-01,20,Wayne
+Wayne,7/2/2020,2020-07-02,22,Wayne
+Wayne,7/3/2020,2020-07-03,4,Wayne
 Wexford,3/1/2020,2020-03-01,0,Wexford
 Wexford,3/2/2020,2020-03-02,0,Wexford
 Wexford,3/3/2020,2020-03-03,0,Wexford
@@ -10816,10 +10990,12 @@ Wexford,6/21/2020,2020-06-21,0,Wexford
 Wexford,6/22/2020,2020-06-22,2,Wexford
 Wexford,6/23/2020,2020-06-23,2,Wexford
 Wexford,6/24/2020,2020-06-24,1,Wexford
-Wexford,6/25/2020,2020-06-25,0,Wexford
+Wexford,6/25/2020,2020-06-25,1,Wexford
 Wexford,6/26/2020,2020-06-26,2,Wexford
 Wexford,6/27/2020,2020-06-27,1,Wexford
-Wexford,6/28/2020,2020-06-28,0,Wexford
+Wexford,6/28/2020,2020-06-28,1,Wexford
 Wexford,6/29/2020,2020-06-29,1,Wexford
 Wexford,6/30/2020,2020-06-30,0,Wexford
 Wexford,7/1/2020,2020-07-01,0,Wexford
+Wexford,7/2/2020,2020-07-02,0,Wexford
+Wexford,7/3/2020,2020-07-03,0,Wexford
