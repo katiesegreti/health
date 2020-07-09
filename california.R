@@ -10,6 +10,8 @@ california <- ca %>%
 
 str(california)
 
+sort(unique(california$county))
+
 california %>% filter(county == "Los Angeles") %>%
   ggplot(aes(x = test_date, y = new_positives)) +
   geom_col(fill = "magenta", width = 0.8) +
