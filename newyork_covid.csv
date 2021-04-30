@@ -423,6 +423,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Albany,29,24038,1268,663117
 04/27/2021,Albany,18,24056,1401,664518
 04/28/2021,Albany,46,24102,2234,666752
+04/29/2021,Albany,26,24128,2400,669152
 03/01/2020,Allegany,0,0,0,0
 03/02/2020,Allegany,0,0,0,0
 03/03/2020,Allegany,0,0,0,0
@@ -847,6 +848,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Allegany,7,3255,225,145805
 04/27/2021,Allegany,10,3265,282,146087
 04/28/2021,Allegany,8,3273,758,146845
+04/29/2021,Allegany,9,3282,351,147196
 03/01/2020,Bronx,0,0,0,0
 03/02/2020,Bronx,0,0,0,0
 03/03/2020,Bronx,0,0,1,1
@@ -1271,6 +1273,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Bronx,188,171581,7505,3304163
 04/27/2021,Bronx,184,171765,11390,3315553
 04/28/2021,Bronx,304,172069,17840,3333393
+04/29/2021,Bronx,280,172349,16553,3349946
 03/01/2020,Broome,0,0,0,0
 03/02/2020,Broome,0,0,0,0
 03/03/2020,Broome,0,0,0,0
@@ -1695,6 +1698,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Broome,34,17821,887,546224
 04/27/2021,Broome,44,17865,3204,549428
 04/28/2021,Broome,45,17910,3315,552743
+04/29/2021,Broome,36,17946,2817,555560
 03/01/2020,Cattaraugus,0,0,0,0
 03/02/2020,Cattaraugus,0,0,0,0
 03/03/2020,Cattaraugus,0,0,0,0
@@ -2119,6 +2123,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Cattaraugus,12,5293,209,143004
 04/27/2021,Cattaraugus,21,5314,1026,144030
 04/28/2021,Cattaraugus,25,5339,609,144639
+04/29/2021,Cattaraugus,35,5374,589,145228
 03/01/2020,Cayuga,0,0,0,0
 03/02/2020,Cayuga,0,0,0,0
 03/03/2020,Cayuga,0,0,0,0
@@ -2543,6 +2548,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Cayuga,6,5981,323,175597
 04/27/2021,Cayuga,20,6001,633,176230
 04/28/2021,Cayuga,13,6014,845,177075
+04/29/2021,Cayuga,20,6034,716,177791
 03/01/2020,Chautauqua,0,0,0,0
 03/02/2020,Chautauqua,0,0,0,0
 03/03/2020,Chautauqua,0,0,0,0
@@ -2967,6 +2973,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Chautauqua,9,8545,277,282707
 04/27/2021,Chautauqua,17,8562,561,283268
 04/28/2021,Chautauqua,27,8589,1323,284591
+04/29/2021,Chautauqua,30,8619,1029,285620
 03/01/2020,Chemung,0,0,0,0
 03/02/2020,Chemung,0,0,0,0
 03/03/2020,Chemung,0,0,0,0
@@ -3391,6 +3398,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Chemung,11,7307,326,212132
 04/27/2021,Chemung,5,7312,839,212971
 04/28/2021,Chemung,20,7332,970,213941
+04/29/2021,Chemung,10,7342,739,214680
 03/01/2020,Chenango,0,0,0,0
 03/02/2020,Chenango,0,0,0,0
 03/03/2020,Chenango,0,0,0,0
@@ -3815,6 +3823,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Chenango,10,3229,139,105165
 04/27/2021,Chenango,9,3238,377,105542
 04/28/2021,Chenango,18,3256,645,106187
+04/29/2021,Chenango,12,3268,535,106722
 03/01/2020,Clinton,0,0,0,0
 03/02/2020,Clinton,0,0,0,0
 03/03/2020,Clinton,0,0,0,0
@@ -4239,6 +4248,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Clinton,8,4662,510,189661
 04/27/2021,Clinton,4,4666,386,190047
 04/28/2021,Clinton,9,4675,453,190500
+04/29/2021,Clinton,8,4683,887,191387
 03/01/2020,Columbia,0,0,0,0
 03/02/2020,Columbia,0,0,0,0
 03/03/2020,Columbia,0,0,0,0
@@ -4663,6 +4673,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Columbia,8,3875,243,125748
 04/27/2021,Columbia,6,3881,314,126062
 04/28/2021,Columbia,1,3882,676,126738
+04/29/2021,Columbia,7,3889,449,127187
 03/01/2020,Cortland,0,0,0,0
 03/02/2020,Cortland,0,0,0,0
 03/03/2020,Cortland,0,0,0,0
@@ -5087,6 +5098,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Cortland,2,3603,104,161551
 04/27/2021,Cortland,10,3613,439,161990
 04/28/2021,Cortland,6,3619,543,162533
+04/29/2021,Cortland,3,3622,747,163280
 03/01/2020,Delaware,0,0,0,0
 03/02/2020,Delaware,0,0,0,0
 03/03/2020,Delaware,0,0,0,0
@@ -5511,6 +5523,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Delaware,1,2238,85,93635
 04/27/2021,Delaware,5,2243,230,93865
 04/28/2021,Delaware,6,2249,451,94316
+04/29/2021,Delaware,9,2258,679,94995
 03/01/2020,Dutchess,0,0,0,0
 03/02/2020,Dutchess,0,0,0,0
 03/03/2020,Dutchess,0,0,0,0
@@ -5935,6 +5948,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Dutchess,39,28480,1687,689733
 04/27/2021,Dutchess,53,28533,2506,692239
 04/28/2021,Dutchess,54,28587,3101,695340
+04/29/2021,Dutchess,53,28640,2660,698000
 03/01/2020,Erie,0,0,0,0
 03/02/2020,Erie,0,0,0,0
 03/03/2020,Erie,0,0,0,0
@@ -6359,6 +6373,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Erie,233,85314,3666,2081013
 04/27/2021,Erie,223,85537,6558,2087571
 04/28/2021,Erie,342,85879,8739,2096310
+04/29/2021,Erie,288,86167,8670,2104980
 03/01/2020,Essex,0,0,0,0
 03/02/2020,Essex,0,0,0,0
 03/03/2020,Essex,0,0,0,0
@@ -6783,6 +6798,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Essex,7,1522,245,70636
 04/27/2021,Essex,2,1524,210,70846
 04/28/2021,Essex,8,1532,216,71062
+04/29/2021,Essex,2,1534,317,71379
 03/01/2020,Franklin,0,0,0,0
 03/02/2020,Franklin,0,0,0,0
 03/03/2020,Franklin,0,0,0,0
@@ -7207,6 +7223,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Franklin,3,2446,127,84580
 04/27/2021,Franklin,2,2448,178,84758
 04/28/2021,Franklin,11,2459,472,85230
+04/29/2021,Franklin,12,2471,452,85682
 03/01/2020,Fulton,0,0,0,0
 03/02/2020,Fulton,0,0,0,0
 03/03/2020,Fulton,0,0,0,0
@@ -7631,6 +7648,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Fulton,5,4182,191,98377
 04/27/2021,Fulton,6,4188,484,98861
 04/28/2021,Fulton,12,4200,471,99332
+04/29/2021,Fulton,8,4208,486,99818
 03/01/2020,Genesee,0,0,0,0
 03/02/2020,Genesee,0,0,0,0
 03/03/2020,Genesee,0,0,0,0
@@ -8055,6 +8073,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Genesee,10,5166,594,127789
 04/27/2021,Genesee,9,5175,301,128090
 04/28/2021,Genesee,19,5194,633,128723
+04/29/2021,Genesee,6,5200,464,129187
 03/01/2020,Greene,0,0,0,0
 03/02/2020,Greene,0,0,0,0
 03/03/2020,Greene,0,0,0,0
@@ -8479,6 +8498,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Greene,2,3207,232,80869
 04/27/2021,Greene,10,3217,378,81247
 04/28/2021,Greene,14,3231,389,81636
+04/29/2021,Greene,7,3238,276,81912
 03/01/2020,Hamilton,0,0,0,0
 03/02/2020,Hamilton,0,0,0,0
 03/03/2020,Hamilton,0,0,0,0
@@ -8903,6 +8923,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Hamilton,0,303,17,9186
 04/27/2021,Hamilton,0,303,22,9208
 04/28/2021,Hamilton,0,303,25,9233
+04/29/2021,Hamilton,0,303,36,9269
 03/01/2020,Herkimer,0,0,0,0
 03/02/2020,Herkimer,0,0,0,0
 03/03/2020,Herkimer,0,0,0,0
@@ -9327,6 +9348,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Herkimer,2,4967,234,144951
 04/27/2021,Herkimer,6,4973,350,145301
 04/28/2021,Herkimer,4,4977,878,146179
+04/29/2021,Herkimer,10,4987,523,146702
 03/01/2020,Jefferson,0,0,0,0
 03/02/2020,Jefferson,0,0,0,0
 03/03/2020,Jefferson,0,0,0,0
@@ -9751,6 +9773,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Jefferson,12,5561,362,151669
 04/27/2021,Jefferson,12,5573,519,152188
 04/28/2021,Jefferson,33,5606,1042,153230
+04/29/2021,Jefferson,29,5635,872,154102
 03/01/2020,Kings,0,0,0,0
 03/02/2020,Kings,0,0,0,0
 03/03/2020,Kings,0,0,2,2
@@ -10175,6 +10198,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Kings,425,266521,12305,6195991
 04/27/2021,Kings,466,266987,26832,6222823
 04/28/2021,Kings,535,267522,27431,6250254
+04/29/2021,Kings,554,268076,25104,6275358
 03/01/2020,Lewis,0,0,0,0
 03/02/2020,Lewis,0,0,0,0
 03/03/2020,Lewis,0,0,0,0
@@ -10599,6 +10623,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Lewis,11,2518,59,46415
 04/27/2021,Lewis,7,2525,252,46667
 04/28/2021,Lewis,15,2540,194,46861
+04/29/2021,Lewis,5,2545,181,47042
 03/01/2020,Livingston,0,0,0,0
 03/02/2020,Livingston,0,0,0,0
 03/03/2020,Livingston,0,0,0,0
@@ -11023,6 +11048,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Livingston,4,4118,316,151528
 04/27/2021,Livingston,13,4131,356,151884
 04/28/2021,Livingston,23,4154,442,152326
+04/29/2021,Livingston,18,4172,516,152842
 03/01/2020,Madison,0,0,0,0
 03/02/2020,Madison,0,0,0,0
 03/03/2020,Madison,0,0,0,0
@@ -11447,6 +11473,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Madison,3,4359,588,185252
 04/27/2021,Madison,5,4364,764,186016
 04/28/2021,Madison,8,4372,925,186941
+04/29/2021,Madison,6,4378,1107,188048
 03/01/2020,Monroe,0,0,0,0
 03/02/2020,Monroe,0,0,0,0
 03/03/2020,Monroe,0,0,0,0
@@ -11871,6 +11898,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Monroe,141,63052,4142,1805026
 04/27/2021,Monroe,201,63253,7863,1812889
 04/28/2021,Monroe,310,63563,8540,1821429
+04/29/2021,Monroe,220,63783,8078,1829507
 03/01/2020,Montgomery,0,0,0,0
 03/02/2020,Montgomery,0,0,0,0
 03/03/2020,Montgomery,0,0,0,0
@@ -12295,6 +12323,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Montgomery,12,4030,184,99119
 04/27/2021,Montgomery,9,4039,376,99495
 04/28/2021,Montgomery,9,4048,467,99962
+04/29/2021,Montgomery,19,4067,627,100589
 03/01/2020,Nassau,0,0,0,0
 03/02/2020,Nassau,0,0,0,0
 03/03/2020,Nassau,0,0,0,0
@@ -12719,6 +12748,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Nassau,152,179724,6034,3704914
 04/27/2021,Nassau,171,179895,9722,3714636
 04/28/2021,Nassau,249,180144,14014,3728650
+04/29/2021,Nassau,229,180373,12882,3741532
 03/01/2020,New York,0,0,0,0
 03/02/2020,New York,0,0,0,0
 03/03/2020,New York,0,0,3,3
@@ -13143,6 +13173,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,New York,160,134360,7483,5139111
 04/27/2021,New York,181,134541,14492,5153603
 04/28/2021,New York,210,134751,22826,5176429
+04/29/2021,New York,205,134956,22907,5199336
 03/01/2020,Niagara,0,0,0,0
 03/02/2020,Niagara,0,0,0,0
 03/03/2020,Niagara,0,0,0,0
@@ -13567,6 +13598,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Niagara,54,18870,976,424833
 04/27/2021,Niagara,56,18926,1527,426360
 04/28/2021,Niagara,69,18995,1632,427992
+04/29/2021,Niagara,83,19078,1842,429834
 03/01/2020,Oneida,0,0,0,0
 03/02/2020,Oneida,0,0,0,0
 03/03/2020,Oneida,0,0,0,0
@@ -13991,6 +14023,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Oneida,24,21725,1242,743767
 04/27/2021,Oneida,33,21758,3742,747509
 04/28/2021,Oneida,56,21814,3686,751195
+04/29/2021,Oneida,36,21850,3435,754630
 03/01/2020,Onondaga,0,0,0,0
 03/02/2020,Onondaga,0,0,0,0
 03/03/2020,Onondaga,0,0,0,0
@@ -14415,6 +14448,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Onondaga,71,36760,2999,1395167
 04/27/2021,Onondaga,93,36853,6619,1401786
 04/28/2021,Onondaga,129,36982,8005,1409791
+04/29/2021,Onondaga,143,37125,7918,1417709
 03/01/2020,Ontario,0,0,0,0
 03/02/2020,Ontario,0,0,0,0
 03/03/2020,Ontario,0,0,0,0
@@ -14839,6 +14873,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Ontario,14,7043,507,224146
 04/27/2021,Ontario,20,7063,460,224606
 04/28/2021,Ontario,25,7088,1083,225689
+04/29/2021,Ontario,23,7111,1092,226781
 03/01/2020,Orange,0,0,0,0
 03/02/2020,Orange,0,0,0,0
 03/03/2020,Orange,0,0,0,0
@@ -15263,6 +15298,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Orange,52,46944,1441,726220
 04/27/2021,Orange,94,47038,2836,729056
 04/28/2021,Orange,83,47121,3216,732272
+04/29/2021,Orange,77,47198,3084,735356
 03/01/2020,Orleans,0,0,0,0
 03/02/2020,Orleans,0,0,0,0
 03/03/2020,Orleans,0,0,0,0
@@ -15687,6 +15723,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Orleans,10,2879,180,68463
 04/27/2021,Orleans,10,2889,215,68678
 04/28/2021,Orleans,21,2910,379,69057
+04/29/2021,Orleans,13,2923,359,69416
 03/01/2020,Oswego,0,0,0,0
 03/02/2020,Oswego,0,0,0,0
 03/03/2020,Oswego,0,0,0,0
@@ -16111,6 +16148,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Oswego,14,7125,677,248024
 04/27/2021,Oswego,30,7155,580,248604
 04/28/2021,Oswego,26,7181,1128,249732
+04/29/2021,Oswego,21,7202,1127,250859
 03/01/2020,Otsego,0,0,0,0
 03/02/2020,Otsego,0,0,0,0
 03/03/2020,Otsego,0,0,0,0
@@ -16535,6 +16573,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Otsego,7,3279,257,151192
 04/27/2021,Otsego,7,3286,344,151536
 04/28/2021,Otsego,10,3296,693,152229
+04/29/2021,Otsego,10,3306,1110,153339
 03/01/2020,Putnam,0,0,0,0
 03/02/2020,Putnam,0,0,0,0
 03/03/2020,Putnam,0,0,0,0
@@ -16959,6 +16998,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Putnam,5,10379,382,212499
 04/27/2021,Putnam,10,10389,620,213119
 04/28/2021,Putnam,15,10404,768,213887
+04/29/2021,Putnam,12,10416,768,214655
 03/01/2020,Queens,0,0,0,0
 03/02/2020,Queens,0,0,0,0
 03/03/2020,Queens,0,0,2,2
@@ -17383,6 +17423,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Queens,321,264323,11400,5524862
 04/27/2021,Queens,363,264686,17628,5542490
 04/28/2021,Queens,419,265105,26180,5568670
+04/29/2021,Queens,470,265575,26053,5594723
 03/01/2020,Rensselaer,0,0,0,0
 03/02/2020,Rensselaer,0,0,0,0
 03/03/2020,Rensselaer,0,0,0,0
@@ -17807,6 +17848,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Rensselaer,11,10857,602,428225
 04/27/2021,Rensselaer,10,10867,671,428896
 04/28/2021,Rensselaer,23,10890,1386,430282
+04/29/2021,Rensselaer,22,10912,2624,432906
 03/01/2020,Richmond,0,0,0,0
 03/02/2020,Richmond,0,0,0,0
 03/03/2020,Richmond,0,0,0,0
@@ -18231,6 +18273,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Richmond,97,72013,3155,1457626
 04/27/2021,Richmond,103,72116,5201,1462827
 04/28/2021,Richmond,137,72253,7598,1470425
+04/29/2021,Richmond,127,72380,7087,1477512
 03/01/2020,Rockland,0,0,0,0
 03/02/2020,Rockland,0,0,0,0
 03/03/2020,Rockland,0,0,0,0
@@ -18655,6 +18698,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Rockland,36,46149,1513,770309
 04/27/2021,Rockland,32,46181,2931,773240
 04/28/2021,Rockland,50,46231,2507,775747
+04/29/2021,Rockland,37,46268,2426,778173
 03/01/2020,Saratoga,0,0,0,0
 03/02/2020,Saratoga,0,0,0,0
 03/03/2020,Saratoga,0,0,0,0
@@ -19079,6 +19123,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Saratoga,23,14680,872,452435
 04/27/2021,Saratoga,24,14704,947,453382
 04/28/2021,Saratoga,31,14735,2042,455424
+04/29/2021,Saratoga,25,14760,2386,457810
 03/01/2020,Schenectady,0,0,0,0
 03/02/2020,Schenectady,0,0,0,0
 03/03/2020,Schenectady,0,0,0,0
@@ -19503,6 +19548,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Schenectady,24,12622,620,376871
 04/27/2021,Schenectady,24,12646,1121,377992
 04/28/2021,Schenectady,24,12670,1378,379370
+04/29/2021,Schenectady,18,12688,2118,381488
 03/01/2020,Schoharie,0,0,0,0
 03/02/2020,Schoharie,0,0,0,0
 03/03/2020,Schoharie,0,0,0,0
@@ -19927,6 +19973,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Schoharie,0,1585,58,55446
 04/27/2021,Schoharie,3,1588,286,55732
 04/28/2021,Schoharie,3,1591,143,55875
+04/29/2021,Schoharie,9,1600,302,56177
 03/01/2020,Schuyler,0,0,0,0
 03/02/2020,Schuyler,0,0,0,0
 03/03/2020,Schuyler,0,0,0,0
@@ -20351,6 +20398,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Schuyler,0,1006,37,39869
 04/27/2021,Schuyler,2,1008,219,40088
 04/28/2021,Schuyler,5,1013,182,40270
+04/29/2021,Schuyler,1,1014,169,40439
 03/01/2020,Seneca,0,0,0,0
 03/02/2020,Seneca,0,0,0,0
 03/03/2020,Seneca,0,0,0,0
@@ -20775,6 +20823,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Seneca,8,1914,235,59930
 04/27/2021,Seneca,7,1921,177,60107
 04/28/2021,Seneca,8,1929,230,60337
+04/29/2021,Seneca,2,1931,298,60635
 03/01/2020,St. Lawrence,0,0,0,0
 03/02/2020,St. Lawrence,0,0,0,0
 03/03/2020,St. Lawrence,0,0,0,0
@@ -21199,6 +21248,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,St. Lawrence,2,6306,455,303470
 04/27/2021,St. Lawrence,15,6321,632,304102
 04/28/2021,St. Lawrence,16,6337,1239,305341
+04/29/2021,St. Lawrence,15,6352,1886,307227
 03/01/2020,Steuben,0,0,0,0
 03/02/2020,Steuben,0,0,0,0
 03/03/2020,Steuben,0,0,0,0
@@ -21623,6 +21673,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Steuben,13,6471,324,198141
 04/27/2021,Steuben,22,6493,643,198784
 04/28/2021,Steuben,25,6518,894,199678
+04/29/2021,Steuben,11,6529,804,200482
 03/01/2020,Suffolk,0,0,0,0
 03/02/2020,Suffolk,0,0,0,0
 03/03/2020,Suffolk,0,0,0,0
@@ -22047,6 +22098,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Suffolk,204,196305,7682,3780915
 04/27/2021,Suffolk,230,196535,10449,3791364
 04/28/2021,Suffolk,271,196806,15628,3806992
+04/29/2021,Suffolk,289,197095,14614,3821606
 03/01/2020,Sullivan,0,0,0,0
 03/02/2020,Sullivan,0,0,0,0
 03/03/2020,Sullivan,0,0,0,0
@@ -22471,6 +22523,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Sullivan,15,6347,213,119502
 04/27/2021,Sullivan,19,6366,371,119873
 04/28/2021,Sullivan,8,6374,669,120542
+04/29/2021,Sullivan,12,6386,640,121182
 03/01/2020,Tioga,0,0,0,0
 03/02/2020,Tioga,0,0,0,0
 03/03/2020,Tioga,0,0,0,0
@@ -22895,6 +22948,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Tioga,1,3527,163,97971
 04/27/2021,Tioga,10,3537,675,98646
 04/28/2021,Tioga,17,3554,553,99199
+04/29/2021,Tioga,13,3567,408,99607
 03/01/2020,Tompkins,0,0,0,0
 03/02/2020,Tompkins,0,0,0,0
 03/03/2020,Tompkins,0,0,0,0
@@ -23319,6 +23373,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Tompkins,1,4116,9775,2132017
 04/27/2021,Tompkins,7,4123,10822,2142839
 04/28/2021,Tompkins,12,4135,9295,2152134
+04/29/2021,Tompkins,5,4140,9336,2161470
 03/01/2020,Ulster,0,0,0,0
 03/02/2020,Ulster,0,0,0,0
 03/03/2020,Ulster,0,0,0,0
@@ -23743,6 +23798,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Ulster,28,13387,896,395414
 04/27/2021,Ulster,25,13412,1523,396937
 04/28/2021,Ulster,34,13446,1435,398372
+04/29/2021,Ulster,34,13480,1511,399883
 03/01/2020,Warren,0,0,0,0
 03/02/2020,Warren,0,0,0,0
 03/03/2020,Warren,0,0,0,0
@@ -24167,6 +24223,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Warren,10,3468,360,133411
 04/27/2021,Warren,4,3472,212,133623
 04/28/2021,Warren,4,3476,631,134254
+04/29/2021,Warren,6,3482,409,134663
 03/01/2020,Washington,0,0,0,0
 03/02/2020,Washington,0,0,0,0
 03/03/2020,Washington,0,0,0,0
@@ -24591,6 +24648,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Washington,3,2927,327,115663
 04/27/2021,Washington,6,2933,314,115977
 04/28/2021,Washington,13,2946,798,116775
+04/29/2021,Washington,16,2962,540,117315
 03/01/2020,Wayne,0,0,0,0
 03/02/2020,Wayne,0,0,0,0
 03/03/2020,Wayne,0,0,0,0
@@ -25015,6 +25073,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Wayne,10,5397,384,167962
 04/27/2021,Wayne,14,5411,572,168534
 04/28/2021,Wayne,11,5422,659,169193
+04/29/2021,Wayne,20,5442,939,170132
 03/01/2020,Westchester,0,0,0,0
 03/02/2020,Westchester,1,1,1,1
 03/03/2020,Westchester,0,1,1,2
@@ -25439,6 +25498,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Westchester,94,127273,4966,2657439
 04/27/2021,Westchester,120,127393,7514,2664953
 04/28/2021,Westchester,128,127521,9996,2674949
+04/29/2021,Westchester,143,127664,9514,2684463
 03/01/2020,Wyoming,0,0,0,0
 03/02/2020,Wyoming,0,0,0,0
 03/03/2020,Wyoming,0,0,0,0
@@ -25863,6 +25923,7 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Wyoming,5,3344,216,74579
 04/27/2021,Wyoming,19,3363,326,74905
 04/28/2021,Wyoming,14,3377,389,75294
+04/29/2021,Wyoming,16,3393,346,75640
 03/01/2020,Yates,0,0,0,0
 03/02/2020,Yates,0,0,0,0
 03/03/2020,Yates,0,0,0,0
@@ -26287,3 +26348,4 @@ Test Date,County,New Positives,Cumulative Number of Positives,Total Number of Te
 04/26/2021,Yates,1,1128,194,40688
 04/27/2021,Yates,5,1133,105,40793
 04/28/2021,Yates,2,1135,179,40972
+04/29/2021,Yates,3,1138,280,41252
